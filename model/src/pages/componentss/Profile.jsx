@@ -3,6 +3,7 @@ import { GETDATAS } from '../../Api'
 import { useSelector } from 'react-redux'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
+
 const MAIN=styled.div`
   width: 100%;
   min-height: 100vh;
@@ -36,6 +37,9 @@ const Profile = () => {
 
   },[])
   return (
+    <div style={{width:"100%",height:"1000px"}}>
+
+    
     <MAIN>
           <SEC>
       
@@ -46,9 +50,11 @@ const Profile = () => {
       <h1>{state?.Age} <Link to={'/age'}> <button style={{backgroundColor:"lightgreen"}}>edit</button></Link>  </h1>  
      <Link to={'/password'}> <button style={{backgroundColor:"lightgreen"}}>CHANGE PASSWORD</button></Link>
           </SEC>
+          
 
     </MAIN>
-
+  
+</div>
   )
 }
 

@@ -15,8 +15,7 @@ const NAV=styled.div`
     width: 100%;
     height: 50px;
     background: #2986db;
-    padding-left: 590px;
-    margin-top: -21px;
+    font-size: 40px;
 
 `
 const CONT=styled.div`
@@ -42,7 +41,7 @@ const Loginpage = () => {
     <div>
 
   <NAV>
-    <h1  style={{paddingTop:"11px",fontFamily:"math"}}>KERALA TOURISM</h1>
+  <marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >WELCOME TO  KERALA TOURISM WEBSITE</marquee>
   </NAV>
       
     <MAIN>

@@ -15,7 +15,7 @@ const storage1 = multer.diskStorage({
 
 const router=require('express').Router()
 router.post('/postdata',POST)
-router.get('/getdata/:id',verify, GET)
+router.get('/getdata/:id', GET)
 router.put('/update/:id',UPDATE)
 router.delete('/delete/:id',DELETE)
 router.post('/otp',Otp)
