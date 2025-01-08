@@ -38,42 +38,50 @@ const Periyar = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fidukki-wildlife-sanctuary-1724134277_59433e0027c02c279227.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Periyar National Park</h1>
+        <p>Periyar National Park and Wildlife Sanctuary (PNP) is a protected area located in the districts of Idukki and Pathanamthitta in Kerala, India. It is a renowned elephant and tiger reserve. The protected area encompasses 925 km2 (357 sq mi), of which 305 km2 (118 sq mi) of the main zone was declared as the Periyar National Park in 1982. The park is a repository of rare, endemic, and endangered flora and fauna and forms the major watershed of two important rivers of Kerala: the Periyar and the Pamba.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The park is located high in the Cardamom Hills and Pandalam Hills of the south Western Ghats along the border with Tamil Nadu. It is 4 km (2.5 mi) from Kumily, Thekkady, 86 km (53 mi) south east of Thodupuzha, 103 km (64 mi) east of Kottayam, 110 km (68 mi) west of Madurai and 147 km (91 mi) southeast of Kochi</p>
+      
+      <h3 style={{backgroundColor:"lightgreen"}}>History</h3>
+      <p>The first official action towards the conservation of wildlife and biodiversity in Kerala was taken in 1934 by the Maharaja of Travancore, Chithira Thirunal Balarama Varma, by declaring the forests around Periyar lake as a private reserve to stop the encroachment of tea plantations. It was founded as Nellikkampatty Reserve. It was consolidated as a wildlife sanctuary in 1950 after the political integration of India. The sanctuary was included in Project Tiger, a Central Government initiative, and was renamed the Periyar Tiger Reserve in 1978.</p>
+   <h3 style={{backgroundColor:"lightgreen"}}>Geography</h3>
+   <p>Periyar National Park lies in the middle of a mountainous area of the Cardamom Hills. In the north, the boundary commences from the point nearest to the Medaganam in the interstate boundary up to Vellimalai. To the east the boundary follows the inter-state boundary from Vellimalai to Kallimalai Peak[3] (1615 m) it is bounded by mountain ridges of over 1,700 m (5,600 ft) altitude. Toward the west it expands into a 1,200 m (3,900 ft) high plateau. From this level the altitude drops steeply to the deepest point of the reserve, the 100 metre valley of the Pamba River. The highest peak in the park is the 2,019 m (6,624 ft) high Kottamala, the southernmost peak in India higher than 2,000 metres (6,562 ft). The Periyar and Pamba Rivers originate in the forests of the reserve, both in Mlappara.[4] The other prominent peaks within the park are Pachayarmala, Vellimala, Sunderamala, Chokkampetti mala and Karimala.[5] The topography consists of steep and rolling hills which are thickly wooded.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+The sanctuary surrounds Periyar Lake, a reservoir measuring 31 km2 (12 sq mi),[6] which was formed when the Mullaperiyar Dam was erected in 1895. The reservoir and the Periyar River meander around the contours of the wooded hills, providing a permanent source of water for the local wildlife.</p>
+   <h4 style={{backgroundColor:"lightgreen"}}>Climate</h4>
+   <p>The temperature varies depending upon the altitude, ranging between 15 °C in December and January and 31 °C in April and May. Annual precipitation is between 2000 and 3000 mm, with about two-thirds occurring during the southwest monsoon between June and September. Much of the rest occurs during the northeast monsoon between October and December. Summers are warm with some precipitation in April and winters are cold.</p>
+   <h4 style={{backgroundColor:"lightgreen"}}>Boundaries</h4>
+   <p>North: The boundary commences from the point nearest to the Medaganam in the interstate boundary up to Vellimalai.
+East: Thence the boundary follows the inter-state boundary from Vellimalai to Kallimalai Peak (1615 m).
+South: Thence the boundary follows along the main ridge to Chokkampettymalai Peak (1805 m). Thence along the main ridge to Udumalai (1594 m) (the same boundary which divides Ranni Forest Division and existing Periyar Tiger Reserve).
+West: Thence the boundary proceeds due north along the main ridge dividing Periyar Tiger Reserve and Ranni Forest Division to Manikamalai and thence along the ridge to Sundaramalai 1813 m from Sundaramalai the boundary runs along the main ridge to Mangaladevi top 1737 m, and thence to Pachimalai top 1805 m from Puchimala top the boundary follows the Nallah in itself bank, Nallah coming from Mannarkavala and then proceed along Cherakottai river until it joins the Periyar lake between Pandaravara-malai and Poupara</p>
+   <h4 style={{backgroundColor:"lightgreen"}}>Mammals</h4>
+   <p>35 species of mammals have been recorded in the park, including many threatened species. It is an important tiger and elephant reserve. A total of 40 Bengal tigers were counted across 925 square kilometers of the park in 2017.[9] It is valuable for the Asian elephant, and a few white tigers are also found here. Other mammals include the gaur, sambar, wild pig, Indian giant squirrel, Travancore flying squirrel, jungle cat, Dhole, sloth bear, Nilgiri tahr, lion-tailed macaque, Nilgiri langur, Salim Ali's fruit bat, stripe-necked mongoose, and Nilgiri marten</p>
+    <h4 style={{backgroundColor:"lightgreen"}}>Birds</h4>
+    <p>About 266 species of birds can be seen in the park, including migrants. Endemic birds include the Malabar grey hornbill, Nilgiri wood pigeon, blue-winged parakeet, Nilgiri flycatcher, crimson-backed sunbird, white-bellied redstart, and black-necked stork.[11]
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+A four-day survey conducted on 1–4 December 2016, organised under the aegis of the Periyar Tiger Reserve (PTR), found the presence of 13 new bird and 16 butterfly species that were undetected earlier. The newly found bird species included Eurasian woodcock (Scolopax rusticola), steppe gull (Larus fuscus barbensis), grey-necked bunting (Emberiza bruniceps) and paddyfield warbler (Acrocephalus agricola)</p>
+    <p>
+        <h4 style={{backgroundColor:"lightgreen"}}>Reptiles</h4>
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+Bicolored frog (Malabar frog) Clinotarsus curtipes
+There are 45 species of reptiles - 30 snakes, 13 lizards, and two turtles. Snakes include the king cobra, Malabar pit viper, and striped coral snake.
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+<h4 style={{backgroundColor:"lightgreen"}}>Amphibians </h4>
+Amphibians in the park include caecilians, frogs, and toads. Species include the Malabar gliding frog, Asian toad, fungoid frog, and bicolored frog.[13]
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+<h4 style={{backgroundColor:"lightgreen"}}>Fish </h4>
+About 40 species of fish are found in the local lakes and rivers. These include the Periyar trout, Periyar latia, Periyar barb, channa barb, and Travancore loach.[14]
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+ <h4 style={{backgroundColor:"lightgreen"}}>Insects</h4>
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+Mycalesis patnia junonia in Periyar National Park
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+Hemicordulia asiatica in Periyar National Park
+There are about 160 butterfly taxa, including South India's largest butterfly, the southern birdwing; lime butterfly; Malabar tree nymph; Indian awlking; Evershed's ace, which is endemic to the South Western Ghats; southern spotted ace, which is also endemic to the southern parts of the western ghats, but is more common and with a greater range than T. evershedi; Madras ace; the highly threatened Travancore evening brown, which can only be found in cane brakes; various kinds of uncommon Mycalesis species (the bushbrowns), some of which are endemic to the Western Ghats; and many kinds of moths, such as the Southern Atlas moth.[15] A survey jointly conducted by the Periyar Tiger Conservation Foundation, Indian Dragonfly Society and the Forest and Wildlife Department in October 2017 found 77 species of odonata, including the Asian emerald (Hemicordulia asiatica).[16][17] A survey jointly conducted by the same team in September 2018 found eight more new species.</p>
 
 
 
@@ -82,11 +90,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 117 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Kottayam Railway Station, about 86 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Kattappana KSRTC Bus Stand, about 33 km away.</p> </div>
    </div>
 
 
@@ -99,20 +107,20 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={"200px"} height={"200px"} src="https://ihplb.b-cdn.net/wp-content/uploads/2017/04/Periyar-Wildlife-Sanctuary.jpg" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1QJmvDWWJNaO97D157eGkloI54pTuBhQxQ&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2acRmgR6krpqtTBQ7qwJRRqVc7CvupnRgw&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp529DhdxTbaT49YNp2wY6pIGVu4wnphGh7A&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://somatheeram-c3c5.kxcdn.com/wp-content/uploads/2019/03/Somatheeram-Kerala-roundtrip-Wildlife-min.jpg" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4T66dwNsusRFTjo5tW-y4fvaaLNA66jX-JA&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmbC1PoDcoCEwEBN0HLPk0IPuFCNzYTDTXw&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://media.istockphoto.com/id/1311846127/photo/elephant-family-in-wild-nature-walking-near-the-forest.jpg?s=612x612&w=0&k=20&c=5nFgfY0PIBcQhqXf3DLUJBMS8zVN6AKBFUHJoAIjQWk=" alt="" />
+<img width={"200px"} height={"200px"}  src="https://www.tripsavvy.com/thmb/koQxKTRhH19EElKs8seqn1H_ilI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-172881080-241fac55f98040a58a4866b482715169.jpg" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBPLBEx1NkWaHrd8MW6pMcNnlIeNFhUoDdA&s" alt="" />
+<img width={"200px"} height={"200px"}  src="https://i.ytimg.com/vi/MHL9ouupjV4/maxresdefault.jpg" alt="" />
+<img width={"200px"} height={"200px"}  src="https://springdaleheritage.in/assets/img/periyar-national-park.jpg" alt="" />
+<img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgnc3St_0sw46O8sk4THPmtWP9GMWx8PE-PQ&s" alt="" />
+  <img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRt4dpPPfEMWAGcQwGAujWLEnJun2wcj7Bw&s" alt="" />
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +141,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Laurel Heights Resort Idukki</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b7/69/5b/caption.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="http://www.laurelheightsidukki.com/">click to view</a>
 </div>
 
 
-   <div>
-<h3>Hill View Homestay</h3>
+<div><h3>Arabian Holiday Resort </h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/462722585.jpg?k=9e3a5e8b8fc55eaa62d1909e8d872748168562e9e3ce4698df7a277e2a9a2e26&o=&hp=1" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.arabianholidayresort.com/book-now/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   
+The Highlander</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/523942660.jpg?k=551a9cb1e7765ae4ab10034198e55c35d853bbd14ad59580659c8393334a04db&o=&hp=1" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="http://www.laurelheightsidukki.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Kananam Retreat</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnG6uSCKCONF__PbORkmYDsNJ79RPfvLnBVQ&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://kananam.com/">click to view</a>
 </div>
 
 </IMGG>

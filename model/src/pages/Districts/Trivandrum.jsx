@@ -14,9 +14,8 @@ height: 1400px;
 const Trivandrum = () => {
   return (
     <div>
-      <div>
-<img width={"100%"} height={"600px"} src="https://tds.indianeagle.com/wp-content/uploads/2022/07/Places-to-Visit-in-Thiruvananthapuram.png" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/f1l62b4bj3w?si=ZZCJIeRC9tOdxCGT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT THIRUVANANDHAPURAM</h1>
       <p>Thiruvananthapuram (/ˌtɪruːvəˌnʌntəˈpʊərəm/ TIRR-oo-və-NUN-təp-OOR-əm; Malayalam: [t̪iɾuʋɐnɐn̪d̪ɐpuɾɐm] ⓘ), formerly known as Trivandrum,[10] is the capital city of the Indian state of Kerala. It is the largest and most populous city in Kerala[11] and it is also a major port city. Thiruvananthapuram is where Asia's first space university, the Indian Institute of Space Science and Technology[12] located, and India's first IT park, Technopark Thiruvananthapuram is in Thiruvananthapuram. The city also includes India’s first deep-water trans-shipment port, the Vizhinjam International Seaport Thiruvananthapuram,[13] as well as the Sree Padmanabhaswamy Temple, known as the richest temple in the world.[14] Thiruvananthapuram is where India's space program began, with the Vikram Sarabhai Space Centre and the headquarters of Liquid Propulsion Systems Centre located here. Thiruvananthapuram is also known for its cultural heritage, being associated with the musical contributions of Swathi Thirunal Rama varma and the artistic legacy of painter Raja Ravi Varma.Notable beaches in Thiruvananthapuram include Kovalam, Varkala, Shankumugham Beach ,and Poovar.The encompassing urban agglomeration population is around 1.68 million.[5] Located on the west coast of India near the extreme south of the mainland, Thiruvananthapuram is a major information technology hub in Kerala and contributes 55% of the state's software exports as of 2016.[15][16] Referred to by Mahatma Gandhi as the "Evergreen city of India",[17][1] the city is characterised by its undulating terrain of low coastal hills.[18]
 
@@ -135,11 +134,11 @@ Small cruise ships often dock at Vizhinjam Harbour.[202] A cruise terminal is un
 
       <h1  style={{backgroundColor:"lightgreen"}}>MAJOR ATTRACTIONS</h1>
       <IMG>
-       <Link to={'/pathmanabh'}> <img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://i.pinimg.com/736x/c6/e3/3e/c6e33e73a41c294022a85f7f099ff7d7.jpg" alt="" /></Link>
+       <Link to={'/pathman'}> <img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://i.pinimg.com/736x/c6/e3/3e/c6e33e73a41c294022a85f7f099ff7d7.jpg" alt="" /></Link>
        <Link to={'/koovlm'}> <img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://www.dtpcthiruvananthapuram.com/uploads/picture_gallery/gallery_images/kovalam-1920x1080-20230510231440820551.webp" alt="" /></Link>
        <Link to={'/7mala'}> <img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/ONUMTzP3BRw/hqdefault.jpg" alt="" /></Link>
-       <Link to={'/nepier'}><img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://play-lh.googleusercontent.com/kVIgbUYxQ06BZIg_9z-iTWyZ74XSSUwkbqMFLFSCd_jSB1WXJPep0fKbLlmnn77CPsMM" alt="" /></Link>
-       <Link to={'/beema'}><img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://i0.wp.com/beemapally.org/wp-content/uploads/2021/08/beemapally001.jpg?ssl=1" alt="" /></Link>
+       <Link to={'/nepier'}><img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Napier_Museum_TVM.jpg/1200px-Napier_Museum_TVM.jpg" alt="" /></Link>
+       <Link to={'/beema'}><img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Beemapally.jpg/1280px-Beemapally.jpg" alt="" /></Link>
        <Link to={'/shank'}> <img height={"450px"} width={"400px"}style={{marginTop:"80px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/U7nBnw-TSo8/hqdefault.jpg" alt="" /></Link>
 </IMG>
 <div style={{height:"350px",paddingLeft:"500px",paddingTop:"100px",backgroundColor:'red'}}>

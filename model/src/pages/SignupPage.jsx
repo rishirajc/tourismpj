@@ -1,24 +1,46 @@
 import React, { useState } from 'react'
 import { SIGNUP } from '../Api'
 import styled from 'styled-components'
-import {  Link } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 const MAIN=styled.div`
     padding-top: 105px;
     padding-left: 238px;
     width: 428px;
     min-height: 65vh;
-  background: #2986db;
-`
-const SMAIN=styled.div`
+  background: url("https://apps.keralatourism.org/images/hri/large/mangala_hills_thekkady_71.jpg");
+     color: #d80404;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
 
-background: #2986db;
+  
 `
+
+
 const FMAIN=styled.div`
     display: flex;
  width: 100%;
     min-height: 100vh;
     align-items: center;
     justify-content: center;
+    background: #2986db;
+`
+const BTN=styled.div`
+
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    color: white;
+    background: rgba(45, 126, 231);
+    height: 31px;
+    width: 92px;
+    line-height: 30px;
+    border-radius: 8px;
+    border: none;
+    margin: 16px 25px;
+    padding-left: 26px;
+
+
 `
 
 const SignupPage = () => {
@@ -29,14 +51,21 @@ const SignupPage = () => {
   const[Age,setage]=useState(Number)
   const[Password,setpassword]=useState('')
 
+const navigate= useNavigate()
   function display(){
     console.log("first",Name,Email,Mobile,Place,Age,Password);
-    SIGNUP({Name,Email,Mobile,Place,Age,Password})
+    SIGNUP({Name,Email,Mobile,Place,Age,Password}).then((data)=>{
+      if(data.status=="SIGNUP SUCCESSFULL"){
+navigate("/")
+      }
+
+    })
+   
+      
+
+   
   
       
-  
-
-
   }
   return (
     <FMAIN>
@@ -46,7 +75,7 @@ const SignupPage = () => {
      
    
   
-    <SMAIN>
+    
       <div>
       <h1 style={{marginTop:"-42px",marginLeft:"-89px",fontFamily:"math"}}>SIGNUP YOUR DETAILS</h1>
 
@@ -76,14 +105,12 @@ const SignupPage = () => {
       </div>
 
       <div>
-      <button style={{marginTop:"17px",marginLeft:"46px",backgroundColor:"#ffffff"}}  onClick={display}>SIGNUP</button>
+      <BTN  onClick={display}>SIGNUP</BTN>
       </div>
-      <div>
-     <Link to={'/'}> <button  style={{marginTop:"17px",marginLeft:"51px",backgroundColor:"#ffffff"}} >LOGIN</button></Link> 
-      </div>
-   
+     
+
     
-    </SMAIN>
+   
     </MAIN>
     </FMAIN>
   )

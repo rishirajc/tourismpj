@@ -16,9 +16,8 @@ const IMG=styled.div`
 const Alappuza = () => {
   return (
     <div>
-      <div>
-<img width={"100%"}height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Alappuzha_Boat_Beauty_W.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/xeWtgeO0nKg?si=_r01wepKTlv0F3BG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT ALAPUZA</h1>
       <p>Alappuzha (Malayalam: [aːlɐpːuɻɐ] ⓘ), formerly known as Alleppey, is a city and municipality[1] in the Alappuzha district of Kerala, India. It is the district headquarters of the district, and is located about 130 km (80.8 mi) north of the state capital Thiruvananthapuram. As per the 2011 Indian census, Alappuzha has a population of 240,991 people, and a population density of 3,675/km2 (9,520/sq mi).
 

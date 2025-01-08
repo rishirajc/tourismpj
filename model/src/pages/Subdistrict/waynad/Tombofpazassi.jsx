@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import tom from '/src/pages/Subdistrict/waynad/image/pazassi.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -13,9 +14,11 @@ flex-wrap: wrap;
 `
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -97,7 +100,7 @@ The Pazhassi Tomb stands as a testament to the bravery and resilience of Kerala'
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={tom}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/UdSFvkxq7gFoJLpr6">CLICK TO REVIEW MAP</a>
 
 

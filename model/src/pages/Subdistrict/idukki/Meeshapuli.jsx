@@ -38,56 +38,41 @@ const Meeshapuli = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Meeahapullimala.jpg/1200px-Meeahapullimala.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Meesapulimala</h1>
+    <p>The second highest peak in the Western Ghats after Anamudi, Meesapulimala in Idukki district is a popular spot for trekking and camping. The hill (mala) gets its name from its resemblance to a whiskered (meesa) and tiger (puli) when viewed from the southwest direction. Situated around 20 km from Munnar, the hill is located between Anaimalai Hills and Palani Hills. 
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+To reach Meesapulimala, we have to opt for the trekking conducted by Kerala Forest Development Corporation Ltd (KFDC). From Munnar, we have to reach the base camp of the hills which is around 40 km away. We can take either the Suryanelli-Kolukkumalai tea estate road or the Aruvikkad estate-Mattupetty route (around 25 km). Upon reaching the base camp, we have to take a jeep to reach Rhodo Valley, which is 4 km away. The next part of the journey has to be covered on foot. The travel to the top of the peak amid beautiful rhododendron trees is exhilarating and refreshing.  At the top, it is heaven in waiting. Clouds float beneath us amid the cool breeze and whispers of the wind. 
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+From the peak, we can get a good glimpse of Munnar and neighbouring Suryanelli, and if enveloping clouds descend we can see the border shared between Kerala and Tamil Nadu. The cool mountain air, lush green environs, the gushing streams and the blooming rhododendrons along the valleys - all add exquisiteness to the fame of the mountains.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+We can either stay in the tents arranged by Kerala Forest Department at the base camp and go trekking to Meesapulimala or Rhodo Valley. Another stayover programme, especially for honeymooners, is the Sky Cottage located on a cliff facing a waterfall. We can have amazing and unending views of Anamudi peaks and also get a view of the starry sky at night. Rhodo Mansion is another excellent stay option for those who wish to explore the altitudinal starry night. </p>
+    <p>Meesapulimala is an Indian peak, the next south of the second highest peak (Manna Malai 2,659 metres (8,724 ft))[2] of the Western Ghats on the border of Idukki district, Kerala state. Its peak is 2,640 metres (8,661 ft) above sea level.[3][4] The name derives from its appearance from the grass with prominent whiskers (meesa - mustache; pul - grass; mala - hill/mountain). It is located in between the Anaimalai Hills and Palani Hills near Suryanelli around 20 km away from Munnar. The Kolukkumalai tea estate, Top Station and Tipadamala (2135 m) is also nearby.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+Treks to the peak via Rhodo Valley[5] (favourable for rhododendron flowers) can be organized through the Kerala Forest Development Corporation in Munnar.[6] The trekking path from Kolukkumalai to Meesapulimala is highly restricted.
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+Wildlife including the Nilgiri tahr, sambar deer, wild gaur, wild dogs and even the sloth bear.</p>
+    <p> <h3>Citations</h3>
+ U.S.Army Map Service (LU), Corps of Engineers "8661"(feet)
+ toposheet "Dindigul, NC 43-8, Series U502" prepared by the Army Map Service (LU), Corps of Engineers, U.S. Army, Washington marks "Manna Malai" below "8724"
+ toposheet prepared by the Army Map Service (LU), Corps of Engineers, U.S. Army, Washington shows an unnamed altitude of "8661", south of "8724" and "MANNA MALAI"
+ KDHP Co. Pvt. Ltd. "Estates in High Range, Idukki District" Scale 1:63360 Map lists the following altitudes near the Theni (then Madurai) - Idukki border: south of Yellapatty - possibly "Kolukkumalai"(2103 M); un-named (2658 M); "Misappuli Malai" (2624 M); "Nagai Malai" (2334 M); "Thippada Malai"(2267 M); "Rasi Malai" (1996 M)
+ "Meesapulimala Trekking Experience". Meesapulimala. Retrieved 7 July 2018.
+ "Rhodo Valley - Rhodo Mansion". Kerala Forest Development Corporation Ltd. Retrieved 2 November 2017.</p>
+<p> <h3>Trekking to Meesapulimala</h3>
+Let us now explore some of the options in and around Munnar that would provide travellers with ample opportunities to enjoy the captivating hill station of Munnar.  Meesappulimala - a destination for the highly adventurous is the second highest peak in the Western Ghats and a trekking trail via Rhodo Valley. 
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+Travel a distance of 24 km from Munnar via Mattupetty through Aruvikkad estate and you will reach the base camp of Meesappulimala. The journey from base camp to Rhodo Valley is in the jeep and is 4 km and is the last point accessible by any four wheelers. En route you can see the Pandava cave.
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+At night stay in the midst of cloud top at Rhodo Mansion and in the tents and the next day climb to the peak amidst rhododendron trees. Stay can be in your choice, they are providing the stay in three options. This is a hard trekking and needs to do basic preparation.  The package includes guide service, breakfast, lunch, evening tea & dinner</p>
+<p> <h3>Base Camp</h3>
+Stay over in the tents and enjoy the chillness of Munnar in the Base Camp. Situated at an altitude of about 6000 feet, Kerala Forest Development Corporation offers to stay over programmes.  Enjoy the night in the outdoors by sitting around the campfire and savour a delicious supper. 
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+Next morning you can go for an adventurous trek up to Meesapulimala or Rhodo Valley. Maximum of 40 persons are allowed for a single night tent stay at Base Camp. The package includes breakfast, lunch, evening tea and dinner. Campfire is also included</p>
+<p> <h3>Sky Cottage</h3>
+Sky Cottage, is another stay over programme organized at Munnar by KFDC. This lonely cottage on a cliff facing a waterfall also offers amazing views of Anamudi peaks. If it is a clear sky, the transparent ceiling of the cottage gives you the view of starry sky. Next morning you can go for an adventurous trek up to Meesapulimala. Three persons can avail this programme.</p>
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
-
-
-
-
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
 
 
 
@@ -99,20 +84,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i0.wp.com/aravindgundumane.com/wp-content/uploads/2020/02/DSC_5994.jpg?resize=1140%2C760&ssl=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-RliblYpLixzrMKf5N26nzNMYFhBazWt5w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuUXEVir9X91tkH0SsSEIA6mdSE4JVKClew&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/images/enchanting_kerala/large/meesapulimala20220413190738_1178_1.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://keralatourpackages.net/wp-content/uploads/2020/05/Meesapulimala-in-Kerala.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.trawell.in/admin/images/upload/061362980Meesapulimala_Peak.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZOAbYR44SDnfamAkSJH8p9mlJzsJOA0KKA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.kiomoi.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fkmadmin%2Fimage%2Fupload%2Fv1732014361%2Fkiomoi%2Fmeesapulimala%25E2%2580%258B1_8159.jpg&w=3840&q=75" alt="" />
+<img width={'200px'} height={'200px'}   src="https://etravelfly.com/wp-content/uploads/2019/04/meesapulimala-30-3.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://pbs.twimg.com/media/ErHVKngVgAIJapC.jpg:large" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.digitalkeralam.com/pageimgs/digitalkeralam_page_1000229_img.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDI18FB6pRBpRMOu-eoyEYs3xvULJSXeSQtQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3sxDKJYEONsVYh-jZN69fxaOZFgPSDqqyw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVaKdh4GQJftiULqE2WATyaF59iZKB15kiQ&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +119,39 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Great Escapes Resorts</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7q23fpzrfpJivjbHoH3EBIg5D01nKSMHF7A&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.germunnar.com/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Campper Camp Woody Munnar
+</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TB93T0RiTi0v2_D2Vep3wWBrJYoqdN16Cg&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.campper.com/camp-woody-at-anayirangal-valley">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Swag Vista Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1PljnFsLfWMfl1QoDBCMkbK_0mPXnJjTvQ&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://swagvista.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Joys Resorts</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqEgkYqAHR30LMaPlER29AnJp1bC4gqtjzw&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqEgkYqAHR30LMaPlER29AnJp1bC4gqtjzw&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="http://www.joysresortsmunnar.com/">click to view</a>
 </div>
 
 </IMGG>

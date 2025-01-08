@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import kap from '/src/pages/Subdistrict/kasaragod/image/kappil.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,12 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const FOOT=styled.div`
@@ -26,9 +30,8 @@ const FOOT=styled.div`
 const Kappil = () => {
   return (
 <div>
-    <div>
-        <img width={"100%"} height={"600px"} src="https://www.dtpckasaragod.com/uploads/picture_gallery/gallery_images/kappil-beach-1920x1080-20230506160704640747.webp" alt="" />
-    </div>
+    <div style={{width:"100%",height:"600px"}}>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/IG2U0Umqbk0?si=2m8jfQHIrgLVPlo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Kappil Beach</h1>
     <p>Kappil Beach is known for its pristine sands, lush greenery, and serene backwaters, making it a perfect spot for relaxation and contemplation. The beach features soft, golden sands that stretch along the Arabian Sea, offering a perfect setting for sunbathing, swimming, and leisurely walks along the shoreline.</p>
   <p>An unexplored heaven on earth, Kappil Beach is one of the best kept secrets of God’s own country. The beach covers an area of about twenty-five acres land and it is the most exciting location to relax and enjoy. The wide, sweeping stretch of silver sands, fringed by thick groves of casuarinas and total solitude of the surroundings all set to realize your dream. This sun-drenched beach is a perfect getaway after a hectic tour of the nearby Bekal Fort, some six kms away. The Kodi cliff provides an ideal spot for the adventurous souls and offers a panoramic view of the Arabian Sea.</p>
@@ -101,7 +104,7 @@ The CPCRI has released five coconut hybrids, eight high yielding coconut varieti
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={kap}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/yZVCWobFgv1h3RSA6">CLICK TO REVIEW MAP</a>
 
 

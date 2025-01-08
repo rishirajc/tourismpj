@@ -37,43 +37,35 @@ const Shakthan = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fshakthan-thampuran-palace-1728557985_b9cf90364ec78e9a6f78.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>AboutShakthan Thampuran Palace</h1>
+    <p>Shakthan Thampuran Palace is situated in City of Thrissur in Kerala state, India. It is named as Vadakkechira Palace, was reconstructed in Kerala-Dutch style in 1795 by Ramavarma Thampuran[1] of the erstwhile Princely State of Cochin, well as Sakthan Thampuran (Greatest ruler of the Cochin dynasty) is preserved by Archaeological Department. The palace was converted into a museum in 2005 by State.[2] [3][4]</p>
+<p>The Palace of Shakthan Thampuran located in the district of Thrissur is a landmark in the annals of the Perumpadappu Swaroopam, the former ruling dynasty of Kochi. The palace located in the heart of Thrissur town is a major attraction, especially for those with a special interest on eminent rulers and dynasties. It is believed that the reign of King Rama Varma Shakthan Thampuran (CE 1790-1805) popularly known as Shakthan as the golden era of Kochi. 
+
+Situated close to the famous Vadakkumnathan Temple in Thrissur, the Shakthan Thampuran Palace formerly known as Vadakkechira Kovilakam was renovated by Shakthan Thampuran in its present form. The palace, built in the Dutch and Kerala style of architecture belongs to the few structures of this kind in Kerala. The main structure of the palace has a two-storeyed building and a traditional Kerala style Naalukettu. The interiors of the palace, because of its unique construction offer comfortable and pleasant staying conditions irrespective of the prevailing weather conditions.
+
+The Shakthan Palace also houses an elaborate museum. The museum contains some interesting galleries like the Bronze Gallery, Sculpture Gallery and the Epigraphy Gallery showcasing the genesis and evolution of ancient writings.
+
+The final resting place of Shakthan Thampuran is also located inside the palace, besides that of a Zamorin and a ruler of Kochi. The palace also has a very ancient Sarpakaavu or Serpent Grove, which is a place for worshipping the serpents according to Hindu belief, and was once widely practiced in Kerala. 
+
+Located on the Southern side of the Shakthan Palace is the Heritage Garden which exhibits and preserves some of the indigenous plants and trees of Kerala. </p>
+
+<h3>Style</h3>
+<p>The main structure of the Sakthan Thampuran Palace has a two-storeyed building and a traditional Kerala style Nālukettu. High roofs, extra thick walls, spacious rooms and floors paved with finely smoothened Italian marbles are some of the structural specialities of this palace. The interiors of the palace, because of its unique construction offer comfortable and pleasant staying conditions irrespective of the prevailing weather conditions. [3]</p>
+<h3>History</h3>
+<p>Sakthan Thampuran Palace once belonged to the Perumpadappu Swaroopam, the ruling dynasty of Kochi. This was the centre of power of King Rama Varma Sakthan Thampuran, who ruled Kochi between AD 1790 and 1805. His rule was regarded as the Golden Era of the Cochin dynasty. The palace is close to the Vadakkumnathan Temple in Thrissur. Saktan Thampuran is credited with the introduction of the Thrissur Pooram festival, an annual festival in May with teams representing the Parmekavu Bhagavathy temple and Tiruvambadi Krishna temple competing for primacy in front of the Vadakkumnathan temple with elephants, percussion, drums, fireworks, etc. The palace was once known as Vadakkechira Kovilakam and it was the king who renovated it into the present form. The palace keeps with it the historical remnants of some important events like the visit of Tipu Sultan with his army. The last member of the royal family to reside here was Rama Varma Bharathan Thampuran, a grand nephew of Chowwarayil Theepetta Veliyathampuran. The palace has a very old Sarpakavu (sacred serpent grove) in its premises.</p>
+<p> <h3>Museum</h3>
+The museum displays Bronze Gallery where one can find bronze statues belonging to the period between the 12th and the 18th centuries, Sculpture gallery displaying granite statues from the 9th century to the 17th century, Numismatics Gallery, which systematically displays ancient coins, which were in circulation in the former province of Kochi and neighbouring kingdoms and the history gallery depicting some of the milestones of the Kochi dynasty and the Epigraphy Gallery showcasing the genesis and evolution of ancient writings. Other galleries of interest at the palace include, a Gallery for Household Utensils made of bronze and copper, used by the rulers of Kochi; and a Megalithic Gallery exhibiting remains of the great stone age.[2]
+
+The numismatic section have coins used in Kerala from the 5th century B.C. Roman gold coins (from the Eeyyal hoard) and Travancore native coins (in silver), Veerarayans (gold coins) otta puthan and iratta puthan issued by the kings of Cochin are displayed. These indicate an urban development and commerce. The coin board that measured coins in hundreds to thousands is unique. The coins issued by Tipu Sultan during his brief spell in Kerala, Indo-Dutch coins, Malabar coins (issued by the French), and coins of British India point to different periods of the history of Kerala. [3]
+
+<h3>Serpent Grove</h3>
+Serpent Grove or Sarpa Kavu is a snake shrine built for worship of serpent gods like Naga Raja (King of the snakes) and other snake deities, which is believed to bring prosperity to the royal family. Apart from the occasional prayers and ritualistic feeding of milk to the snakes to please the serpent gods, human interventions in these places are nil.
+
+The snake deities worshiped in serpent grove in the place is Naga raja and Nagayakshi. They are located in the palace garden and can be found under a Saptarna tree.Located on the southern side of the Shakthan Palace is the Heritage Garden, set up recently to exhibit and preserve some of the indigenous varieties of plants and trees of Kerala. The archaeological garden, situated in the northeastern part of the palace, has collections from the Stone Age recovered from the outskirts of Thrissur.
 
 </p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
-
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
-
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
-
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
-
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
-
 
 
 
@@ -81,11 +73,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 52 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Thrissur Railway Station, about 4.5 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Thrissur Bus Stand, about 3.8 km away</p> </div>
    </div>
 
 
@@ -98,20 +90,20 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://www.keralatourism.org/images/enchanting_kerala/large/shakthan_thampuran_palace20230509075312_1298_1.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7h8hVfFrb5DsJwlPljutfsBnZSae_4Mfew&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://www.keralatourism.org/images/destination/large/shakthan_thampuran_palace_thrissur20131031115445_343_1.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://i.ytimg.com/vi/PSqw0VCY0wI/sddefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTUlqtA7GMdHgLGq_laJLNZmxWQQMgKW23w&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sakthan_Thampuran_Palace%2C_Thrissur.jpg/1200px-Sakthan_Thampuran_Palace%2C_Thrissur.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbAFD_Sd5bck_9E_PbL43x8WYyxOqyo8OC11bunz9DAoJCXOy6NsWZLxh2VzicA7-NAs&usqp=CAU" alt="" />
+<img width={'200px'} height={'200px'}  src="https://i.ytimg.com/vi/1ScZrdnKiBM/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyEIbF2k-_jUmR_D2xz1GMhW4OKovalpqaA&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9TVDZSa2CdOUHMi2T7fHWVzAO5AX07gsLWQ&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Two_images_-_Nagaraja_and_Nagayakshi_under_a_Saptarna_Tree.jpg/239px-Two_images_-_Nagaraja_and_Nagayakshi_under_a_Saptarna_Tree.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://cdn.tripuntold.com/media/photos/location/2022/01/13/5e6851f4-4e50-45b5-abd0-b84094f66333.jpg" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgSNX3mhM7mwnMQF77o1O8kJwyjulsIULmQ&s" alt="" />
+<img width={'200px'} height={'200px'}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNnecFCtdE3XGVOwy1CHSW9gPgNDf4OqnNg&s" alt="" />
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -131,39 +123,39 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 
 <IMGG>
 
-   <div><h3>
-   Misty Valley Hill Resorts</h3>
+<div><h3>
+   Wariyam Heritage</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/42002184.jpg?k=f09694b5bbed39cfb0abc10d8a8850cb1fe2d12917d952eebd45feef28ee9517&o=&hp=1" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="http://www.wariyamheritage.com/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>KTDC Tamarind Thrissur</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9cIeReMBjRYojGEo5VWIx2lGkkjJ1Cbnzw&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.ktdc.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Hotel Palace Tower</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSsTqKwkWCHX0vXWb2gcemx32eG2OAl6jj3Q&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.hotelpalacetower.in/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Blue Serene Resorts</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX7sBnLsDkCfZ0PoUoaSzYFw3Zbr4OwxSDA&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.bluesereneresorts.com/">click to view</a>
 </div>
 
 </IMGG>

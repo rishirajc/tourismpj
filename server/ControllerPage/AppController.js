@@ -33,7 +33,7 @@ const GET=async(req,res)=>{
 const UPDATE=async(req,res)=>{
     try {
        await user.findByIdAndUpdate(req.params.id,{$set:req.body},{new:true})
-        return res.status(200).json({messag:"updated"})
+        return res.status(200).json({message:"updated"})
     } catch (error) {
         res.status(500).json(error)
     }
@@ -109,4 +109,14 @@ const imageupoad=async(req,res)=>{
       res.status(500).json(error)
     }
   }
-module.exports={POST,GET,UPDATE,DELETE,Otp,imageupoad}
+  const forgotpassword=async(req,res)=>{
+    try {
+        const otpfind=await pageuser.findOne()
+       return res.status(200).json(otpfind)
+        
+    } catch (error) {
+        res.status(500).json(error)
+        
+    }
+  }
+module.exports={POST,GET,UPDATE,DELETE,Otp,imageupoad,forgotpassword}

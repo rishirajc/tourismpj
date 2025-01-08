@@ -37,55 +37,29 @@ const Vasco = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fvasco-da-gama-square-1724143095_7eb541fe927d8404028d.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>AboutVasco da Gama Square</h1>
+    <p>Vasco da Gama Square, located in Fort Kochi, Ernakulam, is a historic and picturesque promenade along the beach, offering visitors a glimpse into Kerala's rich past. Named after the legendary Portuguese explorer Vasco da Gama, the square is an ideal spot to watch fishermen operate the iconic Chinese fishing nets, a legacy of the region's ancient trade connections. These large cantilevered nets, set up on teak and bamboo poles, were introduced by traders from the court of Kublai Khan, making them a fascinating remnant of Kochi's historical ties with China.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+Vasco da Gama Square is not just a place of historical significance; it is also a vibrant hub for locals and tourists alike. The area is lined with numerous stalls offering fresh seafood, tender coconut, and other local delicacies, making it a perfect spot for a relaxed evening by the sea. The square also features an open stage for cultural performances, adding to the lively atmosphere.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+The square's significance is further enriched by its connection to Vasco da Gama, the first European to reach the Indian subcontinent by sea. Gama's arrival in 1498 at Kappad near Calicut marked the beginning of a new era in global exploration and trade. His voyages led to the establishment of Portuguese influence in Kerala, starting with the signing of a treaty with the King of Kochi and the construction of Fort Emmanuel, the first European fort in India.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+Gama visited India three times, with his final voyage in 1524 ending in Kochi, where he died of malaria on Christmas Eve. He was initially buried at St. Francis Church in Fort Kochi, but his remains were later returned to Portugal in 1539.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+Vasco da Gama Square stands as a tribute to this explorer's enduring legacy and serves as a reminder of Kochi's pivotal role in the age of global exploration. The square, with its stunning views of the sea, bustling local market, and rich history, continues to be a must-visit destination for those exploring the cultural and historical landscape of Kerala.</p>
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
-
-
-
-
+<p>Vasco da Gama Square in Fort Kochi, near the sea shore, is an ideal place to spend the evenings. One can see stalls that sell nuts, tender coconut, spices, and other local delicacies. Fishermen lower the Chinese fishing nets into the sea and fresh catch is brought to the nearby fish market. Owned by the Municipal Corporation of Kochi, Vasco da Gama has an open stage for cultural performances. This place received its name three decades ago. This place is named after the legendary Portuguese sailor Vasco da Gama who was the first European to reach the Indian subcontinent by sea. The mission of his voyage was to search for the details of the spice market of and trade routes to the Malabar region on the Indian coast. His fleet of ships reached Kappad near Calicut in 1498. Gama’s discovery of the sea route to India was significant and opened the way for an age of global imperialism. Pedro Álvares Cabral, another Portuguese sailor, followed Gama, reaching Calicut and travelling from there to Kochi. A treaty was signed between the Portuguese and the King of Kochi which followed the construction of Fort Emmanuel in 1503 at Kochi, the first European fort in India. The city in the Portuguese fort area was called Santa Cruz, the first European 'city' in India. Gama travelled to India thrice. Gama’s first voyage left Lisbon on 7th July 1497. There were four ships in the fleet and 170 men in the crew. After reaching Calicut Gama went back on 29th August 1498. His second voyage was in 1502 with 15 ships in the fleet which reached Kochi in October 1502. He returned to Lisbon in 1503. The third voyage started from Lisbon in April 1524 with 14 ships in the fleet and it reached Kochi in 1524. Within less than three months of his arrival at Kochi, he died of malaria in Kochi on Christmas Eve of 1524. He was initially buried at St. Francis Church in Fort Kochi, but his remains were eventually taken to Portugal in 1539. - by Kerala Tourism</p>
 
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Ariport, about 35 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Ernakulam Railway Station, about 15 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    mattancheri, about 21 km</p> </div>
    </div>
 
 
@@ -98,20 +72,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrafQZ6j3CFuYlU3ZRHQxzUmqv12XyPR_Pg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZniF8fvGjc5qooGM-XFp911dlib6cYvB9Q&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://map.sahapedia.org/admin//assets/images/20210530120653-35888719451_Vasco_da_Gama_Square_01__1__banner.jpg?__imr__=bannerArticle" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.casarioresorts.com/blog/wp-content/uploads/2023/08/Vasco-Da-Gama-Square.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/9CBkcWgzkRA/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyBH-0BPfDAts-p8KNv0TCWtkI-LAn-8_XA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyBH-0BPfDAts-p8KNv0TCWtkI-LAn-8_XA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/images/destination/thumb/koder_house_at_fort_kochi20131114164106_25_1.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fvertical%2Fkoder-house-1723536657_41fb2061220c2141f292.webp&w=1080&q=75" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fimages%2Fservice-providers%2Fphotos%2Fthumb%2Fproperty-3957-profile-19337-20181220085926.jpg&w=1080&q=75" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuN4Jul7tUJmsAjLKrqCWaYOPHZayEl3Ip44ROmZSe-aFtE0v0clckaWJxSEFDY2qJTk&usqp=CAU" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGhzxJpgRurN2UJMM0NSBr7GDiLLadki64Q&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vpoeF21kQOCVC4j6lnJVUnzH-q_hdufWgCtldKnA4rj4RDN56gaZu0UBqeLJZxcKALc&usqp=CAU" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOO0Gt0u9wVFHG4C62tj06XLR7i54oL92QrGu3R34347vmaPV0KBx64zZHRnEWa3CHeE&usqp=CAU" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -132,38 +107,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   The Spencer Home</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUcGwwA9BT1I5Zx79Jhm5JhLsR_fz_9G7zA&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.makemytrip.com/hotels/the_spencer_home_rooms_in_a_homestay-details-cochin.html">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Vasco Da Gama Beach Resort and Spa</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b1/d5/f0/vasco-da-gama-beach-resort.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.vascodagamabeachresort.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Tom's Old Mansion</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9kkzEqzVEF6pV5WHPyiV4ta_NAPE9ynZDqA&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.tripadvisor.in/Hotel_Review-g297633-d2386719-Reviews-Tom_s_Old_Mansion-Kochi_Cochin_Ernakulam_District_Kerala.html">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Hotel Bright Heritage- Fort Kochi</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/375486961.jpg?k=5a9f5511d8ce07411ec75cee23966330d159cf070eb101fb9b3d1254fe055c9d&o=&hp=1" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="http://hotelbrightheritage.com/ssl-not-enabled/?return=/">click to view</a>
 </div>
 
 </IMGG>

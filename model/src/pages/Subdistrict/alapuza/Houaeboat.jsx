@@ -38,56 +38,115 @@ const Houaeboat = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fcruise-through-kerala-in-a-houseboat-1725362734_9601af0b1306679df96d.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Houseboats</h1>
+  <p>Have you ever gone cruising in a houseboat on the backwaters of Kerala? If you haven't, make sure you do. This is easily one amongst the most remarkable and unique experiences that our state has to offer. 
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+Present day houseboats are huge, slow moving exotic barges used for leisure trips, and are in fact a reworked version of the Kettuvallams of olden times. The original Kettuvallams were used to carry tons of rice and spices. A standard Kettuvallam can hold up to 30 tons of goods from Kuttanad to the Kochi port.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+In Malayalam language Kettu refers to ‘dwelling structures’ ‘Vallam’ means boat. These are boats with a thatched roof cover over wooden hulls. The boat is made of planks of jack-wood joined together with coir. This is then coated with a caustic black resin made from boiled cashew kernels. With careful maintenance, a Kettuvallam can last for generations.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+A portion of the Kettuvallam was covered with bamboo and coir to serve as a restroom and kitchen for the crew. Meals were cooked onboard and supplemented with freshly cooked fish from the backwaters.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+When  modern trucks replaced this system of transport, people came up with a new way that would keep these boats, almost all of which were more than 100 years old, in the market. By constructing special rooms to accommodate travellers, these boats cruised forward from near-extinction to enjoy their present  popularity.
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+Today these are a familiar sight on the backwaters and in Alappuzha alone, there are as many as 500 houseboats.
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+While converting kettuvallams into houseboats, care is taken to use only natural products. Bamboo mats, sticks and wood of the areca nut tree are used for roofing, coir mats and wooden planks for the flooring and wood of coconut trees and coir for beds. Nowadays, Solar panels are preferred for lighting.
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+Today, the houseboats boast of the same comforts of a good hotel including furnished bedrooms, modern toilets, cozy living rooms, a kitchen and even a balcony for angling. Parts of the curved roof of wood or plaited palm leaves open out to provide shade and allow uninterrupted views. While most boats are poled by local oarsmen, some are powered by a 40 HP engine. Boat-trains - formed by joining two or more houseboats together are also used by large groups of sightseers.
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+What is truly magical about a houseboat ride is the breathtaking view of the untouched and otherwise inaccessible rural Kerala that it offers, while you float in a relaxed way right through it.
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
+Houseboats:
+House boats are available at Thiruvananthapuram, Kollam, Kottayam, Allappuzha, Ernakulam, Thrissur and Kasaragod. Please contact DTPCs for more info.
 
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
+DTPC House boat Pre-paid Counter
+For booking houseboats, travelers can make use of the House Boat Pre-paid Counter 'Trusted Service, Trusted Rates' managed by the District Tourism Promotion Council (DTPC).</p>
 
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
+<p>A houseboat is a boat that has been designed or modified to be used primarily for regular dwelling. Most houseboats are not motorized, as they are usually moored or kept stationary, fixed at a berth, and often tethered to land to provide utilities. However, many are capable of operation under their own power.
 
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
+Houseboats are largely found on small inland rivers, lakes, and streams, and in coastal harbours, especially where there is good fishing,[1] in many countries</p>
 
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+<h2>Africa</h2>
+<p><h3>South Africa</h3>
+There are a few houseboat options in South Africa, including self-drive houseboats on the Knysna Lagoon and fully catered houseboats on Lake Jozini. There have been a number of serious incidents with houseboat fires in the country. On 19 November 2016, four people died on Hartbeespoort Dam after a fire broke on a party houseboat. On 9 October 2021, a faulty engine set luxury houseboat Shayamanzi afire and led to the death of two crew members and a German tourist.[2][3]
+
+<h3>Zambia</h3>
+In Zambia, specifically on Lake Kariba, houseboats have been around and in use since the creation of the lake in the late 1950s to early 1960s.</p>
+
+<h2>Asia</h2>
+<p><h3>Bangladesh</h3>
+
+A tourist houseboat in Tanguar Haor, Bangladesh
+Houseboats have become more popular as a tourist attraction due to the number of houseboats plying at Tanguar Haor.[4] There is a large, slow-moving houseboat used for leisure trips. This service is inspired by the houseboat used by India's famed author Rabindranath Tagore during his visit to Shilaidaha. It is about 71 feet (22 m) long and about 14 feet (4.3 m) wide at the middle,[5] and has been in service since 2021.
+
+<h3>Hong Kong</h3>
+There is a houseboat and fishing community on the southern side of Hong Kong Island, known as Aberdeen Floating Village. There was also one such community in the Yau Ma Tei Typhoon Shelter.
+
+<h3>India</h3>
+In India, houseboats used as accommodation for tourists are common on the backwaters of Kerala and also on Dal Lake near Srinagar in Jammu and Kashmir (see below).
+
+<h3>Kerala houseboats</h3>
+Main article: Kettuvallam
+
+A Kettuvallam at Kavvayi Backwaters, Nileshwaram, Kasaragod, India
+Houseboats in Kerala, south India, are huge, slow-moving barges used for leisure trips. They are a reworked model of Kettuvallams (in the Malayalam language, Kettu means "tied with ropes", and vallam means "boat"), which, in earlier times, were used to carry rice and spices from Kuttanad to the Kochi port. Kerala houseboats were considered a convenient means of transportation. First Modern House Boat In Kerala developed by Thomas Vargheese in Kottayam in the time of Dr. Babu Paul IAS. The popularity of Kettuvallams has returned as major tourist attractions.
+
+These houseboats are about 60 to 70 feet (18 to 21 m) long and about 15 feet (4.6 m) wide at the middle. The hull is made of wooden planks, usually of aanjili, held together by ropes of coconut fiber. The roof is made of bamboo poles and palm leaves. The boat exterior is painted with protective coats of cashew nut oil.
+
+<h3>Kashmir houseboats</h3>
+
+Houseboat on Dal Lake in Srinagar, Kashmir
+Unlike their counterparts in Kerala, the houseboats in Srinagar in Jammu and Kashmir — the northernmost state of India — are usually stationary, generally moored at the edges of Dal Lake and Nageen Lake. Some houseboats there were built in the early 1900s and are still being rented out to tourists. These houseboats are made of wood and usually have intricately carved wood paneling. They are of different sizes, some having up to three bedrooms apart from a living room and kitchen.
+
+<h3>Indonesia</h3>
+
+Rumah rakit (raft house) in Surulangun, Rawas Ulu, North Musi Rawas circa 1877-1879
+In Indonesia, a floating house is called as rumah apung. An example of a floating house in Indonesia is called rumah rakit (Indonesian: raft house), which is a type of traditional house found in riverine realm of South Sumatra, which is thought to have existed since the time of the Srivijaya kingdom. Raft houses are built on rafts and float along the banks of the Musi River, Ogan River and Komering River. To avoid the raft drifting away, the raft house is tied to a serdang (tether).[6][7]
+
+<h3>Laos</h3>
+In Laos, houseboats are used to accommodate tourists on the Mekong River. Usually referred to as "slow boats", the houseboats exist in wooden or steel variants.</p>
+<h2>Europe</h2>
+<p><h3>Germany</h3>
+
+Houseboats on Landwehrkanal, Berlin, Germany
+The Port of Hamburg has a sizable water-borne community that includes a Flussschifferkirche, or Boatman's Church. Berlin also has some houseboat neighborhoods, notably on the Landwehrkanal in Friedrichshain-Kreuzberg.
+
+<h3>Netherlands</h3>
+
+Houseboat in Amsterdam, Netherlands
+In Europe, some of the finest and costliest examples of houseboats can be seen along the canals of Amsterdam, which even have houseboat hotels. Houseboats are very expensive in Amsterdam because of the limited number of moorings. This expense has reduced the likelihood that the approximately 2,400 families that live on the inner waters of Amsterdam will find themselves confronted by new neighboring boats. The bloemenmarkt is a houseboat-borne flower market along the Singel in Amsterdam. The town of Maasbommel is pioneering floating houses, with flexible connections for fluids and electricity, intended not primarily for travel, but rather safety against flooding.[10][11][12]
+
+Amsterdam has what may be the world's only houseboat museum, located on a renovated cargo ship built in 1914 and opened by its current owners to the public in order to answer questions people often have about life on houseboats.[13]
+
+<h3>Poland</h3>
+Poland is the world's second largest producer of motor yachts, up to 9 meters in length after the United States. Poland has extensive experience in the production of modern and stylish houseboat yachts and floating houses.[14] Houseboat recreation is practicing in the Masuria District and on the Vistula River and lakes close to the Baltic seaside.
+
+According to Zegluj.pl, the largest houseboat rental service in Poland, there are about 100 new units for charter every year.[15]
+
+<h3>Serbia</h3>
+
+Houseboats on Ada Ciganlija, Belgrade, Serbia
+Houseboats are popular for recreation, dining and clubbing in Serbia. They can be seen in large numbers in Belgrade on the banks of the Danube and Sava Rivers, and on river islands.
+
+<h3>United Kingdom</h3>
+For narrowboats, highly-decorated historic houseboats popular across the English canal system, see Narrowboat.
+
+Houseboats in Richmond, London, England
+
+Temporarily moored narrowboats (near bank) and permanently moored houseboats (far bank) on the Paddington Arm of the Grand Union Canal in Little Venice, England
+
+Beached hull house boats on Hayling Island, England
+In the United Kingdom, houseboats come under various authorities depending on where they are moored. Those that usually do not move from year to year and are in marinas come under local authorities. Those moored on tidal waters (estuaries and coastal harbours) come under various authorities.[citation needed] Most navigable inland waterways in England and Wales come under the authority of either the waterways managed by Environment Agency (EA, sponsored by the Department for Environment, Food and Rural Affairs) or the waterways managed by the Canal and River Trust (CRT). Scotland, Northern Ireland and some additional waterways in England and Wales have their own authorities (see the List of navigation authorities in the United Kingdom).
+
+Both the EA and the CRT distinguish between powered vessels (including sail) and unpowered houseboats. The EA defines Launches as "any mechanically propelled vessel not being used solely as a tug or for the carriage of goods", and houseboats that "includes any pleasure boat which is not a launch and which is decked or otherwise structurally covered in and which is or is capable of being used as a place of habitation".[16] The CRT, which manages 2,000 miles of inland waterways,[17] requires any houseboat moored on their waterways to have a houseboat certificate. The CRT defines a houseboat as "'a boat whose main use is for a purpose other than navigation and which, if needed for the purpose, has planning permission, for the site where it is moored'. A houseboat may be used for navigation from time to time provided it does not become its main use".[18]
+
+The CRT definition provides a large grey area about what a houseboat is, because owners of a narrowboat, or other inhabitable vessels (see list of the types of canal craft in the United Kingdom) who live on board may choose to define their boat either as a cruising vessel and pay for a cruising licence, or obtain a houseboat certificate. The decision often depends on which is cheapest and whether the CRT, or the local authority overseeing a marina's planning permission, allows moorings to be residential (meeting the local authority's requirements allowing permanent residence aboard at the mooring), or leisure (inhabitability only for short periods).[1</p>
 
 
 
-
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
 
 
 
@@ -99,20 +158,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fhouseboats-lined-up-in-backwaters-of-kerala-1727353682_5d8095974985bec1e098.webp&w=1920&q=75" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2UlDd_PMvKFTeP3JcPu9cSGzorIVa5mE4g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscA2gjUH7chNxk0a2XbCOMatSc9JCEyqUwA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://static.toiimg.com/thumb/msid-88652857,width-1070,height-580,resizemode-75,imgsize-1170954,pt-32,y_pad-40/88652857.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVlMqLDe5MYQz19CkQus5nCosLSDJMaMzpQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://businessconnectindia.in/wp-content/uploads/2022/07/Houseboat-1.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWYcJ_beSpri77deciNea35ivK0Fw2IJ0yw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH-L0cyC-pT89d7nidkr00Fy-hapvF9LN1g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUVNo3_uWT1ltFJ2XQMkrr0jol3OfCHtQ_A&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKIB___PjOXXuA7gB8fobcKh_GSm5bcsFlQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHFc4QnbFnLfY_5R579qD_NiC_0uXjJ-F_g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatravels.com/webadmin/thumbnail/thumb_6_ll.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqXmyISb1za--lnPnjBvZOGBiTvZ34TIbPQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://keralakaumudi.com/web-news/en/2021/12/NMAN0300950/image/house-boat.1635178197.jpg" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +193,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Canoe Ville</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://www.canoeville.com/assets/resort-side-1600-6a848699.webp" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.canoeville.com/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Abad Cruise on the Lake |</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://r1imghtlak.ibcdn.com/cf943912d5ae11e8884e0242ac110004.jpg?downsize=275:375" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.abadhotels.com/cruise-on-the-lake-kumarakom-houseboat/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Palmgrove Lake Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNMC4mK-7zIPvhy2IzTSk4dkh20YmKNo4TA&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.palmgrovelakeresort.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Kerala Backwater Houseboat</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQddrYZQiv1r0F93ELr46JIKYXqMp4RbnxTA&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/kerala_backwater_houseboat-details-alleppey.html">click to view</a>
 </div>
 
 </IMGG>

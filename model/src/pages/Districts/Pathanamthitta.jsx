@@ -14,9 +14,8 @@ height: 1400px;
 const Pathanamthitta = () => {
   return (
     <div>
-      <div>
-        <img width={"100%"} height={"600px"} src="https://myweekendtrips.com/wp-content/uploads/2023/01/Pathanamthitta-tourist-places.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/erYR-h2xu4I?si=sIeHjNHVr_n6N0UC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT PATHANAMTHITTA</h1>
       <p>Pathanamthitta (IPA: [pɐt̪ːɐnɐn̪d̪iʈːɐ]), is a municipality situated in the Southern Kerala, India, spread over an area of 23.50 km2. It is the administrative capital of Pathanamthitta district. The town has a population of 37,538 (as of 2011 census). The Hindu pilgrim centre Sabarimala is situated in the Pathanamthitta district; as the main transport hub to Sabarimala, the town is known as the 'Pilgrim Capital of Kerala'.[3] Pathanamthitta District, the thirteenth revenue district of the State of Kerala, was formed with effect from 1 November 1982, with headquarters at Pathanamthitta. Forest covers more than half of the total area of the District. Pathanamthitta District ranks the 7th in area in the State. The district has its borders with Allepey, Kottayam, Kollam and Idukki districts of Kerala and Tamil Nadu. Nearest town is Thiruvalla (largest town in Pathanamthitta District), located at a distance of 30 km. Thiruvalla railway station is 30 km via Thiruvalla-Kumbazha highway.</p>
       <h3  style={{backgroundColor:"lightgreen"}}>History</h3>

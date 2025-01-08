@@ -38,56 +38,22 @@ const Menutty = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://kerala.me/wp-content/uploads/2016/01/Kombaikani-Meenmutty-Waterfalls.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Meenmutty Falls</h1>
+    <p>
+    Meenmutty WaterFall is situated in Padinjarathara in Wayanad District, Kerala.[1] It is the largest waterfall in wayanad and it is a three-tiered waterfall with a height of 1000feet and it is on Banasura hills.[2] It can be accessed from Padinjarathara ;.[3] [4] Meenmutty waterfalls are dangerous during rainy seasons due to high inflow and many people have drowned since 1991.[5] Meenmutty falls is surrounded by Lush green tea plantations making the hike to the falls a memorable experience to the tourists.</p>
+    <p>Tucked away deep in the verdant Western Ghats, approximately 45 km away from Thiruvananthapuram, the bustling capital of Kerala, lies the captivating Meenmutty Falls. This natural wonder cascades gracefully, offering a serene escape from the urban clamour. To reach this hidden gem, adventurers embark on an exhilarating journey through dense forests, where each step brings them closer to the unspoiled beauty of the waterfall.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The adventure begins with a scenic boat ride across the pristine Neyyar reservoir, meandering through its expansive catchment area. This tranquil voyage sets the stage for what lies ahead a trek that unfolds through the lush greenery and rugged terrain, guided by the murmurs of the Neyyar River. Along the way, trekkers pass by the KombaiKani tribal settlement, where a warm welcome awaits amidst the simplicity of tribal life.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+The trek itself, approximately 5 km from KombaiKani, is a testament to Kerala's natural beauty, leading to the breathtaking Meenmutty Falls. Here, the cascading waters glisten under the sun, inviting visitors to pause and immerse themselves in the sights and sounds of untouched wilderness. Nearby, a forest camp house offers a welcoming refuge - a place to rejuvenate with a hearty meal, surrounded by the comforting embrace of nature.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+Guided by knowledgeable forest guides, every step of the journey is enriched with insights into the region's rich biodiversity and cultural tapestry. Permission from the forest department ensures a responsible and respectful exploration of this ecologically sensitive area, preserving its natural allure for future generations.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
-
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+Meenmutty Falls is not just a destination; it is a rendezvous with Kerala's soul-stirring landscapes, where adventure and tranquility converge seamlessly. Ideal for a day long expedition, the journey culminates as the sun begins its descent, with the boat gently ferrying visitors back from KombaiKani to Neyyar dam. It's an experience that leaves an indelible mark - a tale of exploration, discovery, and the untamed beauty of Kerala's Western Ghats.</p>
 
 
-
-
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
 
 
 
@@ -99,20 +65,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/09/6f/83/b9/meenmutty-waterfalls.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmyTRRv4uF6rBj2_4iHfc5nCe_12CjU_PYw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-KV0T239A9FQuO4rqbqMfMu6U17cOiZEeg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/3v53zBy5UFs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA7cPZZOXbHxMp5YvJDChnsxvzXSg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNNiCEQZcsZQMHcvKCvA1_3eivAInWzZ3hA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPKG-HT-kkwhEzNbk9JC11Vi0_oQny8lHIQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27lmxxJZPx7IOYv8TzrcWvvHh_icZsj244g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHJI3CWnabuyTYGXw80d6VtyGQrBJhvwjEQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatravels.com/userfiles/1476509279_meenmutty_waterfalls.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://trip2kerala.com/wp-content/uploads/2022/01/1200px-Meenmutty_Falls_Wayanadsdvasdf-scaled-1.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://wayanadtourism.co.in/images//tourist-places/meenmutty-waterfalls-wayanad/meenmutty-waterfalls-wayanad-india-tourism-photo-gallery.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://kerala.me/wp-content/uploads/2016/01/Kombaikani-Meenmutty-Waterfalls.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7tvNhjPO2ac0g4ZHY6qXZltHIwTB4pDgSvw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMbAtNOfvK5AdeHuLJvQlHqReU6hMKC55Lg&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -132,39 +99,41 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 
 <IMGG>
 
-   <div><h3>
-   Misty Valley Hill Resorts</h3>
+<div><h3>
+  
+  Rain Forest Ayur County Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://r1imghtlak.mmtcdn.com/bb90ceae0ea911eb99b80242ac110002.jpg" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://rainforestayur.com/lander">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Backwater Heritage Homestay</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://pix10.agoda.net/hotelImages/409/409346/409346_14100913320022644768.jpg?ca=3&ce=1&s=1024x768" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.backwaterheritage.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   The Meenmutty Heights</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHKaRKlsb0qe99YQb_OCcwiDLygnubykT2A&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.meenmutty.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>MindFreeStation Home stay
+   </h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIpcd4DgRcWlprMp6zLkuAJTzj_cq7m5D-A&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://mindfreestation.com/">click to view</a>
 </div>
 
 </IMGG>

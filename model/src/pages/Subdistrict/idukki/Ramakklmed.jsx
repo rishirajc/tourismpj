@@ -38,42 +38,55 @@ const Ramakklmed = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Framakkalmedu-1726917706_75c6c985c06426980b67.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Ramakkalmedu</h1>
+    <p>Located in Idukki district, around 40kms from Thekkady, is one of Asia’s windiest places - Ramakkalmedu. Perched in the midst of the sprawling Western Ghats, the lush green hills, crisp mountain air, and sweeping winds at Ramakkalmedu make for a treat to the senses.
 
-</p>
+A rejuvenating retreat for all nature lovers, this beautiful destination owes its name to the impressions of feet found on the rock surface here. These impressions are believed to be that of Lord Rama. According to the Indian epic Ramayana, Lord Rama is believed to be an incarnation of Lord Vishnu. Age old stories say that Lord Rama had visited this place during his hunt for his wife Sita. Therefore, as a land that was blessed by his presence, these hills were named Ramakkalmedu.
+
+The hills of Ramakkalmedu offer visitors splendid panoramic views of the picturesque villages that lie in the neighbouring state of Tamil Nadu. A 300m high pillar like rocky structure that stands facing the east is another remarkable feature here. Being an exceedingly windy terrain, there are also several wind farms, that are undertakings of the Government of Kerala, located in the area that is used to generate over 10.5 MW of wind power.
+
+The most interesting feature at Ramakkalmedu, apart from its natural beauty is perhaps the highest twin-statue that’s located here. The Kuravan and Kurathi statue portrays a tribal couple with their young child looking at the visitors nonchalantly. The other attractions here include different places like Turtle Rock, Frog Rock and so on.
+
+These beautiful hills have a little something for everyone irrespective of whether you are in for a more laid-back picnic or a full on adventure. The trek in the midst of constant cold, powerful winds is enough to either give you a rush of adrenaline or to help you tune out from the rest of the world and tune in to the pulse of nature in its rawest form. Once you reach the hilltop, take a minute to take in the magnificence of the view that lies spread out before you. The picture perfect Kambam village of Tamil Nadu along the eastern slopes of the Western Ghats is indeed a sight to behold. At Puttadi, on the way from Munnar to Thekkady is Shankurandampara a huge rock that offers a panoramic view of the Ramakkalmedu.
+
+It is an entirely different magic that envelops these hills in an embrace at dusk. As the sun slowly sets and the stars start to twinkle, you will find yourself sighing in awe at the beautiful vistas of nature that unfold before you. No two visitors will experience Ramakkalmedu the same way. It strikes a different note on the heartstrings of each visitor. 
+
+Here, in the midst of ancient rocks and winds that whisper forgotten tales, one cannot help but feel a profound sense of belongingness. It is almost as if the land in itself reaches out and connects to those who tread it. A land where legends come alive, nature reigns supreme and the spirit finds solace and peace. </p>
+    <p>Ramakkalmedu is a hill station and a hamlet in Idukki district in the Indian state of Kerala. The place is noted for its panoramic beauty and numerous windmills.
+
+<h3>Location</h3>
+It is located about 15 km from Nedumkandam on the Munnar-Thekkady route. Nearby towns are Thookkupalam (5 km), Kattappana (25 km), and Kumily (40 km).
+
 <h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+Ramakkalmedu stands tall in the western ghats at a height of 3,500 ft (1,100 m) above sea level.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+<h3>Flora and fauna</h3>
+The ecosystem of the area consists largely of grass land Shola forest type which is laced by sporadic bamboo forests.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+<h3>Climate</h3>
+Constant wind is a defining characteristic that sets Ramakkalmedu apart. The area experiences a consistent wind speed of approximately 35 kilometers per hour year-round, regardless of the season or time of day.
+
+<h3>Wind Energy</h3>
+Villages such as Pushpakandam and Kuruvikanam near Ramakkalmedu are home to the second wind energy farm installation in Kerala. While these installations are on private holdings, they collectively have a current capacity of approximately 14.25 MW, utilizing NEG MICON Wind Mills. The electricity generated here is distributed to the Kerala State Electricity Board. Despite Ramakkalmedu being known as one of Asia's largest wind-blown areas, its potential for electricity generation remains largely untapped.
+
+<h3>Tourism</h3>
+
+View from Ramakkalmedu
+Although Ramakkalmedu has the potential to become an international tourist destination and already attracts more than 100,000 visitors, as of 2015, not much had been done to improve basic facilities in the area. The government of Kerala has announced plans to develop this tourist destination by improving transportation facilities with buses, upgrading the Kerala police, and taking other measures. Tourist attractions such as Tortoise Rock, Kuravan Hills, Rama Rock, Wind Mills Viewpoint, Soolapara Hill, and Hyderamala Hills are all part of the Ramakkalmedu tourism circuit.
+
+<h3>Kuravan and Kurathi</h3>
+
+Kuravan and Kurathi statue, Ramakkalmedu
+Ramakkalmedu is a historic site with a monument to Kuravan and Kurathi, a large statue that depicts the Sangam Period and Sangam landscape of Kerala and Tamil Nadu. The monument provides a panoramic view of Tamil Nadu villages and towns, including Cumbum, Theni, Kombai, Thevaram, Uthamapalayam, Bodinaykannor, and Vaiga. Rolling green hills and the fresh mountain air make Ramakkalmedu an enchanting retreat. The view is striking at dusk when all these towns in Tamil Nadu are lit up.
+
+Ramakkalmedu, the name of the place, literally means "Land of Rama’s Stone" or "Land where Rama set his holy foot" (Rama is a Hindu deity in the epic Ramayana). One story suggests that Rama, accompanied by his younger brother Lakshmana, set his foot at the top of Ramakkalmedu in search of his wife Sita, who had been abducted by the rakshasa king of Lanka, Ravana.
+
+The Twin Statue was sculpted by C.B. Jinan and erected on the hill's summit in the year 2005. This statue depicts two historical characters with a connection to the construction of the Idukki Dam. The Idukki Arch dam links two massive rock hills named Kuravan Mala (Kuravan Hill) and Kurathi Mala (Kurathi Hill).[1]
 
 </p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
-
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+   
 
 
 
@@ -82,11 +95,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 125 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Kottayam Railway Station, about 122 km away..</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Nedumkandam Bus Stand, about 13 km away.</p> </div>
    </div>
 
 
@@ -99,20 +112,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-ZYrWj8M2SqUWDoYaVjVdssK4hsW0ReRpA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQubcqwCsUjLcIix5ljpK9ytMV_Pfr581GGPg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYXa8wKhgTF2zEoOBdWyjIIiiv9SGRBiRwA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/2q936dKh1NE/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVmo6YiIrjADx2TS3NG8JOdQ6O7yJCQ4lfg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1OA19naRhXjYvQWZhFvlvpX0vVCzXYGHlw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjb2YTsIEnS9rakxDegWUWhTsxdjbmnHPHMQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8edlB5BG0V7SLD890XUqzgh6kCyGahQowUw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEIHwqHzI7uC38lh3zx05ab-RYxNtDe3f4w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCG5ORlbJU1vt9LREWRfqR_P6wbnpLnoj8sg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://english.mathrubhumi.com/image/contentid/policy:1.7401900:1648966807/ramakkalmedu_1.jpg?$p=a4f3399&f=8x11" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR333JUjFQwkk-iykm71q7lq5GKg3RV3pKGJQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/View_from_ramakkalmedu_2.jpg/220px-View_from_ramakkalmedu_2.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5KETAHGEL7ZrZp-X7bQgt0ZDgAlNlrEKUw&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +147,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Salaams Raama Heritage </h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8npaEsqIU1loDibB9fho1xSsbGHaF5JJ4DA&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="http://www.salaamsrama.com/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>SK ROCK GARDEN RESORT& HOMESTAY</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJKhFrzNrDRKsLrZ9X1lh2zn4p46oZ2UDig&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/sk_rock_garden_resort-details-theni.html">click to view</a>
 </div>
 
 
    <div><h3>
-  
-   Riverine Suites Resort</h3>
+   WIND VALLEY</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f0/91/54/the-mist-embracing-wind.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/wind_valley_homestay_rooms_wi_fi-details-kattappana.html">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Maram Resort
+   </h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://content.jdmagicbox.com/comp/idukki/g5/9999p4863.4863.230615144908.v9g5/catalogue/maram-resort-idukki-resorts-3qsce3yfz9.jpg" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://kondodyhotels.com/maram-resort-mamalakandam.html">click to view</a>
 </div>
 
 </IMGG>

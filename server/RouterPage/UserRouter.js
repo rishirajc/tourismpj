@@ -1,4 +1,4 @@
-const { POST, GET, UPDATE, DELETE, Otp, imageupoad } = require('../ControllerPage/AppController')
+const { POST, GET, UPDATE, DELETE, Otp, imageupoad, forgotpassword } = require('../ControllerPage/AppController')
 const verify = require('../VerifyToken')
 const multer=require('multer')
 const storage1 = multer.diskStorage({
@@ -20,4 +20,5 @@ router.put('/update/:id',UPDATE)
 router.delete('/delete/:id',DELETE)
 router.post('/otp',Otp)
 router.post('/img',upload.single('Image'), imageupoad)
+router.get('/otpverify',forgotpassword)
 module.exports=router

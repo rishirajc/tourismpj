@@ -38,56 +38,59 @@ const Alappybch = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.thesanchari.com/wp-content/uploads/2023/09/alleppey-beach-800x600.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Alappuzha Beach</h1>
+    <p>Alappuzha, often referred to as Alleppey, is a picturesque city in the state of Kerala, known for its intricate network of canals, backwaters, beaches, and lagoons. Often dubbed the 'Venice of the East,' Alappuzha is a popular tourist destination, especially famed for its houseboat cruises that offer an immersive experience of Kerala's enchanting backwaters. This coastal city provides a perfect blend of natural beauty, cultural heritage, and serene water-based activities.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+<h3>Backwaters and Houseboat Cruises</h3>
+The backwaters of Alappuzha are a labyrinthine network of interconnected canals, rivers, lakes, and inlets, stretching over 900 kilometers. These tranquil waterways are fringed with lush greenery, coconut palms, paddy fields, and quaint villages, creating a charming landscape. Exploring these backwaters on a traditional houseboat, known as a 'kettuvallam,' is a quintessential Kerala experience.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+Houseboats in Alappuzha are well-equipped with modern amenities, offering comfortable and luxurious accommodations on the water. These floating marvels are traditionally crafted using eco-friendly materials like bamboo, coir, and wood, maintaining an authentic charm while providing a unique travel experience. As you glide through the serene backwaters, you can enjoy breathtaking views of the lush landscape, mirror-like waters, and vibrant village life. The tranquil environment is perfect for relaxation and unwinding.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+Houseboat cruises often include delicious meals prepared on board, featuring traditional Kerala cuisine. Fresh seafood, spicy curries, and tropical fruits add to the culinary delight, offering an authentic taste of the region. During the cruise, you may have the opportunity to experience local culture and traditions. Interacting with villagers, witnessing traditional fishing methods, and enjoying local music and dance performances are some of the highlights. One of the most captivating experiences on a houseboat cruise is watching the sunset and sunrise over the backwaters. The changing hues of the sky reflecting on the calm waters create a magical and unforgettable scene.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+<h3>Activities and Experiences</h3>
+Alappuzha offers a range of activities that allow visitors to immerse themselves in the local culture and natural beauty:
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+Boat Races: Alappuzha is famous for its snake boat races, particularly the Nehru Trophy Boat Race. Held annually in August, this event features long, sleek boats rowed by teams of oarsmen in a thrilling competition that attracts visitors from all over the world.
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+Canoeing and Kayaking: For a more intimate experience of the backwaters, visitors can opt for canoeing or kayaking. These smaller vessels allow you to navigate the narrower canals and explore the hidden gems of the backwaters up close.
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+Village Tours: Guided village tours offer insights into the traditional lifestyle and culture of the local communities. Visitors can observe coir making, toddy tapping, and paddy cultivation, and interact with the friendly villagers.
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
+Ayurvedic Treatments: Alappuzha is known for its Ayurvedic wellness centers, offering various treatments and therapies based on ancient healing practices. Visitors can indulge in rejuvenating massages, herbal baths, and wellness programs to relax and revitalize.
+
+Accessibility and Accommodation
+Alappuzha is well-connected by road, rail, and water. The nearest railway station is Alappuzha Railway Station, located within the city. The nearest airport is Cochin International Airport. Alappuzha is also accessible by bus and private vehicles, with good road connectivity to major cities in Kerala.
+
+Accommodation options in Alappuzha range from luxury resorts and houseboats to budget hotels and homestays. Many of these establishments offer beautiful views of the backwaters and provide easy access to the city's attractions. Staying on a houseboat is a unique and memorable experience, allowing visitors to fully immerse themselves in the beauty of the backwaters.
+
+<h3>Best Time to Visit</h3>
+The best time to visit Alappuzha is from October to March, when the weather is cool and pleasant, making it ideal for houseboat cruises and outdoor activities. The monsoon season (June to September) brings heavy rainfall, enhancing the lush greenery but may limit some activities. However, the monsoon period is also a beautiful time to experience the backwaters in their full splendor.
+
+Alappuzha, with its enchanting backwaters, vibrant culture, and delightful landscapes, offers a unique and unforgettable travel experience. Whether you are cruising through the tranquil waters on a houseboat, exploring the picturesque canals, or immersing yourself in the local culture, Alappuzha provides a perfect blend of relaxation, adventure, and natural beauty.</p>
+    <p>Alappuzha Beach is a beach in Alappuzha town and a tourist attraction in Kerala, India.[1] Beach has an old pier which extend to sea is over 150 years old.[2] Alappuzha beach host many events annually like Alappuzha beach festival,[3] Sand art festival[4] and many more.
+
+<h3>Overview</h3>
+Alappuzha beach is one of the major tourist spot in Alappuzha town. Alappuzha Lighthouse situated near to the beach.[5] Beach is accessible through various town roads and an elevated highway will passing by the beach as part of Alappuzha bypass in order to preserve the beauty of the area.[6] Camel safaris was another attraction in beach which introduced a couple of years ago but it got banned by authorities.[7]
+<h3>
+Events in Alappuzha beach</h3>
+Alappuzha beach festival is a famous event organised as part of new year celebration. It's organised as an annual event in every year. Thousands of people gathers in the event includes from other district.[3] Kerala's first international sand art festival and competition held on April 26-2015 in Alappuzha beach. Many national and international sand artists participated in event. The state tourism department and the Alleppey Foundation has jointly organised the event.[8]
+
+<h3>Local Attractions</h3>
+Alappuzha Lighthouse
+Vijay Park
+Sea View Park[9]
+Alappuzha Bypass
+Jain Temple</p>
     
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
 
 
 
 
 
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
+
 
 
 
@@ -99,20 +102,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpewNM2I70OsTjd33gMT9ajJCs-FCWw3wkQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/VSGXAc1cMBQ/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/WRVRDzaQodg/sddefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f4/b0/b7/alappuzha-beach.jpg?w=600&h=-1&s=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLbnA4M1FY-GJ4aw14cf-JvDjYCvN2tgFFQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_f1MH6mAMB3kA1oVduTjUWgTPRIPwZPOYkg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRriHE_fQSyvlwRYGKyMG9T_zvxM-tjuN14uQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH31HoiaZNmASaJ32eLBetC8xeg33bbFHkQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1XzL9TYJQK89enX-en_0UrtywwUnVKbMjg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://thetravelingca.com/wp-content/uploads/2020/08/IMG_20191121_180428-01-1024x634.jpeg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sWHGYIJHijqlhkMfGuu615TRQhq5eMww9g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVHdw0ThQzzD2ql8SGbS50lOYdpBz4Kf95Q&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWnOzCp-gyy2eE_Ct2ykyasxMpnk6Y6vfwA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLMj1VZNmPEjLHcBAjV22eiWqMz8W2BswWw&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +137,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Baywatch Beach Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37-Kbop8Sw-1UNuQet3_4vEmkroX4d5YvOA&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://baywatchbeachresortalleppey.com/alleppey-beach-resort-booking.html">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Alleppey Beach Resorts</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB7hdtQfDeLkk9YyJ60UA6-LjgZnHEqo6Qg&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.thealleppeybeachresorts.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Palm Beach Resort & Cafe by UTH</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/3a/ba/ff/palm-beach-homestay.jpg?w=300&h=-1&s=1" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://alleppeypalmbeachresort.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Haven Alleppey Beach Villa</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQ1eauzXDe2iXNhGkGTcUJI7XI2yZeO_sNw&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.havenbeachvilla.com/">click to view</a>
 </div>
 
 </IMGG>

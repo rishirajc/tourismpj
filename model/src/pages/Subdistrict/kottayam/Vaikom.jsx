@@ -38,56 +38,52 @@ const Vaikom = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.vaikomtemple.org/uploads/banner/image_1.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Vaikom Sree Mahadeva Temple</h1>
+   
+<p>The Vaikom Sree Mahadeva Temple is a temple dedicated to the Hindu god Shiva in Vaikom, Kottayam, Kerala, India.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The temple, along with the Ettumanoor Shiva Temple and the Kaduthuruthy Shiva Temple is considered a powerful place of Shiva. The belief is that if a devotee worships all the three temples before the Ucha puja, all his/her wishes are fulfilled. It is one of the oldest temples in Kerala and is famous for its Vaikom Ashtami festival.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
-
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
-
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
-
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+The temple is one of the few temples which is held in reverence by both Shaivas, the adherents of Shiva and Vaishnavas, the adherents of Vishnu. In Vaikom, Shiva is fondly called as Vaikkathappan, the lord of Vaikom. The lingam here is believed to be from the Treta Yuga, the second age of Hinduism and is considered one of the oldest temples in Kerala where puja has not been broken since its inception.
 
 
+A sculpture in the temple
+The temple is one of the major Shiva temples in Kerala held in reverence along with the temples in Ettumanoor, Kaduthuruthy, Vazhappally, Chengannur, Ernakulam, Vadakkunathan, Sreekanteswaram Mahadeva Temple, Thiruvananthapuram and Thirunakkara.</p>
+
+<p><h3>Origin</h3>
+The demon Khara, on receiving the Shaiva Vidya Upadesha, (the knowledge of Shaivisim) from Malyavan went to the holy city of Chidambaram in present-day Tamil Nadu and did severe penances and meditation for the attainment of Moksha or liberation. Pleased with his penance, Shiva appeared and granted all the boons he asked, and presented him with three great lingams, drawn out of Him. Assuring that He will ever be present in them, Shiva asked Khara to worship the Lingas to attain salvation and disappeared. When Khara was returning south from the Himalayas with the three lingams, one in his right hand, one in his left hand and other by the neck, he felt tired and rested awhile. After rest when he tried to pick up the lingas, they wouldn't budge. He realized that it was Shiva's magic (maya) and when called unto, the heavens spoke thus, "I shall remain here giving Moksha (salvation) to whoever takes refuge in Me!". Khara, having attained liberation, entrusted the lingams to the custody of the sage Vyaghrapada who had followed him invisibly and asked the sage to protect and worship them.
+
+<h3>Myths & Beliefs</h3>
+
+The Banyan tree inside the temple
+On the day of Vrichika Ashtami (According to Malayalam calendar), Shiva and his consort Parvati appeared before Vyaghrapada. The Lord proclaimed, "This place shall be known as Vyaghrapadapurma", and disappeared. The world-famous Vaikkathashtami festival and all connected holy festivals are observed here even to this day on the same Vrichika Ashtami.
 
 
+The temple of Sri Kochalumchuvdu Bhagavathy Amman, who is considered as a form of Kali and the consort of Vaikathappan.
+Vyaghrapada continued the puja with full devotion for some time and went on a pilgrimage. Months and years passed. Parashurama had passed by the place one day. Seeing good omens, he alighted and saw a lingam submerged in water emitting heavenly rays. He could understand that it was the lingam placed by Khara. Parashurama thought to himself that, Vyaghrapadapurma, the holiest place on Earth, could be a great refuge for the devoted who wish to attain liberation. He consecrated the lingam here with his earnest prayers and recited holy mantras.
 
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
+Pleased with his devotion, Shiva appeared with his consort Parvati before Parashurama. He was so pleased to see that the lingam was consecrated with the customs and rites by Parashurama, his greatest devotee.
+
+Full of joy and gratitude, Parashurama performed puja there for some days. Then he built a temple here and entrusted a noble Brahmin man from the Taruna village. He taught the brahmin, the holy chants, mantras, procedures and shlokas necessary to perform puja to Shiva and initiated him as the chief priest of the temple. Parashurama donated the whole temple to the brahmin and disappeared. It is the belief that the temple and its connected customs and rites are planned and fixed by Parashurama himself.
+
+It is believed that Shiva, also known here as Vyaghralayesha (the lord of Vyaghrapadapurma), gives His blessings to the devotees in three incarnations or avatars, in the morning as Dakshinamurthi, in the afternoon as Kiratamurthi, and as Shakti Panchakshari in the evening.
+
+The closed western door
+The temple was in the ownership of 108 families in olden days. The owners were divided into two groups and one group joined the king's side. Their disputes and quarrels increased day by day. One day a section of the divided group came to the temple at noon. The chief of one of the groups, Njallal Namboothiri barged into the temple to stop the puja. At that time the naivedyam, the food offered to the deity, was used to be placed in the western side of the Namaskara Mandapa hall. Njallal Namboothiri barged through the western door, kept his shawl above the western door and spat the remains of his paan on the food. Thus, the puja was disrupted. On return, while he was taking his shawl from the door top, he was bit by a highly poisonous snake. He crawled himself outside the western door and died. The door automatically closed itself and a heavenly voice was heard from inside the sanctum sanctorum saying, "This door should not be opened anymore!". The door remains closed to this day to show the wrath of Shiva against the disruption of his worship.
+
+<h3>Architecture</h3>
+
+Mural paintings in the sanctum of temple
+One of the biggest temples in Kerala, the temple has a courtyard of about eight acres of land. The premises levelled with river sand is protected by compound walls with four gopurams or entrance towers on all the four sides. Even though temples are generally constructed near perfect East-West direction (e.g., the temples in Ettumanoor and Kaduthuruthy), the Vaikom temple is built a tilt of five degrees in the North-South direction.[2] The sanctum sanctorum is apparently round in shape roofed with copper sheets and with two chambers. In fact, this is the only temple in Kerala with an oval shaped sanctum, though externally it appears like a circular temple. This oval shape is evident when the width of antharaala is measured. Only builders with exceptional skill can execute such marvellous architectural structures. The remnants of the basement of the original sanctum at the temple in Chengannur also reveal that it was elliptical in shape. It is believed that both these structures were built by Perumthachan, who was an exceptional architect of his time.[3][4] The Mukha Mandapa, the first pillared hall and chamber is built in shaped stone and single piece woods. The walls and pillars are very strong. The garbhagriha or the sanctum sanctorum – the second chamber is built completely in stone including the roof in a square shape. It is a very curious and peculiar fact that we are unable to obtain the darshana of the lingam from the sanctum without passing through a staircase with six steps, either from the entrance or the sanctum. It signifies the six vikaras (impurities) which are Kama (lust), Krodha (anger), Lobha (power), Moha (attachment), Mada (ego) and Matsarya (envy). Crossing the staircase signifies the devotee letting go of these six impurities and attaining liberation or moksha. This is well depicted in the famous Malayalam song, Naranayingane Janichu Bhoomiyil, written about the deity of this temple.
+
+<h3>Vaikathashtami</h3>
+
+Procession of Perumthrikkovilappan for the Vaikom Ashtami festival
+The Vaikom temple is famous for the Vaikom Ashtami (Vaikathashtami), one of its main festivals, which is held in from November–December. The exact date of the festival is determined by the Malayalam calendar.[5] Vaikathashtami is celebrated on the day of Krishna Ashtami in the Malayalam month of Vrischikam. It commemorates the appearance of Shiva before Vyaghrapada.</p>
+
+
 
 
 
@@ -99,20 +95,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlocqgEwxPd_vilgs3LlAGoSkqn8xApjN0pw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://static.toiimg.com/photo/57936310.cms" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQir8Dm-3eL91DOqiqhLKTmU_0i3wvaYbzypw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.mattindia.com/wp-content/uploads/2023/09/Vaikom-Temple-a-Tourist-Attraction-in-Kerala.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVoZtXRieYAlg4hlnqNGy4N0YXtzIFf48hg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://media.licdn.com/dms/image/v2/D5622AQG3fzYUJm6KDQ/feedshare-shrink_800/feedshare-shrink_800/0/1687784908666?e=2147483647&v=beta&t=QN7O2XK2oMnEZiDPAU4wRzA0GWtf_KGPiNruVqTUE5k" alt="" />
+<img width={'200px'} height={'200px'}   src="https://live.staticflickr.com/1763/29192467128_d9d4201465_b.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.vaikomtemple.org/themes/user/images/Arattu.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://imagedelivery.net/pyX3WeyB0txAwUsxwjq_eg/vaikom/w500" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0XxWuTkQb9l36fQPhJcMcDHvV2AaI_ysXA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vaikom_Temple_Sreekovil_Murals.jpg/220px-Vaikom_Temple_Sreekovil_Murals.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThC9mUVWYd7Dsw3Jgzaw-tpKX32MIoRY3n5w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxXGqidqqWK2BSz0sLGcQ_YQWyBpKDMGZfg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.ekeralatourism.net/wp-content/uploads/2018/01/Vaikom-Mahadeva-Temple-at-Kottayam.jpg" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +130,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   CHANDRACHOODAM HOMESTAY</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/560644511.jpg?k=45df61f055cc6030fa6fc8460ece1ff0d1994e34a0c080b489e6dcfb2a998538&o=&hp=1" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.makemytrip.com/hotels/chandrachoodam_homestay-details-vaikom.html">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Vembanad Lake Villas</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://vlvs.com/images/slider_banner1.jpg" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.vlvs.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   White Gate Residency</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEHgFHsZi4ohT8Jda2vMD4pMqycKEvF5PqQ&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.whitegateresidency.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Mango Meadows Resort</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://mangomeadows.in/wp-content/uploads/2016/06/slide-3.jpg" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://mangomeadows.in/">click to view</a>
 </div>
 
 </IMGG>

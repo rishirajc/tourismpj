@@ -1,0 +1,21 @@
+.gap{
+    width: 440px;
+}
+.nam{
+    margin-left: 78px;
+}
+.leg{
+    padding-bottom: 31px;
+}
+.upbtn{
+    margin-left: 122px;
+    border-radius: 8px;
+    background-color: deepskyblue;
+    width: 110px;
+    height: 28px;
+    margin-top: -34px;
+    cursor: pointer;
+}
+.fil{
+    padding-bottom: 36px;
+}

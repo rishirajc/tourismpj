@@ -38,56 +38,35 @@ const Illikal = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/images/enchanting_kerala/large/illickal_kallu20220103142808_1152_1.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Illickal Kallu</h1>
+    <p>Illikkal Kallu is a monolith located on top of the Illickal Malaa in the Kottayam district of Kerala, India.The distance from kottayam railway station to illikal kallu is 57km. Situated at around 3500 feet above sea level, Illickal Kallu is a major tourist attraction in Moonnilavu Gramapanchayat. L. S. G.D., Thalanadu village of Meenachil taluk. Only one half of the original rock remains, as the other half of the rock has fallen off. The nearest town is Teekoy. Numerous mountain streams originate from this peak and flow down to form the Meenachil River. Tourists must trek 1 km to reach the summit of the peak.</p>
 
+    <p>Illikkal Mala comprises three hills, each rising up to 4,000 ft above sea level. Each of the hills has a peculiar shape. One of them resembles a mushroom, which is why it is known as Kuda Kallu (umbrella-shaped rock). The second hill has a small hunch on the sides and is therefore referred to as Koonu Kallu (hunch back rock). There is a 1⁄2-foot-wide bridge called Narakapalam (bridge to hell) connecting these two hills. The beauty and the landscape of illikkal kallu is similar to that of the pillar rocks in Kodaikanal. It is said that the mythical medicinal herb Neela Koduveli grows here. This mythical blue flower is also believed to possess supernatural powers, which could increase wealth, prosperity and ensure a rich harvest.[1]
+
+From the hilltops, the Arabian Sea can be seen on the far horizon as a thin blue stroke. The view of the sunset from above the peak in the evening of a full moon day can be sensational: the moon can be seen rising up like another sun, as the orange sun goes down.</p>
+<p>ne of the most popular tourist destinations in Kottayam district is Illickal Kallu, situated on a majestic hill called Illickal Mala. 
+
+There are numerous mountain streams in Illickal Mala, which is 6,000 ft above sea level, and they flow down to form the serene Meenachil River. Each of the three hills has a peculiar shape. One of them resembles a mushroom and hence, its name ‘Kuda Kallu’ (umbrella-shaped rock). The second hill has a small hunch on the side and is therefore called as ‘Koonu Kallu’ (hunchback rock). The third one is called Illickal Kallu as it derives its name from the mountain itself. The steep rock on the top of the hill has a part of its peak shorn off. 
+
+The nearest town is Nellappara (8km) and the nearest major town is Erattupetta (19km). The journey up the hill is in itself an eventful one. After a thrilling drive negotiating hairpin curves and a hike uphill, there is a path that takes you to Illickal Kallu. You may tread this path or just stay put and feel the might of this imposing muscular rock. 
+
+The breathtaking aerial view of the surroundings and billows of mists that glide past shrouding the towering hill is sure to overwhelm you. The weather is cool and misty here. If the sky is clear, the Arabian Sea can be seen in the distant horizon as a thin blue line. Sunsets on full moon days are special here. The moon can be seen rising like another sun as the orange sun goes down.
 </p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+<p>At a distance of 10 km from Marmala Waterfalls, 30 km from Vagamon, and 57 km from Kottayam, Illikkal Kallu is a monolith located on top of the Illickal Mala near Meladukkam village in the Kottayam district of Kerala, India. It is one of the scenic viewpoints in the Western Ghats, and among the top places to visit during Vagamon tour.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+Situated at an altitude of 3400 feet, Illikkal Kallu is a major tourist attraction in Moonnilavu and Thalanadu village of Meenachil taluk. Illikkal Kallu is one of the three hills comprising of Illikkal Mala, one of the highest peaks in the Western Ghats. Each of the hills has a peculiar shape. One of them resembles a mushroom, which is why it is known as Kuda Kallu (umbrella-shaped rock). The second hill has a small hunch on the sides and is therefore referred to as Koonu Kallu (hunch back rock). There are two bridges connecting the hills, known as Naragapalam (Hell bridge) and Swargavathil (Entrance to Heaven). A new rope-way is proposed connecting Illikal Kallu and the nearby hill Ilaveezha Poonchira, as a part of Kerala Tourism.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+The beauty and the landscape of Illikkal Kallu are similar to that of the Pillar Rocks in Kodaikanal. Only one-half of the original rock remains, as the other half of the rock has fallen off. The view from Illikal Kallu is mesmerizing with numerous hills rising to the clouds and the deep valleys. From the hilltop, the Arabian Sea can be seen on the far horizon as a thin blue stroke. The view of the sunset from the peak in the evening of a full moon day can be sensational.
 
+Numerous mountain streams originate from this peak and flow down to form the Meenachil River. Kattikayam Waterfalls is around 2 km from Illikkal Kallu, and the trek to this waterfall is indeed a mesmerizing experience. Though there are no risks in visiting this waterfall, visitors need to take care of slippery rocks. Ilaveezhapoonchira is another hilltop 14 km from Illikkal Kallu with similar features.
+
+The hilltop is a 3 km trek from Mankombu, which can be reached by bus from Erattupetta. Alternatively, you can also drive down or hire a private vehicle that can drop you till Pazhukkakaanam, from here jeeps are available to take you to Illikkal Kallu. There is a check-post set up by DTPC (District Tourism Promotion Council) 1 km before the summit and private vehicles are not allowed beyond this point. From here, visitors can opt for a walk to the summit or utilize Jeep safaris provided by DTPC to reach the top.
 </p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
-
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
-
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
 
 
 
-
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
-   </div>
 
 
 
@@ -99,20 +78,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Illikkal_Kallu_%28%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%29.jpg/800px-Illikkal_Kallu_%28%E0%B4%87%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%95%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%8D_%29.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sv0-SUzU1n3qYu8kk5bDAQHPK2wzHZeNdA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.trawell.in/admin/images/upload/963467586Illikkal.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFsnVj3Bp0JagFEPYQQVa1i5NW1KMt-X3rQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://img.onmanorama.com/content/dam/mm/en/travel/kerala/images/2022/7/24/illikkal-kallu-full-width.jpg/photos/16x9/photo.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStrXXS9pXOOXxCRA3Jn0Hknzs280-fZs4ONQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaF-KW2sq5PuIqmcbbjfkp0wByWeGebz7cQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://live.staticflickr.com/8520/29088390020_bf7f8f81f2_b.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Mc76okOxgCyEA0l7qsSTck9Z2G7rNg39Ng&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1P8Yb9FTcoqgq1M6aNwuxJOVO0Ldd-d9IuQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/images/enchanting_kerala/large/kattikkayam_waterfall20240416151526_1397_1.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ7LSuiROXR62PY6vH4yUHWv8xkuKMq3gNA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDkKgUzaNH6KVxkPilJkGKNFscMYLaqC20Q&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmNTlQtVKgYgU8-EBnFfM0Vbr2MFotA6Emg&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +113,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Mistywindvalley Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrE8V1uEYfZTZdJltX7ohDdVu6CIlpLLoxSeyj1rU92wSR7fQxz8q-rXjn7vqN6X-smoA&usqp=CAU" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.mistywindvalley.in/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Earth Lounge Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/509431195.jpg?k=06fa609eb6979b2178c04e5d21ca0c1399d7e69863f6862e7a14f1ddda3e40fa&o=&hp=1" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.booking.com/searchresults.en-gb.html?aid=356980&label=gog235jc-1BCAsobEITZWFydGgtbG91bmdlLXJlc29ydEgzWANobIgBAZgBCbgBF8gBDNgBAegBAYgCAagCA7gCoJ_PuwbAAgHSAiQ1MDViOTE2Yi0zNjY5LTQ5NTAtODkyMC1kYjc2OTA0NzFlZmLYAgXgAgE&highlighted_hotels=11142680&redirected=1&city=900049821&hlrd=user_sh&group_adults=2&source=hotel&expand_sb=1&keep_landing=1&sid=4d1f5003b68185b5abb429c67ab5ab2f">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Tojys Homestay</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYJHLgYhrnpezWt1tjV-7ATFA2JCBbGrcBw&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/tojys_homestay-details-thodupuzha.html">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Mount Tales Vagamon Resort</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/456622377.jpg?k=652b5bdc18e402a1d4e40197a2a735ed9c945dc67dbde32ba57821e35c33fde1&o=&hp=1" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.mounttales.com/">click to view</a>
 </div>
 
 </IMGG>

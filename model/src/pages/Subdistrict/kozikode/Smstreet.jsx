@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import smt from '/src/pages/Subdistrict/kozikode/image/smst.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -13,9 +14,11 @@ flex-wrap: wrap;
 `
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -71,7 +74,7 @@ S. M. Street is the subject of the Kerala Sahitya Akademi Award-winning book Oru
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={smt} width={"400px"} height={"400px"} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/BGxMZW2uMdRs98PE8">CLICK TO REVIEW MAP</a>
 
 

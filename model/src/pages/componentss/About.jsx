@@ -1,20 +1,40 @@
 import React from 'react'
 import styled from 'styled-components'
+import fot from "/src/image/foot.png"
+
+
 const MAIN=styled.div`
-  padding-left: 10px;
+width: 100%;
+min-height: 120vh;
+
 
 `
-const LAST=styled.div`
+const MAINN=styled.div`
 width: 100%;
-height: 300px;
-background: #2986db;
-padding-left: 100px;
-padding-top: 30px;
+height: auto;
+background-color: #78a9d4;
+
+
+`
+
+const FIN=styled.div`
+margin-top:60px;
+height: 200px;
+background-color: #78a9d4;
+
+
 `
 const About = () => {
   return (
+    
     <MAIN>
-      <h1 style={{backgroundColor:"lightgreen"}}>Tourism in Kerala</h1>
+       <div style={{width:"100%",height:"700px"}}>
+        <img height={"700px"} width={'100%'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fayurveda-treatment-images-1725363324_735b939249b913d097a7.webp&w=1920&q=75" alt="" />
+      </div>
+     <MAINN>
+
+  
+      <h1>Tourism in Kerala</h1>
       <p>
       Kerala, a state situated on the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country. Named as one of the ten paradises of the world by National Geographic Traveler,[1] Kerala is famous especially for its ecotourism initiatives and beautiful backwaters.[2] Kerala has unique culture and traditions coupled with its varied demography. Several international agencies ranging from UNESCO to National Geographic have recognised the state's tourism potential.[3] Kerala was named by TIME magazine in 2022 among the 50 extraordinary destinations to explore in its list of the World's Greatest Places.[4] In 2023, Kerala was listed at the 13th spot in The New York Times' annual list of places to visit and was the only tourist destination listed from India.[5]
 
@@ -39,7 +59,7 @@ Kerala is a popular destination for both domestic as well as foreign tourists. K
 The state's tourism agenda promotes ecologically sustained tourism, which focuses on the local culture, wilderness adventures, volunteering and personal growth of the local population. Efforts are taken to minimize the adverse effects of traditional tourism on the natural environment and enhance the cultural integrity of local people. The state has also made deep inroads into MICE Tourism mainly centered at Kochi.[9]
       </p>
 
-      <h1 style={{backgroundColor:"lightgreen"}}>
+      <h1  >
       Historical context
       </h1>
       <p>
@@ -62,21 +82,88 @@ By 1986, tourism had gained an industry status. Kerala Tourism subsequently adop
 
 In 2012, National Geographic's Traveller magazine named Kerala as one of the "ten paradises of the world" and "50 must see destinations of a lifetime". Travel and Leisure also described Kerala as "One of the 100 great trips for the 21st century". In 2012, Kerala overtook the Taj Mahal to be the number one travel destination in Google's search trends for India. CNN Travel listed Kerala amongst its '19 best places to visit in 2019. Time magazine picked Kerala among 50 ‘extraordinary destinations’ across the globe to explore in 2022. The state was ranked ninth in the ‘World's Greatest Places' and was described as an ‘eco-tourism hot spot'.[14] In 2023, The New York Times selected Kerala as one of the 52 must-see tourism destinations in the world. Kerala was selected as thirteenth in the list and was the only state in the list from India.[15]
       </p>
-      <h1 style={{backgroundColor:"lightgreen"}}>Major attractions</h1>
-      <h3 style={{color:"green"}}>Beaches</h3>
-      <p>
-      Flanked on the western coast by the Arabian Sea, Kerala one of the long coastline of 580 km (360 mi); all of which is virtually dotted with sandy beaches. Kovalam beach near Thiruvananthapuram was among the first beaches in Kerala to attract tourists. Rediscovered by back-packers and tan-seekers in the 1960s and followed by hordes of hippies in the 1970s, Kovalam today is one of the most visited beaches in the state.[17][18][19]
+      <h1 >Major attractions</h1>
+      
 
-Other popularly visited beaches[20] in the state include those at Kappad, Alappuzha, Kozhikode[citation needed] Beach, Marari Beach (Mararikulam, Alappuzha), Thumpoly (thumpoly beach ) Alappuzha,Alappuzha , Nattika (Thrissur), Vadanappilly beach (Thrissur), Cherai Beach, Ponnani beach, Bekal, Kappad Beypore beach, Marari beach, Fort Kochi, and Varkala. The Muzhappilangad Beach at Kannur and Thikkodi Beach at Kozhikode are the only two drive-in beach in India. Marari beach was rated as one of the world's top five Hammock Beaches by the National Geographic survey and has been cited[21] in the international press.
-      </p>
-
-      <h3 style={{color:"green"}}>Backwaters</h3>
+      <h1 style={{backgroundColor:"lightgrey",width:"165px"}}>Backwaters</h1>
       <p>
       The backwaters in Kerala are a chain of brackish lagoons and lakes lying parallel to the Arabian Sea coast (known as the Malabar Coast). Houseboat or Kettuvallam rides in backwaters are a major tourist attraction in kerala. Backwater tourism is centered mostly around[22] of Kerala like Alleppey, Kumarakom, Ashtamudi Lake, Kollam, Ponnani, Kavvayi Backwaters, Vembanad and Bekal. Boat races held during festival seasons are also a major tourist attraction in the backwater regions.
 
 The backwater network includes large lakes such as the Ashtamudi Lake, the largest among them, linked by 1500 km of canals, both man-made and natural and fed by several rivers, and extending virtually the entire length of Kerala state. The backwaters were formed by the action of waves and shore currents creating low barrier islands across the mouths of the many rivers flowing down from the Western Ghats range.
       </p>
-      <h3 style={{color:"green"}}>Tourism in Kerala </h3>
+    <div style={{paddingLeft:"500px"}}> <img width={"800px"} height={'500px'}  src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fbackwaters-1714755527_b0280efe36a43ee1cab5.webp&w=1920&q=75" alt="" /> </div>  
+      
+      <p><h1 style={{backgroundColor:"lightgrey",width:"140px"}} >Beaches</h1>
+      Kerala's landscape is adorned by a plethora of beaches and we bring you high resolution images of the same</p>
+      <div style={{paddingLeft:"200px"}}>
+        <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fbeaches-1714755571_82ef3f8443e62052ce36.webp&w=1920&q=75" alt="" />
+      </div>
+      <p><h1 style={{backgroundColor:"lightgrey",width:"140px"}}>Festivals</h1>
+      High resolution pictures displaying festivals sights in Kerala</p>
+      <div style={{paddingLeft:"500px"}}>
+<img width={'800px'} height={'500px'}  src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Ffestivals-1714755624_b0a3db6e6438118bdd9b.webp&w=1920&q=75" alt="" />
+      </div>
+      <p><h1 style={{backgroundColor:"lightgrey",width:"140px"}}>Forts</h1>
+      We bring you high resolution images of the famous Forts of Kerala.</p>
+      <div style={{paddingLeft:"200px"}}>
+        <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fforts-1714755673_fe90c7e26775ed5c3146.webp&w=1920&q=75" alt="" />
+      </div>
+      <p><h1 style={{backgroundColor:"lightgrey",width:"140px"}}>Hills</h1>
+      We have provided high resolution images of some of the prominent hills in Kerala, ranging from Ponmudi to Munnar.</p>
+      <div style={{paddingLeft:"500px"}}>
+<img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fhills-1714755718_99765c1ed611f21eea78.webp&w=1920&q=75" alt="" />
+      </div>
+<p><h1 style={{backgroundColor:"lightgrey",width:"240px"}}>Kerala Visuals</h1>
+Pictures of unique locations, art forms, treatments etc. that can only be experienced in Kerala</p>
+<div style={{paddingLeft:"200px"}}>
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fkerala-visuals-1714756369_966a6aeb7550ce9efd98.webp&w=1920&q=75" alt="" />
+</div>
+
+<p> <h1 style={{backgroundColor:"lightgrey",width:"166px"}}>Monuments</h1>
+We bring you high resolution images of the monuments of Kerala.</p>
+<div style={{paddingLeft:"500px"}}>
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fmonuments-1714755768_a8b0e48c32c867a3d634.webp&w=1920&q=75" alt="" />
+</div>
+
+<p>
+<h1 style={{backgroundColor:"lightgrey",width:"140px"}}>Museums</h1>
+We bring to you high resolution images of famous museums located in Kerala</p>
+<div style={{paddingLeft:"200px"}}>
+  <img  width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fmuseums-1714755805_f7ec7afdb21df5ccec0e.webp&w=1920&q=75" alt="" />
+</div>
+<p> <h1 style={{backgroundColor:"lightgrey",width:"250px"}}>Performing Arts</h1>
+We bring you high resolution images of Performing Arts in Kerala</p>
+<div style={{paddingLeft:"500px"}} >
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fperforming-arts-1714755901_8721804b7c712cc255fc.webp&w=1920&q=75 " alt="" /></div>
+<p> <h1 style={{backgroundColor:"lightgrey",width:"240px"}}>Picnic Spots</h1>
+We provide you visuals for famous Picnic Spots in Kerala</p>
+<div style={{paddingLeft:"200px"}}>
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fpicnic-spots-1714756586_c7e4e9b55265a15900a9.webp&w=1920&q=75" alt="" />
+</div>
+<p> <h1 style={{backgroundColor:"lightgrey",width:"240px"}}>Pilgrim Centres</h1>
+Kerala is has numerous pilgrim centers of many religions. Here we provide you with images some of the prominent centres of worship located all over in the state.</p>
+<div style={{paddingLeft:"500px"}}>
+  <img width={'800px'} height={'500px'}  src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fpilgrim-centres-1714756316_f61005282487ddc7a925.webp&w=1920&q=75" alt="" />
+</div>
+<p>
+<h1 style={{backgroundColor:"lightgrey",width:"240px"}}>Places of Interest</h1>
+Here we have a list of a few places of interest that are usually frequented by visitors to help tourists plan an itinerary</p>
+<div style={{paddingLeft:"200px"}}>
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fplaces-of-interest-1714756107_24b2baa06dad0ed43b23.webp&w=1920&q=75" alt="" />
+</div>
+
+<p> <h1 style={{backgroundColor:"lightgrey",width:"150px"}}>Waterfalls</h1>
+Kerala's proximity to the Western Ghats and the ensuing forests has ensured that there are a large number of waterfalls adorning the landscape. We provide a collection of high resolution pictures of the same.</p>
+<div style={{paddingLeft:"500px"}}>
+  <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fwaterfalls-1714756155_d2dd3589a5999e111731.webp&w=1920&q=75" alt="" />
+</div>
+<p> <h1 style={{backgroundColor:"lightgrey",width:"140px"}}>Wildlife</h1>
+Kerala is known for its numerous unique wildlife species, which are the result of equable climate and singular geographic features.</p>
+  <div style={{paddingLeft:"200px"}}>
+    <img width={'800px'} height={'500px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fwildlife-1714756214_d09bd9eac00f02fd7db1.webp&w=1920&q=75" alt="" />
+  </div>
+
+      <h3>Tourism in Kerala </h3>
 
       
 
@@ -198,32 +285,32 @@ Eastern Kerala consists of land encroached upon by the Western Ghats; the region
 
 The Western Ghats rise an average to 1500 m elevation above sea level. Some of the popular hill stations in the region are Munnar, Vagamon, Paithalmala, Wayanad, Nelliyampathi, Nilambur, Elapeedika, Peermade, Thekkady, Ponmudi and Kalvary Mount.
 </p>
-<h3 style={{color:"green"}}>
+<h3 >
 Wildlife
 </h3>
 <p>
   Most of Kerala, whose native habitat consists of wet evergreen rainforests at lower elevations and highland deciduous and semi-evergreen forests in the east, is subject to a humid tropical climate. However, significant variations in terrain and elevation have resulted in a land whose biodiversity registers as among the world's most significant. Most of Kerala's significantly biodiverse tracts of wilderness lie in the evergreen forests of its easternmost districts. Kerala also hosts two of the world's Ramsar Convention-listed wetlands: Lake Sasthamkotta and the Vembanad-Kol wetlands are noted as being wetlands of international importance. There are also numerous protected conservation areas, including 1455.4 km2 of the vast Nilgiri Biosphere Reserve. In turn, the forests play host to such major fauna as Asian elephant (Elephas maximus), Bengal tiger (Panthera tigris tigris), leopard (Panthera pardus), Nilgiri tahr (Nilgiritragus hylocrius), and grizzled giant squirrel (Ratufa macroura).[24] More remote preserves, including Silent Valley National Park in the Kundali Hills, harbour endangered species such as the lion-tailed macaque (Macaca silenus), Indian sloth bear (Melursus (Ursus) ursinus ursinus), and gaur (the so-called "Indian bison"—Bos gaurus). More common species include Indian porcupine (Hystrix indica), chital (Axis axis), sambar (Cervus unicolor), gray langur, flying squirrel, swamp lynx (Felis chaus kutas), boar (Sus scrofa), a variety of catarrhine Old World monkey species, gray wolf (Canis lupus), and common palm civet (Paradoxurus hermaphroditus). Many reptiles, such as king cobra, viper, python, various turtles and crocodiles are to be found in Kerala—again, disproportionately in the east. Kerala's avifauna include endemics like the Sri Lanka frogmouth (Batrachostomus moniliger), Oriental bay owl, large frugivores like the great hornbill (Buceros bicornis) and Indian grey hornbill, as well as the more widespread birds such as peafowl, Indian cormorant, jungle and hill myna, Oriental darter, black-hooded oriole, greater racket-tailed and black drongoes, bulbul (Pycnonotidae), species of kingfisher and woodpecker, jungle fowl, Alexandrine parakeet, and assorted ducks and migratory birds. Additionally, freshwater fish such as kadu (stinging catfish—Heteropneustes fossilis) and brackishwater species such as Choottachi (orange chromide—Etroplus maculatus, valued as an aquarium specimen) also are native to Kerala's lakes and waterways.
 </p>
-<h3 style={{color:"green"}}>
+<h3 >
 Historical monuments
 </h3>
 <p>
 Historical monuments in Kerala include palaces, forts, and religious institutions.[25] Notable forts include Bekal Fort, Arikady fort, Chandragiri fort, Hosdurg Fort, Palakkad Fort, Thalassery Fort, Fortaleza da São Tomé, Fort Kochi, St Thomas Fort, East Fort and Anchuthengu Fort.[25] Notable palaces include Padmanabhapuram Palace, Kanakakkunnu Palace, Kowdiar Palace, Mattancherry Palace, Arakkal Palace, Shakthan Thampuran Palace, Hill Palace etc.[25] The Malabar Coast is also home to some of the oldest temples, oldest mosques, oldest churches, and oldest synagogues in South Asia.[25] The historic trading food streets in Kerala include the S. M. Street (Sweetmeat street) at Kozhikode. Mappila Bay harbour at Kannur is home to both fort and palace.[25] Thalassery Cuisine, a traditional style of cuisine originated in Northern Kerala due to its historical trade relations, also attracts tourists
 </p>
 
-<h1 style={{backgroundColor:"lightgreen"}}>
+<h1 >
 Events
 </h1>
-<h3 style={{color:"green"}}>
+<h3 >
 Festivals
 </h3>
 <p>
 The major festival in Kerala is Onam. Kerala has also a number of religious festivals. Thrissur Pooram, Attukal Pongala, Beema Palli Uroos, and Chettikulangara Bharani are the major temple festivals in Kerala. The Thrissur Pooram is conducted at the Vadakumnathan temple, Thrissur. The Sivarathri is also an important festival in Kerala. Aluva Sivarathri festival is the most famous festival related to Sivaratri. Festivals like Christmas and Easter are observed by the Christians. Parumala Perunnal, Manarkadu, Arthunkal, Thumpoly, Edathua Perunnal are the other regional festivals of Christians. Eid al-Fitr and Eid al-Adha are celebrated by the Muslim community. The annual festival Thirayattam is conducted in the village shrine of the south Malabar region in Kerala.
 </p>
-<h3 style={{color:"green"}}>Kochi-Muziris Biennale</h3>
+<h3 >Kochi-Muziris Biennale</h3>
 <p>Kochi-Muziris Biennale is the largest art exhibition in the country and the biggest contemporary art festival in Asia conducted every year in the city of Kochi. The first Biennale in India was conducted in Kochi from 12 December 2012 till 13 March 2013</p>
 
-<h1 style={{backgroundColor:"lightgreen"}}>Culture</h1>
+<h1 >Culture</h1>
 
 <p>
 Kerala's culture is mainly Hindu in origin, deriving from a greater Tamil-heritage region known as Tamilakam. Later, Kerala's culture was elaborated on through centuries of contact with overseas cultures.[29] Native performing arts include koodiyattom, kathakali—from katha ("story") and kali ("play")—and its offshoot Kerala Natanam, koothu (akin to stand-up comedy), mohiniaattam ("dance of the enchantress"), thullal, padayani, thirayattam, and theyyam. Other arts are more religion- and tribal-themed. These include chavittu nadakom, oppana (originally from Malabar), which combines dance, rhythmic hand clapping, and ishal vocalisations. However, many of these art forms largely play to tourists or at youth festivals, and are not as popular among most ordinary Keralites, who look to more contemporary art.[citation needed]
@@ -238,7 +325,7 @@ Recognising the potential of tourism in the diversity of religious faiths, relat
 </p>
 
 
-<h2 style={{color:"green"}}>
+<h2 >
 Notes and references
 </h2>
 <p>
@@ -274,10 +361,12 @@ Notes and references
  Incredible Kerala. Business-standard.com.
  Jumbo tourism: Guruvayur temple to woo visitors Archived 13 April 2014 at the Wayback Machine
 </p>
-<LAST>
-  <h2>CONTACT US FOR MORE INFORMATIONS</h2>
-  <h2>tourismkerala@gmail.com</h2>
-</LAST>
+</MAINN>
+
+     <FIN>
+      
+             <img className="imgfot" src={fot} alt="" />
+                 </FIN>
 
     </MAIN>
   )

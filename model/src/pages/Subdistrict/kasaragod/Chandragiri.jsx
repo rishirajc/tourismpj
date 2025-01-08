@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import cha from '/src/pages/Subdistrict/kasaragod/image/chandragiri.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,11 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -26,9 +29,8 @@ const FOOT=styled.div`
 const Chandragiri = () => {
   return (
     <div>
-    <div>
-        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/kasaragod/investment/images/top-attraction/large/Chandragiri-Fort.jpg" alt="" />
-    </div>
+    <div style={{width:"100%",height:"600px"}}>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/zHoshfDTyZA?si=MkPAJNQ55vt3LOrJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Chandragiri Fort</h1>
     <p>Built in the 17th century by Shivappa Nayak of Bedanoor, the Chandragiri Fort belongs to the chain of forts built by the same ruler. The fort is ten kilometers away from Bekal. The eventful history of the fort goes like this. The river Chandragiri was earlier considered to be the border of the two powerful kingdoms – Kolathunadu and Thulunadu. When Thulunadu was captured by the Vijayanagara Empire, the Kolathunadu kings lost the Chandragiri region to them. During the decline of the Vijayanagara Empire the area was administratively looked after by the Keladi Nayakas of Ikkeri. In 16th century the Vijayanagara Empire fell and Vengappa Nayaka declared independence. Later Shivappa Nayak took over the reins. He built a chain of forts of which Chandragiri is part. This large fort is 150 feet above sea level and offers an astonishing view of the Chandragiri River and the Arabian Sea.</p>
     <p>Chandragiri Fort (Malayalam: ചന്ദ്രഗിരിക്കോട്ട ) is a fort built in the 17th century, situated in Kasaragod District of Kerala, India. This large squarish fort is 150 feet (46 m) above sea level and occupies an area of about seven acres[1] the adjacent to Chandragiri river. The fort is now in ruins</p>
@@ -133,7 +135,7 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={cha}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/KRYtaptXQUjVVS1j9">CLICK TO REVIEW MAP</a>
 
 

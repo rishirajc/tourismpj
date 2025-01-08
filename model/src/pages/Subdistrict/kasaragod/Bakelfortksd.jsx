@@ -1,12 +1,15 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import bak from '/src/pages/Subdistrict/kasaragod/image/bakel.png'
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const IMGBOX=styled.div`
@@ -27,9 +30,8 @@ const FOOT=styled.div`
 const Bakelfortksd = () => {
   return (
     <div>
-    <div>
-        <img width={"100%"} height={"600px"} src="https://cdn.photovaliant.com/wp-content/uploads/2016/01/Bekal-Fort-Kasargod-ABC_2651.jpg" alt="" />
-    </div>
+    <div style={{width:"100%",height:"600px"}}>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/007ymd12sIw?si=R1XVJSFHwJljgzfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Bakel Fort</h1>
    <p>Bekal Fort is a medieval fort built by Shivappa Nayaka of Keladi in 1650 AD, at Bekal. It is the largest fort in Kerala, spreading over 40 acres (160,000 m2).</p>
    <h3 style={{backgroundColor:"lightgreen"}}>Structure</h3>
@@ -92,7 +94,7 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={bak} width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/knWmmpyqH1JauRnSA">CLICK TO REVIEW MAP</a>
 
 

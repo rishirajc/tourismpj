@@ -38,42 +38,64 @@ const Kumarakam = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fkumarakom-bird-sanctuary-1725364054_3c52335dc04607960c73.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Kumarakom Bird Sanctuary</h1>
+    <p>Kumarakom Bird Sanctuary, located on the banks of Vembanad Lake in the Kottayam district, is a paradise for bird lovers and nature enthusiasts. Spread over 14 acres, this sanctuary is a key attraction in Kumarakom, known for its rich avian diversity and serene natural beauty. Established by the Kerala Tourism Development Corporation, Kumarakom Bird Sanctuary offers visitors an opportunity to observe a variety of resident and migratory birds in their natural habitat, making it a must-visit destination for anyone interested in wildlife and ornithology.
 
-</p>
+Natural Beauty and Scenic Landscapes
+The sanctuary is set amidst lush greenery and is crisscrossed by a network of water channels that are part of the larger Vembanad Lake backwater system. The picturesque landscape includes mangrove forests, paddy fields, coconut groves, and marshy areas, creating an ideal environment for a diverse range of bird species.
+
+The largest lake in Kerala and one of the longest in India, Vembanad Lake provides a stunning backdrop to the sanctuary. The tranquil waters of the lake, with their reflective surface and surrounding greenery, add to the serene ambiance of the bird sanctuary.
+
+Bird Watching and Avian Diversity
+Kumarakom Bird Sanctuary is renowned for its impressive avian diversity, attracting both resident and migratory birds. The best time to visit the sanctuary is from June to August for local bird watching and from November to February for spotting migratory birds.
+
+The sanctuary is home to a variety of resident birds, including egrets, herons, kingfishers, darters, cormorants, and waterfowls. The lush vegetation and abundant water sources provide the perfect habitat for these birds.
+
+During the migratory season, the sanctuary attracts birds from the Himalayas, Siberia, and other parts of the world. Notable migratory species include Siberian cranes, teals, pintails, flycatchers, and various types of ducks. The sight of these birds flocking to the sanctuary is a spectacular experience for visitors.
+
+<h3>Activities and Experiences</h3>
+Kumarakom Bird Sanctuary offers a range of activities and experiences that allow visitors to explore and appreciate its natural beauty and wildlife:
+
+Guided Bird Watching Tours: The sanctuary offers guided bird watching tours led by experienced naturalists. These tours provide valuable insights into the behavior, habitat, and characteristics of different bird species. The guides also help visitors spot and identify birds, making the experience more enriching.
+
+Boating: One of the best ways to explore the sanctuary is by taking a boat ride through the Vembanad Lake and the network of canals within the sanctuary. The boat rides offer a unique perspective of the sanctuary and provide excellent opportunities for bird watching and photography.
+
+Nature Walks: The sanctuary has well-maintained trails and pathways that allow visitors to take leisurely walks amidst the greenery. Nature walks offer a peaceful and immersive experience, allowing visitors to connect with the natural surroundings and observe birds and other wildlife up close.
+
+<h3>Accessibility and Accommodation</h3>
+Kumarakom Bird Sanctuary is well-connected by road and is easily accessible from major towns and cities in Kerala. The nearest town is Kottayam. The nearest railway station is Kottayam Railway Station, and the nearest airport is Cochin International Airport.
+
+There are several accommodation options available in Kumarakom, ranging from budget lodgings to luxury resorts and eco-friendly homestays. Many of these establishments offer modern amenities and beautiful views of the backwaters or the lake, providing a comfortable and scenic stay for visitors.
+
+<h3>Visitor Information</h3>
+The best time to visit Kumarakom Bird Sanctuary is from June to August for local bird watching and from November to February for spotting migratory birds. The weather during these periods is pleasant, making it ideal for outdoor activities.
+
+The sanctuary has an entry fee, with different rates for adults and children. It is advisable to check the latest timings and entry fees before planning your visit.
+
+Booking guided tours and boat rides in advance is recommended, especially during peak tourist seasons. These services provide a more informative and enjoyable experience.
+
+Visitors are expected to respect the natural environment and the wildlife within the sanctuary. It is important to follow the guidelines provided by the sanctuary authorities, maintain a safe distance from the birds, and avoid making loud noises that could disturb the wildlife.
+
+Kumarakom Bird Sanctuary, with its rich avian diversity, serene landscapes, and range of activities, offers a unique and enriching experience for nature lovers and bird watchers. Whether you are exploring the sanctuary on foot, taking a boat ride through the backwaters, or simply enjoying the tranquil ambiance, Kumarakom Bird Sanctuary provides a perfect escape into the natural beauty of Kerala. A visit to this sanctuary is not only an opportunity to connect with nature but also a chance to appreciate the ecological richness and conservation efforts that make this region so special.</p>
+    <p>Kumarakom Bird Sanctuary (also known as Vembanad Bird Sanctuary) is situated at Kumarakom in Kottayam taluk of Kottayam district in the Indian state of Kerala, on the banks of Vembanad Lake.[1] Set in the Kerala Backwaters, the bird sanctuary is visited by many migratory bird species.[2]</p>
+   <p><h3>History</h3>
+Developed in a rubber plantation as a bird sanctuary by Englishman George Alfred Baker,[3] the sanctuary was formerly known as Baker's Estate.[4] The Kerala Tourism Development Corporation currently manages the sanctuary.
+
 <h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The sanctuary is spread over 14 acres (5.7 ha)[4] on the southern bank of the Meenachil River River.[5]
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+Kumarakom is 14 kilometres (8.7 mi) from Kottayam. State Highway No. 1 leads to Kochi and Thiruvananthapuram in opposite directions. Kochi International Airport at Nedumbassery is 106 km (66 mi) from Kumarakom.[6]
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+Neighbouring areas such as Kaipuzha Muttu, Pathirmanal, Narakathara, Thollairam Kayal, and Poothanpandi Kayal are also good locations for spotting birds.[4]
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+<h3>Fauna</h3>
+The main attractions are local birds like waterfowl, koel, owl, egret, heron, cormorant, moorhen, darter, and brahminy kite, as well as the migratory gull, teal, tern, flycatcher, and other birds are seen here during their respective migratory seasons. Some of the migratory birds come from the Himalayas, and a few from Siberia.[4][7]
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
-
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
-
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
-
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
-
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
-
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+Sanctuary from Kavanar River
+In 2008, WWF-India organised a two-day bird watching programme at the sanctuary in connection with World Wetlands Day.[8]</p>
 
 
 
@@ -82,11 +104,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 94 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Kottayam Railway Station, about 13 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Kottayam KSRTC Bus Stand, about 12 km away</p> </div>
    </div>
 
 
@@ -99,20 +121,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://s7ap1.scene7.com/is/image/incredibleindia/kumarakom-bird-sanctuary-kumarakom-kerala-1-new-attr-hero?qlt=82&ts=1727367750122" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJhQiC__APCpyZ0MxiRujGbMcQQ_1JkgO1g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutoIpz_fYza2SEt244M4xozRDkpO8zTV58w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jQdCA5-a-sCUkQriqD4bnsszzjetEX3nLg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/QLLD4spT7Ec/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABKhiX1zP0WJAaL5_nx6zAy311bhfc8Zew&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHNyElh_qmA8EmBS-x5o6Teb2ZszDX4GChw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonIskqeY5XcAqnBZNrlSkx1X_Yhp3VjttOw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RHlHOpMfvr37BWNF9waH64WVfOICHqH6qg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSlIfIlY01Y8wRh2qX0PmIsU4S2PAgIePMg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://3.imimg.com/data3/GY/MA/MY-10152774/kumarakom-bird-sanctuary.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://kumarakomhouseboatclub.com/wp-content/uploads/sites/2/2018/08/kumarakom-bird-sanctuary-birds.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCtzrkDEHZjhOyEIMSoQH5ShkwUgAiGZuTQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdVZIDyaV99M-rQMHptAIxRhsrXoy99JoyA&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +156,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Paradise Resorts Kumarakom</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYffR18WeODtIvup48A2MUi2eqspufqLrVaw&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.paradisein.com/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>ILLIKKALAM Lakeside Cottages</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jodMY4mhWuiFODloYPcVN7kPuQUqUXHMng&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.klcottages.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Rain Forest Ayur County Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://r1imghtlak.mmtcdn.com/bb90ceae0ea911eb99b80242ac110002.jpg" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://rainforestayur.com/lander">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Manor Backwater Resort</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtL5mBneZji8j0QpsU1085j6WukhKOqFbayQ&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.manorbackwaterresort.com/">click to view</a>
 </div>
 
 </IMGG>

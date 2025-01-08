@@ -36,44 +36,40 @@ flex-wrap: wrap;
 const Bolgatty = () => {
   return (
     <div>
-    <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+    <div>https
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fbolgatty-island-1721743796_1760f1fd9fd987f48ab3.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Bolgatty Palace</h1>
+    <p> <h3>Kochi - a gateway for travelers to Kerala</h3>
+Kochi, the prominent travel destination of Kerala, India, has always been an exotic location in a traveler's not-to-be-missed list. The sea, backwaters, monuments, heritage; Kochi has all that would keep a traveler engrossed. With many architectural, cultural and natural splendors, Kochi, which is also the commercial hub of Kerala will never cease to enthrall you. Just off the Kochi Marine Drive is the Bolgatty Island. It is an island of calm right in the midst of the bustling City of Kochi. Located in this fascinating island is the stunning property of KTDC - Bolgatty Palace and Island Resort. The other centre of attraction in this property is Kochi International Marina and Bolgatty Event Centre.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+Bolgatty Palace and Island Resort - a well-preserved legacy
+Amid this picturesque island of Bolgatty is the beautiful Bolgatty Palace, the exclusive mansion with four palatial rooms, provides the travelers with world class amenities and wonderful holidaying options. Originally built by Dutch traders in 1744, it is the oldest of its kind that exists outside Holland.
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+The resort combines leisure with business and it is popularly known as the honeymooners' paradise. The resort is neatly tucked among giant umbrellas of refreshing green and is sure to give an exotic island experience in Bolgatty.
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+The resort has a main block, a mansion block, which houses the palace rooms and a marina block which faces the marina.
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+The Marina block has marina on the one side and the golf course on the other side. There are six lake view cottages also in the resort. The resort is encircled by a 9 hole golf course established in 1925.
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+ 
+ <p>One of the most famous landmarks in Fort Kochi area is the Bolgatty Island. This picturesque island is renowned as a cosmopolitan hotspot in the area as well as for the Bolgatty Palace. Built by a Dutch trader in 1744, the palace that overlooks Lake Vembanad is believed to be one among the oldest Dutch palaces outside of the Netherlands.  
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+Situated in an 8 acre property, the Palace is an ideal example of the charm and elegance of Dutch architecture. With aesthetically manicured lawns, magnificent trees, large halls, tiled roofs, beautiful wood framed windows and strong pillars, the Palace is set against an idyllic setting. Another highlight of the palace is that the palace is the nine hole golf course set up in 1923 that encircles the palace. Near the property, a sprawling lush green park is also located. 
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+After its construction, the building was eventually taken over by the British and used as lodging for British governors till India gained independence. Today the palace is a well renowned hotel and resort of the Kerala Tourism Department Corporation (KTDC) that offers luxurious suites, a swimming pool, a multi cuisine restaurant, a golf course and an ayurvedic spa facility. Horse riding and boat cruises are arranged on request and so are Kathakali and other cultural performances. 
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+The Kochi International Marina located on Bolgatty Island is the only such marina in India that can host upto 34 yachts. It is fully equipped with water, electricity and sewage pump-out facilities. The Bolgatty Event Centre locates on the Island regularly hosts conventions, exhibitions, international conferences, and wedding ceremonies. With easy accessibility to the backwaters, Vallarpadam Container Terminal, Cochin seaport and a resplendent view of the Arabian Sea, it is no wonder that the Bolgatty Island is a much sought after destination. </p><h3>Bolgatty Event Centre</h3>
+Overlooking the backwater, Cochin seaport, Vallarpadam container terminal and the Arabian Sea is the Bolgatty Event Centre. The venue, with its greenery and romantic ambience, can be easily accessed from the heart of Kochi city. The venue is ideal for conducting International conferences, Conventions, Exhibitions, Meetings, Wedding receptions and Theme dinners.
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
+The centre is regarded as one of the exotic locations in Kochi/Ernakulam.
 
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
+<h3>Kochi International Marina</h3>
+Located on the eastern coast of Bolgatty Island is the "Kochi International Marina" - the first full-fledged marina of international standards in India. The marina provides berthing facility for 34 yachts and also offers services like water, electricity and sewage pump-outs etc. The Marina House, built in the traditional Kerala architectural style, serves as a station for vessels to refuel and to replenish their stores.</p>
+    <p> <h3>History</h3>
+The palace was built in 1744 by Dutch traders[1] and later extended and gardens were landscaped around it. The building was then the Governor's palace for the commander of Dutch Malabar, and in 1909, was leased to the British. It served as the home of the British governors, being the seat of the British Resident of Kochi during the British Raj.[citation needed]
 
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
-
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
-
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
-
+In 1947, when India attained independence, the palace became the property of the state and was converted into a heritage hotel resort</p>
 
 
 
@@ -81,11 +77,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 33 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Ernakulam South Railway Station, about 6 km away.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Ernakulam Bus Stand, about 5 km away.</p> </div>
    </div>
 
 
@@ -98,20 +94,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE-lT4JZ9bjxQylqmS9Hw53gGAu83XZj9ww&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvThYgin2MZtIMZZruFBwKRvlteNCTFakhA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/images/service-providers/photos/property-2319-profile-677-20171219143900.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmKytm0vY4UW19sy-haTSLU_DhWB2EnFp4w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEclMDaRILyiXuRCwLp0u83GWGhmKNbQIP1g&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://l450v.alamy.com/450v/2pgbb4d/bolgatty-palace-island-resort-in-kochi-cochin-kerala-south-india-india-asia-2pgbb4d.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/85238631.jpg?k=eef55ae5a6a3be60a942df4a048db1829599319e573039c871bc6551e07bbb3f&o=&hp=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVF_lYBNQVkfX4Y0JNADNP0Ajd3T82FrPgPg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwE7YTfUxMowVl1GHu6K_kVAtulO5B9K7GQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXj5WffbRz2HekazLP0Mdt2Sito8BzG_yTNw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtGxXYtmX2J3YwrtLy7f8qSlnIDCWWuXk5w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.transindiatravels.com/wp-content/uploads/bolgatty-palace-2.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrYLjXkzwDXysaY0B59CB_AfVo1mMm9_6ag&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZPm2b6STmM642pw40O5fsrHyhh1IOhkwGw&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -132,38 +129,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Ginger Kochi - MG Road</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/40/71/e3/one-bedroom-suite.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.gingerhotels.com/ginger-kochi-mg-road?utm_source=google&utm_medium=hotelgmb&utm_campaign=kochimgroad_gmb">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>The Luminara A Unit of Elite Tourist Home</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://q-xx.bstatic.com/xdata/images/hotel/max500/185223118.jpg?k=ca0ebd7f62e88065cfef31d37eba3b0b9f5c07db8c5a2e5a6f27f967114abaf2&o=" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://hotelluminara.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Illam Heritage</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAbVNET9Hk8xeMSUwYTe7XjTU_haMMDW4sg&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://illamheritage.com/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Bolgatty Palace and Island Resort</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxSzTSIovL3QbZJJqV7Gr6tnvddAGjQYxFw&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.ktdc.com/bolgatty-palace">click to view</a>
 </div>
 
 </IMGG>

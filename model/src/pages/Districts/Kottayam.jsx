@@ -15,9 +15,8 @@ const IMG=styled.div`
 const Kottayam = () => {
   return (
     <div>
-      <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Vembanad_Lake_at_Kumarakom.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%"height="600px" src="https://www.youtube.com/embed/gXf83V-Cymw?si=pyedOG76gkU0xUcL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT KOTTAYAM</h1>
       <p>Kottayam (IPA: [ko:ʈ:ayam]) is a city in the Kottayam district of Kerala, India. It is the district headquarters of the district and is located about 151 km (93.8 mi) north of the state capital Thiruvananthapuram. As per the 2011 Indian census, Kottayam has a population of 489,615 people, and a population density of 4,533/km2 (11,740/sq mi). The total Kottayam Metropolitan area (the combined area of Kottayam municipality and its adjacent suburbs) has a population of 802,419 people, and a population density of 3,647/km2 (9,450/sq mi).
 
@@ -77,7 +76,7 @@ A number of annual basketball tournaments including the Marian Trophy, Girideepa
   <Link to={'/kumarakum'}><img   height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://miro.medium.com/v2/resize:fit:640/1*_yDe1Cf0i4Cp-KqfXN-KAg.jpeg" alt="" /></Link>
   <Link to={'/meenuty'}><img   height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/t_vFTXJMyoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCoiYzYWOXIkPe_uEzsGvJ2xJRRxQ" alt="" /></Link>
   <Link to={'/maramala'}> <img   height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/G0FZnMt0fkk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLApc94z5jOAoFYZ2C20wvqrnu7txw" alt="" /></Link>
-  <Link to={'/etmanur'}><img   height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNYO2xVtPBylTtCBpD_RiJHpBiofpeY4_3g&s" alt="" /></Link>
+  <Link to={'/etmanur'}><img   height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ettumanoor_Temple_North_Gate_Entrance.JPG/1200px-Ettumanoor_Temple_North_Gate_Entrance.JPG" alt="" /></Link>
  </IMG>
  <div style={{height:"350px",paddingLeft:"500px",paddingTop:"100px",backgroundColor:'red'}}>
       <h2>contact us for more informations</h2>

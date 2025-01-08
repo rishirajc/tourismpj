@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
+import rani from '/src/pages/Subdistrict/kasaragod/image/rani.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -14,9 +15,12 @@ flex-wrap: wrap;
 `
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const FOOT=styled.div`
@@ -27,9 +31,8 @@ const FOOT=styled.div`
 `
 const Ranipuram = () => {
   return (
-    <div>
-        <img width={"100%"} height={'600px'} src="https://www.keralatourism.org/images/enchanting_kerala/large/ranipuram20230608032457_1308_1.jpg" alt="" />
-    <div>
+    <div style={{width:"100%",height:"600px"}}>
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/_wsb8qSLRGM?si=G1QS427P5rxTRAg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    <div>
 
     </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Ranipuram</h1>
@@ -113,13 +116,14 @@ Watch documentaries and reach out to people who have been there</p>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
 
+
+  <img src="" alt="" />
 <div>
-<div>
-<IMG>IMAGE</IMG>
+<IMG><img src={rani} width={"400px"} height={"400px"} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/GN7BpRAvjWJZyBSH8">CLICK TO REVIEW MAP</a>
 </div>
 
-</div>
+
 
 
 

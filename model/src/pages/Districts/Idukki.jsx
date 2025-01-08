@@ -15,9 +15,8 @@ const IMG=styled.div`
 const Idukki = () => {
   return (
     <div>
-      <div>
-        <img width={"100%"} height={"600px"} src="https://live.staticflickr.com/7300/27952454585_4d2c7d9b8c_b.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/OwgF5-JGt0k?si=sI9BwAzgiKCOFfSC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1 style={{backgroundColor:"lightgreen"}}>ABOUT IDUKKI</h1>
       <p>Idukki (ഇടുക്കി; IPA: [iɖukːi] ⓘ) is one of the 14 districts in the Indian state of Kerala in the southwest of the country.[5][6] It is the largest district in Kerala and lies amid the Cardamom Hills of Western Ghats in Kerala. Idukki district contains two municipal towns – Kattappana and Thodupuzha, and five taluks.
 
@@ -88,7 +87,7 @@ The High Range division in the northeastern part of Travancore included the Talu
    <h1  style={{backgroundColor:"lightgreen"}}>MAJOR ATTRACTIONS</h1>
 <IMG>
  <Link to={'/idukkidam'}> <img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://www.ksu.in/wp-content/uploads/2024/11/Guide-to-Visiting-Idukki-Dam.jpg" alt="" /></Link>
- <Link to={'/wildlifee'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.pinimg.com/736x/03/fd/55/03fd554e270e81f172f5ca61342bd89e.jpg" alt="" /></Link>
+ <Link to={'/wildlyf'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.pinimg.com/736x/03/fd/55/03fd554e270e81f172f5ca61342bd89e.jpg" alt="" /></Link>
  <Link to={'/periyarr'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://www.studyiq.com/articles/wp-content/uploads/2023/04/01193018/Periyar-national-park.jpg" alt="" /></Link>
  <Link to={'/ramakkalmed'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/2q936dKh1NE/sddefault.jpg" alt="" /></Link>
  <Link to={'/pulimeesha'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://visitindia.co/wp-content/uploads/2024/02/Meesapulimala-Trek-Munnar-Kerala-Distance-Difficulty-Camping-Price.webp" alt="" /></Link>

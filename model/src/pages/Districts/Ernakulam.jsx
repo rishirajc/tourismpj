@@ -16,9 +16,8 @@ const IMG=styled.div`
 const Ernakulam = () => {
   return (
     <div>
-      <div>
-<img width={"100%"} height={"600px"} src="https://static.toiimg.com/thumb/106353366/Kochi.jpg?width=1200&height=900" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%"height="600px" src="https://www.youtube.com/embed/x4YF4LLntVw?si=eaRSCSzCOWIVJ5TF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT KOCHI</h1>
       <p>Kochi (/ˈkoʊtʃi/ KOH-chee, Malayalam: [kotˈt͡ʃi] ⓘ), also known by its former name Cochin (/ˈkoʊtʃɪn/ KOH-chin),[12] is a major port city along the Malabar Coast of India bordering the Laccadive Sea. It is part of the district of Ernakulam in the state of Kerala. The city is also commonly referred to as Ernakulam. As of 2011, the Kochi Municipal Corporation had a population of 677,381[4] over an area of 94.88 km2, and the larger Kochi urban agglomeration had over 2.1 million inhabitants within an area of 440 km2, making it the largest and the most populous metropolitan area in Kerala. Kochi city is also part of the Greater Cochin development region[13] and is classified as a Tier-II city by the Government of India. The civic body that governs the city is the Kochi Municipal Corporation, which was constituted in the year 1967, and the statutory bodies that oversee its development are the Greater Cochin Development Authority[14] (GCDA) and the Goshree Islands Development Authority (GIDA).[15]
 
@@ -151,7 +150,7 @@ It also operates passenger ships to Colombo and Lakshadweep. Boat services are o
  <Link to={'/vascod'}> <img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}}  src="https://i.ytimg.com/vi/7Vc8sQbeGVY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI3pavRwSGluJGBDMtrZCBtfo_Kg" alt="" /></Link>
  <Link to={'/fortkochi'}><img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}}  src="https://yometro.com/images/places/fort-kochi.jpg" alt="" /></Link>
  <Link to={'/bolgatty'}> <img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/dxVmlFXZsiM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLGOXUnzGg7qdi5HWDK_1b3mzMhA" alt="" /></Link>
- <Link to={'/chottanikara'}><img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}}  src="https://i.ytimg.com/vi/hVgsjFB1lbE/mqdefault.jpg" alt="" /></Link>
+ <Link to={'/chottanikara'}><img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTD5qm2XB8JSuO1vcDoUI1z6YLw6WBOGB0rA&s" alt="" /></Link>
  <Link to={'/mattancheri'}> <img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/n_ahgmouiM8/maxresdefault.jpg" alt="" /></Link>
  <Link to={'/cherai'}><img height={"450px"} width={"400px"}style={{marginTop:"70px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/54_Dbpy49vs/maxresdefault.jpg" alt="" /></Link>
  </IMG>

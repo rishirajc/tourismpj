@@ -38,42 +38,64 @@ const Krishnpuram = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fkrishnapuram-palace-1723535790_b0d36e57186889b52bfb.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Krishnapuram Palace</h1>
+    <p>The Krishnapuram Palace is a palace and museum located in Kayamkulam near Alappuzha in Alappuzha district, Kerala in southwestern India. It was built in the 18th century by Anizham Thirunal Marthanda Varma (1729–1758 CE), the Travancore kingdom. It is built in the architectural style of Kerala with gabled roof, narrow corridor and dormer windows, near the Krishnaswamy Temple at Krishnapuram.[1][2][3][4][5]
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The palace is maintained by the Kerala State Department of Archaeology and contains exhibits that belonged to the Palace and its former occupant, the Travancore Maharaja Marthanda Varma. It is also famous for a large pond within the palace complex.[1] It is also said that an underground escape route runs from the bottom of the pond as a possible escape route from enemies.[2][5]
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+Among the many Kerala-style paintings seen in the palace, a distinctly placed mural painting is titled "Gajendra Moksham" of 154 square feet (14.3 m2) size, which is said to be the largest such find in Kerala. It is placed on the western end of the ground floor of the palace.[2][6]
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+The double edged Kayamkulam Vaal (sword) is also on display here. The palace houses, in its courtyard, one of the four statues of Buddha found in Alappuzha District</p>
+   <p><h3>Geography</h3>
+The Krishnapuram Palace named after the Krishnaswamy Temple at Krishnapuram, a serene village, is situated about 2 kilometres (1.2 mi) south of Kayamkulam town... It is situated on the top of a small hillock encircled by terraced garden with fountains, ponds and lawns. Its location is to the left of the National Highway 66 (India) (NH 66) between Ochira and Kayamkulam in the Alapuzha District. It is 47 kilometres (29 mi) away from Alleppey (Alappuzha district) on the way to Kollam.[1][5][9][10]
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+History
+The palace was built by King Marthanda Varma of Travancore after defeating and annexing Odanad in the Odanad–Travancore War of 1746. Before the construction of the palace, the King demolished an earlier palace at the site, which had been built by the King Veera Ravi Varma of Odanad (reign 1700–1775 CE).[5] Initially, a small palace of a single story, known locally as Ettukettu, was built in the traditional style with an adjacent pond, temple and urappura under the management of Prime Minister Ramayyan Dalawa, which was later enlarged by Prime Minister Ayyappan Marthanada Pillai. The palace complex has many other buildings, which are a combination of traditional and Western architecture. The present building, a three-storied structure within the complex, was renovated in the 1950s by the Archaeological Department of Kerala in modern style conforming to the scientific techniques prescribed for the protection of heritage buildings. As a protected monument, it houses the Archaeological Museum and its offices.[1][2][5]
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+<h3>Architecture</h3>
+The Krishnapuram Palace, as one of the finest and rarest examples of a typical Keralite-style architecture, known in the local language as Pathinarukettu, is complete with gabled roofs, narrow corridors and dormer windows. It is a miniature replica of Padmanabhapuram Palace, which was the headquarters of Travancore Rajas.[1][2]
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+The palace complex originally encompassed a total land area of 56 acres (23 ha). However, over the years, as the monarchic rule ended, the palace was completely neglected and fell to disuse, and was dilapidated. Many of the buildings surrounding the main palace of the Maharaja got demolished or destroyed and the palace complex got reduced to a mere 2.55 acres (1.03 ha) enclosed within a 10 feet (3.0 m) high compound wall. The main palace, which was run down, was rebuilt to its original state as a two storied monument by the Archaeological Department of Kerala in the 1950s. The rare documents and artefacts which were kept at other locations were brought back, restored and eventually exhibited in the palace that has been converted into a Museum.[5]
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+The palace restored to its originally built plans, conforming to Vastu Shastra norms, has 16 blocks or Kettus with four Nadumuttam or open area in the centre or courtyards. The windows, doors and ventilators were placed in such a way as to ensure fresh air circulation and natural lighting in all the rooms. There are 22 rooms (which open into the shady internal courtyards) with ornamental wooden partitions with carvings. Additional openings were provided to prevent any negative effects of "Murmavedham." (Secret effects). The building is set with verandas (passages) all round to protect the outer walls getting damaged due to rains. The materials used in its construction consisted of laterite stones, rubble, teak, rosewood and Angili wood. Roofing (red-tiled gabled[11]) is steep and tiled with Mangalore tiles, which accentuates the beauty of the structure. A special feature of the carpentry adopted in building the palace consisted of wooden hinges and locks for doors and windows, instead of metallic fittings and fixtures. The flooring consists of polished wood and also of black and red oxide-coated concrete. The steps are made of polished granite blocks. Aesthetic beauty of the palace has been further enhanced by the special designs of straight, curved and spiral staircases and sunshades.[5]
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+A small stream was created to flow close to the southern vicinity of the palace which also functioned as a secret escape route in times of emergency.[5]
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
+An underground tank or pond that stretches to the centre of the building was part of the palace; it provided air-conditioning effect of moderate temperature in all interior rooms.[5]
 
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
+The palace compound has many Padippuras, particularly at the main entrance, which are significators of status.[5]
 
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
+<h3>Collection</h3>
+The palace complex, which now functions as an archaeological museum, is a treasure house of ancient paintings and inscriptions, coins, megalithic remains, artefacts made of wood, brass and stone sculptures. Some of the prominent displays in the complex are: The mural of Gajendra Moksham, Kayamkulam Val (sword), Buddha's statue of the 10th century and ceremonial utensils and many other artefacts.[1][2][6][8]
 
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
+<h5>Gajendra Moksham</h5>
 
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+Mural of Gajendra Moksham.
+Within the palace is the archaeological museum which has an exhibit of the Gajendra Moksham a 3 metres (9.8 ft) high mural,[12] which is the largest single piece of mural painting so far discovered in Kerala. The literal meaning of 'Gajendra Moksham' is the "salvation or Moksha of the elephant king Gajendra." The theme of the mural is mythological and depicts an elephant saluting Lord Vishnu in devotion while the other minor Gods, Goddesses and saints look on. Lord Vishnu was the family deity of the Kayamkulam Kings. This mural, in a fusion of colours and expressions, was placed prominently at the entrance to the palace from the pond to enable the kings to worship the deity after their daily ablutions.[1][2][6][9][13]
+
+The mythological legend narrated on the Gajendra Moksham (Gajendra means the King of elephants) is contained in the 10th century Sanskrit Bhagavata Purana. According to this legend, the Pandyan King Indradyumna, a devotee of Lord Vishnu, was given a curse by the sage Agastya, to be reborn as an elephant. Gajendra or the Elephant King, while on a pleasure trip to a lake with his wives, was seized by a crocodile that caught hold of his leg with a firm grip and thus Gajendra was held captive for many years. Finally the hapless Gajendra appealed to Lord Vishnu, his chosen deity, to rescue him from his predicament. Vishnu made his presence soon after, riding on his Vahana (vehicle), the Garuda (the celestial half man half bird form). Garuda killed the crocodile. The entire sequence is vividly painted, with vegetable colours, on the mural with a dynamic portrayal of Garuda at the centre, about to land with "huge spread wings and a facial expression raudra (form of fury), in stark contrast to the compassionate features of the multi-armed Vishnu". The mural also shows a smaller figure of Gajendra in mid-trumpet, and of the crocodile on the right side. The mural truly represents the Kerala style of painting on every available space on it. Apart from the main characters of the legend, saints, animals, mythical beasts and forest plants are also depicted. The outer edges of the mural are decorated with Floriate borders. At the bottom, there is an exclusive "triptych-like panel which depicts Balakrishna, the child Krishna surrounded by doting females.[14]
+
+<h5>Kayamkulam Vaal (Sword)</h5>
+
+The Double edged sword – Kayamkulam Val
+The Kayamkulam Vaal ('Vaal' means "sword") is an important exhibit in the museum. The significance of the sword is that its both sides are sharpened and thus it is more dangerous than any other martial weapon. It is said to have been used by the Kayamkulam Rajas in the 18th century and hence was of special attraction to the king.[1]
+<h5>
+Buddha mandapam (hall)</h5>
+Buddha mandapam (hall) is where an attractive statue of one of the four antique Buddhas of the 10th century, which were recovered in recent times in ponds and fields in Alappuzha district is displayed. The Buddha mandapam (Buddha statue installed here predates the building of the palace[11]) is located in the finely landscaped and tended garden with profusion of flower plants (endemic to Kerala) that surrounds the palace complex.[7][13]
+
+The four Buddha statues found in recent years in the Alappuzha district testify the prevalence of Hinayana Buddhism in Odanadu in the Maveli kingdom of Kerala several. The four Buddha images are in meditating posture with Ushnisha (cap) and Upavita (upper garment). These had been thrown into fields and ponds during the anti-Buddhism campaign in Kerala. The idol was found in a pool or tank called Puthenkula (Pond of Buddha) in Maruturkulangara in Karunagappalli. This idol, cut out of a single piece of rock, was first installed in Karunagappalli town and after many years reinstalled in the compound of Krishnapuram Palace which is now a monument in the Buddha Mantapam. This idol has a skull cap adorned with lines of pearls or diamonds that represents the highest wisdom attained by Buddha.
+
+<h5>Other exhibits</h5>
+
+Bible in Sanskrit language printed in Calcutta (Kolkata) in 1886, kept in the Palace museum
+The museum in the Krishnapuram Palace also has a copy of the Bible in Sanskrit printed in Calcutta (Kolkata) in 1886.[10] Ceremonial utensils are also on display in a display case, which consists of oil lamps, fine miniature figures, and small stone columns carved with serpent deities (collected from various local houses). Some of these are arranged in an arc form known as prabhu and placed behind a temple deity to provide a "hallow of light". Fine miniature Panchaloha (five metals of bronze alloy with gold also as an ingredient) figures on display are of the Varuna (water god), many Vishnus and a minuscule devotee in worship mode.[7][14]
+
+<h3>Postal Service</h3>
+
+Anchal Post box at Krishnapuram Palace.
+Anchal Post was the postal service of Krishnapuram Palace. It was the early postal service started in the kingdom of Travancore and Cochin before Independence of India. It was started in Travancore in 1729 by Anizham thirunal Marthandavarma and later in Cochin in 1770s.</p>
 
 
 
@@ -82,11 +104,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Trivandrum International Airport, about 103 km</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Kayamkulam Junction Railway Station, about 8 km.</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Kayamkulam KSRTC Bus stand, about 3 km</p> </div>
    </div>
 
 
@@ -99,20 +121,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD2scjb-rUlqpNABqNjXU6fmTNvptUYjTIzg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtxGWcATGHCOqqO1tNNiqddcmDWYICy5izw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJeybdS7KI0toQd9flqAJjtv8twwdf554Vw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.archaeology.kerala.gov.in/uploads/monuments/large/Krishnapuram%20palace_30012019153048.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Krishnapuram_palace_rear_view.jpg/270px-Krishnapuram_palace_rear_view.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxbaJ5oMTRrDiM2_uHvYJ1Omfv5N0ArzvMA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i0.wp.com/planashleygo.com/wp-content/uploads/2024/05/Krishnapuram-Palace.jpg?fit=1024%2C577&ssl=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-UWA__IalatkXCrh-jjFfPS3wNSZW01Sdg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Krishnapuram_durbar.jpg/298px-Krishnapuram_durbar.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.paradise-kerala.com/blog/wp-content/uploads/2019/09/krishnapuram-palace_title-1200x900.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.explorebees.com/uploads/Krishnapuram%20Palace.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_JnDjr7kpBW3kntf7BgC34GIfjkMmqQ2V3w&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmo7p3flCAPBqRX9dCODD0Y2gUSqWqL9lWg&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeABN493E1sFER4LAXFSWQhVD_afyrSsYqg&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -133,38 +156,38 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Lake Bay</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdIVWA4Nug3UaRaHxn9zms8PRsAvWwOKaQQ&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.makemytrip.com/hotels/resorts-near-kayamkulam-p.html">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Karmaliz Casa Del Lake</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJcC27cD_XXxHmLCD1CuC2NzakpALqV5izw&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/karmaliz_casa_del_lake-details-karunagappally.html">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Riverine Suites Resort</h3>
+   Ripples backwater Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c8/c0/88/getlstd-property-photo.jpg?w=700&h=-1&s=1" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3DMlosl9V_Hzdiyow96479TZtxBpuFkpNQ&s" alt="" />
 </div>
-<a href="https://riverinesuites.com/">click to view</a>
+<a href="https://www.accommodationallies.com/trip/ripples-backwater-resort/">click to view</a>
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Munroe Meadows </h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJl2yfGZQ7rXE6TQCMNZvopoMEmdU04Uj0yg&s" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/munroe_meadows_rooms_in_a_homestay-details-kollam.html">click to view</a>
 </div>
 
 </IMGG>

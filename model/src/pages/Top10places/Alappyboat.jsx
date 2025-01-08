@@ -21,7 +21,7 @@ const Alappyboat = () => {
     <div>
         <img width={"100%"} height={"600px"} src="https://www.exoticahouseboatcruises.com/blogimg/Alleppey%20houseboat%20(2).jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Athirapally Falls</h1>
+    <h1 style={{backgroundColor:"lightgreen"}}>About  Alappuzha</h1>
     <p>Alappuzha (Malayalam: [aːlɐpːuɻɐ] ⓘ), formerly known as Alleppey, is a city and municipality[1] in the Alappuzha district of Kerala, India. It is the district headquarters of the district, and is located about 130 km (80.8 mi) north of the state capital Thiruvananthapuram. As per the 2011 Indian census, Alappuzha has a population of 240,991 people, and a population density of 3,675/km2 (9,520/sq mi).
 
 Alappuzha dates back to the Sangam era, and was mentioned by Pliny the Elder as far back as the 1st century AD as "Baraces".[5] Later in the 16th and 17th centuries, the town flourished as an important hub for trading spices with various European powers including the Dutch and the Portuguese. Under the rule of Raja Kesavadas, a port was constructed and canals for transport were laid throughout the city, and the town experienced rapid development. However, by the late 18th century, the region had come under British rule and experienced a decline in its status as a centre for commerce and culture.[6]

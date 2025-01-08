@@ -21,10 +21,6 @@ import Ticket from "./pages/componentss/Ticket"
 import About from "./pages/componentss/About"
 import Profile from "./pages/componentss/Profile"
 import NameUpdt from "./pages/update/NameUpdt"
-import EmailUpdt from "./pages/update/EmailUpdt"
-import MobileUpdt from "./pages/update/MobileUpdt"
-import PlaceUpdt from "./pages/update/PlaceUpdt"
-import AgeUpdt from "./pages/update/AgeUpdt"
 import PswdUpdt from "./pages/update/PswdUpdt"
 import { useSelector } from "react-redux"
 import Periyarnatlpark from "./pages/Top10places/Periyarnatlpark"
@@ -118,11 +114,17 @@ import Pathmanabha from "./pages/Subdistrict/trivandrum/Pathmanabha"
 import Snkumugham from "./pages/Subdistrict/trivandrum/Snkumugham"
 import Athiraplly from "./pages/Subdistrict/thrissur/Athiraplly"
 import Shendurnt from "./pages/Subdistrict/kollam/Shendurnt"
+import Forgotpsw from "./pages/componentss/Forgotpsw"
+import Otp from "./pages/componentss/Otp"
+import Wildlyf from "./pages/Subdistrict/idukki/Wildlyf"
+import Logout from "./pages/componentss/Logout"
 
 function app(){
 
   const localstoragevlue=useSelector((state)=>state.login.loginData)
   console.log('local valur',localstoragevlue);
+
+ 
   
   
   const router=createBrowserRouter([
@@ -195,22 +197,6 @@ function app(){
      },{
       path:'/name',
       element:localstoragevlue?. jswtoken ?<NameUpdt/>:<Loginpage/>
-     },
-     {
-      path:'/email',
-      element:localstoragevlue?. jswtoken ?<EmailUpdt/>:<Loginpage/>
-     },
-     {
-      path:'/mobile',
-      element:localstoragevlue?. jswtoken ?<MobileUpdt></MobileUpdt>:<Loginpage/>
-     },
-     {
-      path:"/place",
-      element:localstoragevlue?. jswtoken ?<PlaceUpdt/>:<Loginpage/>
-     },
-     {
-      path:'/age',
-      element:localstoragevlue?. jswtoken ?<AgeUpdt/>:<Loginpage/>
      },{
       path:"/password",
       element:localstoragevlue?. jswtoken ?<PswdUpdt/>:<Loginpage/>
@@ -408,8 +394,8 @@ function app(){
       path:'/station',
       element:localstoragevlue?. jswtoken ?<Topstation/>:<Loginpage/>
      },{
-      path:'/wildlifee',
-      element:localstoragevlue?. jswtoken ?<Wildlife/>:<Loginpage/>
+      path:'/wildlyf',
+      element:localstoragevlue?. jswtoken ?<Wildlyf/>:<Loginpage/>
      },{
       path:'/etmanur',
       element:localstoragevlue?. jswtoken ?<Ettumaaroor/>:<Loginpage/>
@@ -497,6 +483,15 @@ function app(){
      },{
       path:'/shank',
       element:localstoragevlue?. jswtoken ?<Snkumugham/>:<Loginpage/>
+     },{
+      path:'/forgot',
+      element:<Forgotpsw/>
+     },{
+      path:'/otps',
+      element: <Otp/>
+     },{
+      path:'/out',
+      element:<Logout/>
      }
 
   ])

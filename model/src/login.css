@@ -1,0 +1,87 @@
+.login{
+    border: 1px solid black;
+    width: 400px;
+    height: 560px;
+    background: url("https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fbeaches-1714755571_82ef3f8443e62052ce36.webp&w=1920&q=75");
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+
+}
+form{
+    display: block;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(60%);
+    flex-direction: column;
+    display: flex;
+    gap: 15px;
+}
+.log{
+    font-weight: normal;
+    font-size: 24px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
+    margin-bottom: 60px;
+}
+.labe{
+    color: rgba(255, 255, 255, 0.8);
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-left: 10px;
+}
+
+.use{
+    background: rgba(255, 255, 255, 0.3);
+    height: 33px;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    border: none;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.logbutton{
+    background: rgba(45, 126, 231);
+    height: 31px;
+    width: 133px;
+    line-height: 32px;
+    border-radius: 8px;
+    border: none;
+    margin: -14px 97px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.main{
+    padding-top: 36px;
+    width: 100%;
+    min-height: 50vh;
+    padding-left: 554px;
+
+
+
+ }
+ .forgot{
+    background: rgba(45, 126, 231);
+    height: 31px;
+    width: 219px;
+    line-height: 29px;
+    border-radius: 8px;
+    border: none;
+    margin: 18px 52px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+.for{
+    margin-left:80px;
+    margin-top: 10px;
+}
+
+ 

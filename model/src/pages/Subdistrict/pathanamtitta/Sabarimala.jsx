@@ -40,124 +40,163 @@ const Sabarimala = () => {
     <div>
         <img width={"100%"} height={"600px"} src="https://s7ap1.scene7.com/is/image/incredibleindia/1-silent-valley-national-park-palakkad-kerala-attr-hero?qlt=82&ts=1726672830992" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Silent Valley National Park</h1>
-    <p>Silent Valley National Park is a national park in Kerala, India. It is located in the Nilgiri hills and has a core area of 89.52 km2 (34.56 sq mi). It is surrounded by a buffer zone of 148 km2 (57 sq mi). This national park has some rare species of flora and fauna. Silent Valley National Park was explored in 1847 by the botanist Robert Wight.[2] It is located in the border of Mannarkkad Taluk of Palakkad district, Nilambur Taluk of Malappuram district, Kerala, and Nilgiris district of Tamil Nadu.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Sabarimala Temple
+    </h1>
+    <p>The Sabarimala Sree Dharma Sastha Temple[1] (Malayalam pronunciation: [ʃabəɾimala]) is a Hindu temple dedicated to the god Ayyappan, who is also known as Dharma Shasta and is the son of the deities Shiva and Mohini (female avatar of the god Vishnu).[2]
 
-It is located in the rich biodiversity of Nilgiri Biosphere Reserve. The Karimpuzha Wildlife Sanctuary, New Amarambalam Reserved Forest, Nedumkayam Rainforest in Nilambur Taluk of Malappuram district, Attappadi Reserved Forest in Mannarkkad Taluk of Palakkad district, and Mukurthi National Park of Nilgiris district are located around Silent Valley National Park. Mukurthi peak, the fifth-highest peak in South India, and Anginda peak are also located in its vicinity. The Bhavani River, a tributary of the Kaveri River, and Kunthipuzha River, a tributary of Bharathappuzha river, originate in the vicinity of Silent Valley. The Kadalundi River also originates in Silent Valley National Park.
+The temple is situated atop the Sabarimala hill in the village of Ranni-Perunad, within the Ranni Taluk of the Pathanamthitta district in the state of Kerala, India. The temple is surrounded by 18 hills in the Periyar Tiger Reserve.[3] It is one of the largest annual pilgrimage sites in the world, with an estimate of over 10 to 15 million devotees visiting every year.[4][5][6][7]
 
-The national park is one of the last undisturbed tracts of South Western Ghats mountain rain forests and tropical moist evergreen forest in India. Contiguous with the proposed Karimpuzha National Park (225 km2 (87 sq mi)) to the north and Mukurthi National Park (78.46 km2) to the north-east, it is the core of the Nilgiri Biosphere Reserve (1,455.4 km2), and is part of the Nilgiri Sub-Cluster (6,000+ km2), Western Ghats World Heritage Site, recognised by UNESCO in 2007.[3]
+The temple is open for worship only during the days of Mandala Pooja (approximately 15 November to 26 December),[8] Makaravilakku or Makara Sankranti (14 January), and Maha Thirumal Sankranti (14 April), and the first five days of each Malayalam month. The Sabarimala Temple serves as a prime example of the amalgamation of several religious traditions within the Indian context.[9]
 
-Plans for a hydroelectric project that threatened the park's biodiversity stimulated an environmentalist social movement in the 1970s, known as the Save Silent Valley movement, which resulted in cancelling the project and creating the park in 1980. The visitors' centre for the park is at Sairandhri.
+The temple practices encompassed the prohibition of women between the ages of 10 and 50 years from accessing the temple premises.</p>
+    <p> <h3>Origins and legends</h3>
+According to the Bhagavata Purana, the god Shiva fell in love with the god Vishnu while he was in his female Mohini form. Their relationship resulted in the conception of the deity Shasta. Shasta is also known as Hariharaputra, the son of Hari (Vishnu) and Hara (Shiva).[10] It is believed that Ayyappa is a form of Shasta.[11]
 
-<h3>History</h3>
+The worship of Shasta forms part of the ancient history of south India.[12] There are many Shasta temples in South India and across the globe.[13]
 
-Map of Nilgiris Biosphere Reserve, showing Silent Valley National Park in relation to multiple contiguous protected areas
-The first Western investigation of the watersheds of the Silent Valley area was in 1857 by the botanist Robert Wight.[2] The British named the area Silent Valley because of a perceived absence of noisy cicadas. Another story attributes the name to the anglicisation of Sairandhri. A third story refers to the presence of many lion-tailed macaques Macaca silenus.[4] In 1914, the forest of the Silent Valley area was declared a reserve forest. Between 1927 and 1976, portions of the Silent Valley forest area were subjected to forestry operations. In 1928, the location on the Kunthipuzha River at Sairandhri was identified as an ideal site for electricity generation, and in 1958 a study and survey of the area was conducted and a hydroelectric project of 120 MV costing Rs. 17 crore was proposed by the Kerala State Electricity Board.[5]
+Five Shasta temples, namely those in Kulathupuzha, Aryankavu, Achankovil, Sabarimala, and Ponnambalmedu, are said to be linked to Parashurama, an avatar of Vishnu.[14] In Kulathupuzha, Shasta is venerated as a child deity. In the Aryankavu temple, he is worshipped as an adolescent Brahmachari. The Achankovil temple is connected to the deity's Grihastha (household), where he is shown sitting on a horse and holding a sword, along with his wives, Pushkala and Poorna. The Sabarimala temple is associated with the deity's Vanaprastha, and in the Ponnambalmedu or Kantamala temple, the deity is shown as the greatest Yogi.</p>
+<p><h3>Legend of Manikandan</h3>
+Sage Suta told his followers the story of how Ayyappa was born, according to Bhutnathopakhyanam, a text for Ayyappan followers. After Chamundi killed Mahisasura, his sister Mahisi arrived to take revenge on the devas (gods). Brahma gave Mahishi a boon that made her invincible, and only a human born of two males could kill her. The devas were afraid and helpless, so they sought assistance from Vishnu. The union of Shiva and Vishnu, who took the avatar of Mohini, produced a son named Manikandan.
 
-<h3>Environmental concerns</h3>
-Main article: Save Silent Valley
+Manikandan was abandoned on the banks of the Pampa River in southern India. The emperor Rajasekhara of the Panthalam dynasty, who didn't have any children, found this child. In the meantime, the queen delivered a baby. The queen disliked Manikandan and devised a scheme to eliminate him. She lied about her sickness, claiming that she could only be treated by consuming tiger's milk. Twelve-year-old Manikandan ventured into the wilderness in search of tiger's milk for her mother. On his journey through the forest, he destroyed Mahisi. The devas were pleased at Mahishi's death. Indra assumed the appearance of a tiger, which Manikandan used to return to the kingdom. He flung an arrow into the forest to mark the location of a temple, directed them to construct a temple, and then departed for Devaloka (the devas' abode).[16]</p>
+<p><h3>Connection with Rama</h3>
+Shabari was a tribal devotee of Rama who is mentioned in the Ramayana. Sabarimala literally translates to "the hill of Sabari."[17]
 
-<h3>Lion-tailed macaque</h3>
-Silent Valley is home to the largest population of lion-tailed macaques, an endangered species of primate. Public concern over threats to their habitat led to the establishment of Silent Valley National Park.
+As per legend, Sabari met Sage Matanga near the foot of Mount Rishyamukha. He became her guru, and she devotedly served him for years. When Matanga was on his deathbed, he foretold that Rama would come to grant her darshan. He told her to wait for the arrival of Rama. Since that time, Sabari has only left her ashram each day to gather berries for Rama. She would pick one, taste it, and place it in her basket if it was sweet, discarding the bitter berries because she wanted Rama to have only the sweet berries. While in his search for Sita, Rama visits the Sabari at her ashram. Sabari fed Rama with the berries that she had collected.[18]
 
-In 1973 the valley became the focus of "Save Silent Valley", India's fiercest environmental movement of the decade, when the Kerala State Electricity Board decided to implement the Silent Valley Hydro-Electric Project (SVHEP) centered on a dam across the Kunthipuzha River. The resulting reservoir would flood 8.3 km2 of virgin rainforest and threaten the lion-tailed macaque. In 1976 the Kerala State Electricity Board announced plans to begin dam construction and the issue was brought to public attention. Romulus Whitaker, founder of the Madras Snake Park and the Madras Crocodile Bank, was probably the first person to draw public attention to the small and remote area.[6]
+Rama saw a divine person doing penance and asked Shabari to tell him who it was. Shabari said it was Sastha (Ayyappan). Sastha also stood and greeted Rama</p>
+<p><h3>Legend of Malikapurathamma and connection with Ezhava Community</h3>
 
-On 7 September 1985 the Silent Valley National Park was formally inaugurated and a memorial at Sairandhri to Indira Gandhi was unveiled by Rajiv Gandhi, her son and the next prime minister. On 1 September 1986 Silent Valley National Park was designated as the core area of the Nilgiri Biosphere Reserve. Since then, a long-term conservation effort has been undertaken to preserve the Silent Valley ecosystem.[5]
+After winning the case and gaining hereditary rights to conduct fireworks at Sabarimala, Ratnamma Panickathy from Cheerappanchira and her sons at Sabarimala.
+According to mythology, Maalikapurathamma is the divine daughter of Cheerappanchira Panicker who taught Kalaripayattu to Ayyappa.[19][20][21] Cheerappanchira is an ancient noble Ezhava family renowned for its Kalari in Muhamma, Alappuzha District. According to legend, Ayyappan was sent by the Pandalam king to Muhamma to learn Kalaripayattu. Malikkapurathamma, also known as Subhadra (Poonkudi), used to teach Kalari to Ayyappan in the absence of her father. During this time, they fell in love with each other. The Cheerappanchira family to this day holds many rights in the Sabarimala temple, such as to conduct fireworks, to light Nilavilak and ceremonial lamps at the Malikapurathamma temple, collect half the coconuts given by devotees at the Malikapurathamma temple.[22]
 
-In 2001 a new hydro project was proposed and the "Man vs. Monkey debate" was revived. The proposed site of the dam (64.5 m high and 275 m long) is just 3.5 km downstream of the old dam site at Sairandhiri, 500 m outside the National Park boundary.[7] The Kerala Minister for Electricity called The Pathrakkadavu dam (PHEP) an "eco-friendly alternative" to the old Silent Valley project. The claim was that the submergence area of the PHEP would be a negligible .041 km2 compared to 8.30 km2 submergence of the 1970s (SVHEP).[8] From January to May 2003, a rapid Environmental Impact Assessment (EIA) was carried out. On 15 November, Minister for Forest Binoy Viswam said that the proposed buffer zone for Silent Valley would be declared soon.[9]
+There is a small Mukkalvetti Ayyappa temple at Cheerappanchira, near Kollam which hold 3/4 power of Ayyappa and rest in Sabarimala.[23][19]
 
-On 21 February 2007 ex-Chief Minister A. K. Antony told reporters after a cabinet meeting that "when the Silent Valley proposal was dropped, the centre had promised to give clearance to the Pooyamkutty project. This promise, however, had not been honoured. The Kerala government has not taken any decision on reviving the Silent Valley Hydel Project".[10]
+Valiya kadutha swami and kochu kadutha Swamy who were warrior brothers worshipped at Shabarimala are considered as ‘Shaundikans’, who hails from the Malabar Thiyyar community.</p>
 
-On 18 April 2007, Kerala Chief Minister V S Achuthanandan and his cabinet approved the Pathrakkadavu Hydro-electric project and sent it to the Union Government for environmental approval.[11][12]
+<p><h3>History</h3>
+The Sabarimala temple does not have any ancient or medieval references. Nevertheless, there are extant late medieval references pertaining to the temple.
+
+The Pandalam royal family drafted a mortgage document in 1793. It states that the royal family is pledging the revenue returns, which encompass the income generated by the Sabarimala Temple, to the Tranvancore state.[25]
+
+In 1863, Ward and Conner published an article that provided a description of Sabarimala and its vicinity.[26]
+
+In the year 1902, the ruler of Travancore issued a directive for the restoration of the Sabarimala temple, which had suffered damage as a result of a fire incident. Kochu Thomman, a Mavelikkara resident of Christian faith, funded and carried out the reconstruction contract.[27]
+
+In the year 1950, the temple was rebuilt after an arson attack.[28] No charges were brought,[29] and the earlier stone image of the deity was replaced by a panchaloha (an alloy of five metals) idol, about one and a half feet tall.
+
+Neelakanta Panicker and his younger brother, Ayyappa Panicker, who are members of the Thattavila Vishwakarma family in Chengannur, Kerala, created the Panchaloha idol to replace the original stone statue of the deity. Edavankadan T.N. Padmanabhan Achari from Mavaelikkara was appointed the supervisor in charge of the new idol by Rajpramukh Sree Chithira Tirunaal Balarama Varma.[30] In the early 1950s, through P. T. Rajan efforts, the present panchaloha idol of Ayyappan was installed at Sabarimalai, and a procession was taken all over Madras state.[31][32]
+
+In 1969, the flagstaff (dhwajastambha) was installed</p>
+<p><h3>Architecture and shrines</h3>
+The Sannidhanam (main temple) is built on a plateau about 40 feet high.[34][35][36]
+
+The temple consists of a sanctum sanctorum with a gold-plated roof and four golden finials at the top, two mandapams, and the balikalpura, which houses the altar.[37]
+
+The 18 sacred steps are the main stairway to the temple. As per the custom followed, no pilgrim without "Irumudikkettu" can ascend the 18 sacred steps. In 1985, the 18 steps were covered by Panchaloha. The temples of Ayyappan's trusted lieutenants, Karuppu Sami and Kadutha Sami, are positioned as his guards (kaval) at the foot of the holy 18 sacred steps.
+
+The northern gate is open for those who do not carry an "Irumudikkettu", as observed in the 1991 Kerala High Court judgement.[38]
+
+Ayyappan's half-brother Ganesha's shrine is southwest of the sanctum. Devotees offer part of the broken coconut (Neythenga) to the fireplace (Azhi). Ganapati homam is the main offering.[36]
+
+The temple of Maalikapurathamma, whose importance is almost on par with that of Ayyappan, is located a few yards from Sannidhanam. It is believed that Ayyappan had specific instructions that he wanted Malikappurath Amma on his left side. Prior to the fire disaster, there was only a Peeda Prathishta (holy seat) at Malikappuram. Brahmasree Kandararu Maheswararu Thanthri installed the idol of Malikappurath Amma. Maalikapurathamma holds a Sankh, Chakram and Varada Abhya Mudra. Now the idol is covered with a gold golaka. The temple was also reconstructed in the last decade, and now the conical roof and sopanam are covered with gold.[39]
 
 
+Nagaraja Shrine at Sabarimala
+The shrine of the king of the snakes, Nagaraja, is placed adjacent to the Malikappurathamma temple. Pilgrims, after the Darsan of Ayyappa and Kannimoola Ganapathi, make their darshan and give offerings to Nagaraja.
 
-<h3>Buffer zone</h3>
-Territorial forests located around the national park have been subject to a working-plan to accomplish revenue oriented objectives such as extraction of bamboo and reed which affect the long-term conservation of the park.[citation needed] In addition, illegal activities such as ganja (Cannabis sativa) cultivation has caused habitat degradation.[13]
+Manimandapam is the place where Ayyappan vanished into the temple.[39][unreliable source?]
 
-On 21 November 2009, Union Minister of Forest and Environment Jairam Ramesh and Kerala Forest Minister Binoy Viswam declared, while inaugurating the silver jubilee celebration of Silent Valley National Park in Palakkad, that the buffer zone of the Park would be made an integral part of it in order to ensure better protection of the area.[14]
+The Sabarimala temple complex includes Pampa Ganapathi temple, Nilakal Mahadeva temple, and Palliyarakkavu Devi Temple. The Nilakal Mahadeva temple and Palliyarakkavu Devi Temple are as old as the Ayyappan temple, and the deities are worshipped as the parents of Ayyappan. Ganapathi temple at Pampa has Pampa Maha Ganapathi and Athi Ganapathi (lit. old Ganesha) idols; in Sreekovil, the idol from the first Ganesha temple is worshipped. Sabari Peedam has a temple for Rama and Hanuman as wel</p>
+<p><h3>Festivals and religious practices</h3>
+<h3>Prasadam</h3>
+Aravana Payasam
+Aravana Payasam
+The prasadam at Sabarimala temple are Aravana payasam and Appam. An 'Appam' is a sweet ball composed of rice, kadalippazham, and ghee, whereas 'Arvana' refers to a dense and sweet dessert.[40] The Chief Commissioner, Travancore Devaswom Board, said that the board has been appointed by the Central Food Technological Research Institute, Mysore, as a consultant for providing technical guidance to ensure the quality of Aravana, Appam, and other prasadam preparations at Sabarimala temple.[41]
 
-On 6 June 2007 the Kerala cabinet approved the buffer zone proposal. The new 147.22 km2 zone will include 80.75 km2 taken from Attapady Forest Range, 27.09 km2 from Mannarkkad Forest Range and 39.38 km2 from Kalikavu Forest Range and consolidated to form a new range, Bhavani Forest Range, of 94 km2 and 54 km2 would be brought under the existing Silent Valley Range of the National Park. The Cabinet also sanctioned 35 staff to protect the area and two new forest stations in Bhavani range at Anavai and Thudukki. Forest Minister Benoy Viswom said "the zone would have reserve forest status and tribals in the area would not be affected. The decision reaffirmed the commitment of the LDF Government to protection of environment. The zone is a necessity, not just of the State but also of the nation."[15]
+<h3>Harivarasanam</h3>
+Vadakkathillathu Eswaran Namoothiri, who held the position of melsanthi, a chief priest, started the tradition of singing keerthan in the year 1950. Following the Athazhapooja, he performed the recitation of Harivarasanam. Harivarasanam is a Sanskrit Urakkupattu, a lullaby. The recitation takes place nightly before the closure of the temple entrance. The keerthan can be found in the Sasthasthuti kadambam, a publication authored by Kambankudi Sundaram Kulathu Ayyer. The song depicts Ayappa as Hariharaputhra, a deity revered in the Vedas.[42]
 
-The proposal was then sent to Kerala Minister for Electricity, A. K. Balan, who has voiced the need for setting up the Pathrakadavu hydroelectric project in the proposed southwest buffer zone of the National Park, the Thenkara Range of the Mannarkkad Forest Division. As of 9 May 2007 Balan has not given his opinion on the buffer zone proposal.[16]
+<h3>Neyyabhishekam</h3>
+This significant ritual involves pouring sacred ghee brought by pilgrims in their Pallikettu or Irumudi (a two-compartment bag made of handwoven cotton cloth used to carry the offerings for Sabarimala Temple carried on their heads) on the idol of Ayyappan. It symbolically means the merging of Jeevatma with the Paramatma.
 
-In August 2006, the new Minister for Forests, Benoy Viswam, approved a proposal from the Conservator of Forests for a 148 km2 buffer zone around the core area of the park. The proposal says: "It is felt absolutely essential that an effective buffer of forests should be immediately formed around the national park in order to save the world famous Silent Valley National Park from all potential dangers. This can only be achieved by bringing the management of Silent Valley National Park as well as the proposed buffer zone under one management umbrella to insulate the park from all possible dangers." The proposed buffer zone will have 94 km2 in Attappady Reserve Forest east of the Kunthipuzha and 54 km2 taken from the Mannarkaad range and Nilambur south division west of the river.
+<h3>Makara Vilakku</h3>
+Makaravilakku is an annual festival held on Makara Sankranti in Kerala, India at the shrine of Sabarimala. The festival includes the Thiruvabharanam (sacred ornaments of the deity Ayyappan) procession and a congregation at the hill shrine of Sabarimala. An estimated half a million devotees flow to Sabarimala every year to have a darshan (vision) of this ritual this day.
 
-In January 2006, the former Kerala Minister for Forest and Environment, A. Sujanapal, said the Government would consider the demand for a 600 km2 buffer zone for Silent Valley National Park made by Bharathapuzha Protection Committee, Malampuzha Protection Committee, One Earth One Life and Jana Jagratha. A buffer zone proposal was made in the 1986 park management plan but not implemented.[17]
+<h3>Makarajyoti</h3>
+This is a star that appears at the moment of Makar Sankranti, before the holy arti and the lighting of the Makaravilakku at Ponnambalamedu. It is the custom that after seeing the Makarajyoti star, the lighting of the Makaravilakku shall begin.
 
-In 1979, M.S. Swaminathan, then Secretary to the Department of Agriculture, visited the Silent Valley area and suggested that 389.52 km2 including the Silent Valley (89.52 km2), New Amarambalam (80 km2), Attappadi (120 km2) in Kerala and Kunda in Coimbatore (100 km2) reserve forests, should be developed into a National Rainforest Biosphere Reserve.[18]
+<h3>Tattvamasi</h3>
+The most important message written at the temple facade is one of the four Mahāvākyas of Advaita or the non-dualistic school of philosophy. Tat Tvam Asi, the 3rd of four Mahavakyas which in sanskrit translates to "Thou Art That" is the principal philosophy that governs the temple and pilgrimage. As the pilgrimage is symbolic for the journey to self-realization that all living beings possess the part and parcel of parabrahman (lord), pilgrims refer to each other as Swami, acknowledging their divinity with lord seated in everyone heart as bramhan.[citation needed]
 
-On 27 October 2020 draft notification was made by Govt. of India for the area around the National park declaring it as eco sensitive zone.[19]
+The oneness of jIva and Ishvara are qualitatively but not quantitatively described by enquiry into the inner meaning of the statement ‘tat tvam asi’as follows:
 
-<h3>Geography</h3>
+"Tat" refers to Ishvara, the lord - the word Ishvara has a literal and an implied meaning;
+The literal meaning of ‘Ishvara’ is ‘supreme bramhan (above bramhan and para bramhan )’;
+refers to the jIva, the individual identities of everyone;
+The literal meaning of ‘jIva’ is ‘AtmA identified with mithyA gross and subtle bodies’;
+The implied meaning is pure consciousness-AtmA without mithyA gross and subtle bodies;
+In advaita AtmA and parmatma (Brahman) are different names of the one Reality;
+Thus, jIva and Ishvara are Absolutely non-different in qualitatively, but only difference is quantitatively[43]
+History behind the methods of worship
+The customs of the pilgrims to Sabarimala are based on five worshipping methods; those of Shaivites, Shaktists and Vaishnavites. At first, there were three sections of devotees – the devotees of Shakti worship their deity by way of yajna, literally sacrifice,[citation needed] the devotees of Vishnu who followed the strict penance and continence, and the devotees of Shiva who partly followed these two methods. Another name of Ayyappa is Shasta. All these can be seen merged into the beliefs of pilgrims to Sabarimala. The chain the pilgrims wear comes from the Rudraksha chain of the Shaivites. The strict fasting, penance and continence is taken out of the beliefs of the Vaishnavites. The offering of tobacco to Kaduthaswamy can be considered to be taken from the Shaktists.[citation </p>
+<p> <h3>Pilgrimage</h3>
 
-Hanging Bridge across the Kuntipuzha River – Silent Valley National Park (SVNP)
+A sign-board that indicates the direction to Sabarimala. The multilingual board is written in Hindi, Malayalam, Tamil, Kannada, Telugu and English (in that order, from top to bottom)
 
-Silent Valley National Park
-Topography 1:250,000., 1959'.
-Silent Valley is rectangular, twelve kilometres from north to south and seven from east to west. Located between 11°03' to 11°13' N (latitude) and 76°21' to 76°35' E (longitude) it is separated from the eastern and northern high altitude plateaus of the (Nilgiris Mountains) by high continuous ridges including Sispara Peak (2,206 m) at the north end of the park. The park gradually slopes southward down to the Palakkad plains and to the west it is bounded by irregular ridges. The altitude varies from 658 m to 2328 m at Anginda Peak, but most of the park lies within the altitude range of 880 m to 1200 m. Soils are blackish and slightly acidic in evergreen forests where there is good accumulation of organic matter. The underlying rock in the area is granite with schists and gneiss, which give rise to the loamy laterite soils on slopes.[20]
+Crowd management of pilgrims
+The duration of the pilgrimage to the Sabarimala temple is predetermined. Furthermore, the pilgrims are required to undergo various stages of the pilgrimage in an ordered manner.[44]
 
-<h4>Rivers</h4>
-The Kunthipuzha River drains the entire 15 km length of the park from north to south into the Bharathapuzha River. Kunthipuzha River divides the park into a narrow eastern sector of width 2 kilometers and a wide western sector of 5 kilometers. The river is characterized by its crystal clear water and perennial nature. The main tributaries of the river, Kunthancholapuzha, Karingathodu, Madrimaranthodu, Valiaparathodu and Kummaathanthodu originate on the upper slopes of the eastern side of the valley. The river is uniformly shallow, with no flood plains or meanders. Its bed falls from 1,861 m to 900 m over a distance of 12 km, the last 8 km being particularly level with a fall of only 60 m. Kunthipuzha is one of the less torrential rivers of the Western Ghats, with a pesticide-free catchment area.[21]
+The pilgrimage to Sabarimala starts on the first day of Vrischika month of the Malayalam year (the month of Scorpio) and ends on the 11th day of Dhanu month (the Month of Sagittarius). This season of the 41-day pilgrimage is known as the mandala (season). The season is in the months of December and January.[45]
 
-<h4>Climate</h4>
+The nearest railway station is Chengannur railway station is known as the Gateway of Sabarimala because devotees from Andhra, Telangana, Karnataka, Tamil Nadu and the rest of India alight at Chengannur railway station for their pilgrimage about 70% of devotees alight here so railway is going to create a new railway line from chengannur to pamba (Distance 75 km).
 
-Silent Valley from JPL Map server.
-Silent Valley gets copious amounts of rainfall during the monsoons, but the actual amount varies within the region due to the varied topography. In general, rainfall is higher at higher altitudes and decreases from the west to the east due to the rain shadow effect. Eighty per cent of the rainfall occurs during the south-west monsoon between June and September. The park also receives a significant amount of rainfall during the north-east monsoon between October and November.[22]
+The devotees are expected to follow a Vratham (a 41-day austerity period) prior to the pilgrimage.[46][47][48] This begins with wearing a special Mala (a neck chain made of Rudraksha or Tulasi beads is commonly used, although other types of chains are also available). During the 41 days of Vratham, the devotee who has taken the vow is required to strictly follow the rules that include following only a lacto-vegetarian diet (In India, vegetarianism is synonymous with lacto-vegetarianism), following celibacy, follow teetotalism, not using any profanity, control anger, and allow the hair and nails to grow without cutting.[48] They must try to help others, and see everything around them as Ayyappa. They are expected to bath twice a day and visit the local temples regularly and only wear plain black or blue coloured traditional clothing.[49]
 
-The park being completely enclosed within a ring of hills, has its own micro-climate and probably receives some convectional rainfall, in addition to rain from the two monsoons. In the remaining months, condensation on vegetation of mist shrouding the valley is estimated to yield 15 per cent of the total water generated in the rainforest.[23]
+Many Hindu pilgrims also visit a mosque in Erumely dedicated to Vavar, a Muslim saint who according to tradition was devotee of Ayyappan.[50]
 
-In 2006, the Walakkad area of the park received the highest ever annual rainfall of 9,569.6 mm. In 2000, the figure was 7,788 mm; in 2001, 8,351.9 mm; in 2004, 8465.3 mm; and in 2005, 9,347.8 mm. The annual rainfall received in the valley (at Sairandhri?) was 7,788.8 mm in 2000; 8,361.9 mm in 2001. In 2002, 4,262.5 mm; in 2003, 3,499.65 mm; in 2004, 6,521.27 mm, in 2005, 6,919.38 mm; in 2006, 6,845.05 mm; in 2007, 6,009.35 mm; and in 2008 it was 4386.5 mm. The figure till October 2009 was 5,477.4 mm. Average annual rainfall in the park between 2000 and 2008 was thus 6,066 mm.[14]
+Millions of devotees still follow the traditional mountainous forest path (approximately 61 km) from Erumely, 12.8 km from Vandiperiyar and 8 km from Chalakayam, believed to be taken by Ayyappa himself. The Erumely route starts from Erumely to Aludha river, then crosses the Aludha mountain to reach Karivilam thodu. Now comes the sacred Karimala crossing, from there to Cheriyanavattom, Valliyanavattom and finally Pamba River. Then they have to climb Neelimala and enter into the Ganesha-Bettam, Shreerama-Betta Padam. Then comes the Aranmula kottaram, which is one of the stops of holy journey Thiruvabharana Ghoshayatra (the grand procession of the divine jewelry).[49]
 
-The mean annual temperature is 20.2 °C. The hottest months are April and May when the mean temperature is 23 °C and the coolest months are January and February when the mean temperature is 18 °C. Because of the high rainfall, the relative humidity is consistently high (above 95%) between June and December.[21]
+These days people use vehicles to reach the Pamba River by an alternate route. From Pamba, all the pilgrims begin trekking the steep mountain path of Neeli Mala till Sabari Mala. This route is now highly developed, with emergency shops and medical aid by the sides, and supporting aid is provided to the pilgrims while climbing the steep slope, which used to be a mere trail through dense jungle. The elderly pilgrims are lifted by men on bamboo chairs to the top, on being paid.</p>
+<p><h3>Women</h3>
+Main article: Entry of women to Sabarimala
+Temple management places religious restrictions against the entry of women aged 10 to 50. This is based on the tradition of the temple to respect the celibate nature of the deity; similar restrictions are present against the entry of men on certain days or the inner sanctum in other Hindu temples such as the Pushkar Brahma Temple[52][53][54] and the Kamakhya Temple[55] in Guwahati.
 
-<h3>Indigenous people</h3>
-There is no record of the valley ever having been settled, but the Mudugar and Irula tribal people are indigenous to the area and do live in the adjacent valley of Attappady Reserved Forest.[24][25] Also, the Kurumbar people live in the highest range outside the park bordering on the Nilgiris.[26]
+According to the Memoir of the Survey of the Travancore and Cochin States, which was published in two volumes by the Madras government in the 19th century, women of menstruating age were denied entry into the Sabarimala temple two centuries ago. Though the authors, lieutenants of the Madras Infantry, completed the survey by the end of the year 1820 after nearly five years of research, it was published in two volumes only in 1893 and 1901. According to the report, individuals who have reached puberty or a specific age are prohibited from approaching the temple, while elderly women and young girls are permitted to do so. This is due to the deity's (Ayyappan) aversion to any sexual activity in the vicinity.[56]
 
-Many of the Mudugar, Irula and Kurumbar now work as day labourers and porters. 16 out of 21 tribal colonies in the Attappady range cultivate marijuana. Many Mudugar are in abject poverty and easily recruited by the so-called ganja mafia. In 2006, it was planned to employ 50 additional men from the 21 tribal settlements as forest guards.[13]
+Up until 1991, women visited the temple, though in small numbers. Women pilgrims below the age of 50 would visit the temple to conduct the first rice-feeding ceremony of their children (Chorroonu) in the temple premises.[57]
 
-<h3>Flora and fauna</h3>
-The valley areas of the park are in a Tropical and subtropical moist broadleaf forests Ecoregion. Hilly areas above 1,000 m are in the South Western Ghats montane rain forests region. Above 1,500 m, the evergreen forests begin to give way to stunted forests, called sholas, interspersed with open grassland, both of which are of interest to ecologists as the rich biodiversity here has never been disturbed by human settlements. Several threatened species are endemic here. New plant and animal species are often discovered here.[21]
+In 1991, Justices K. Paripoornan and K. Balanarayana Marar of the Kerala High Court, in their ruling against the Travancore Devaswom Board, restricted the entry of women between the ages of 10 and 50 from offering worship at the temple, stating that such a restriction was in accordance with the usage prevalent from time immemorial.[38] In addition, the judges directed the Government of Kerala to use the police force to ensure that restriction was complied with.[38] The high court also stated that "since there is no restriction between one section and another section or between one class and another class among the Hindus in the matter of entry to a temple (Sabarimala), whereas the prohibition is only in respect of women of a particular age group and not women as a class."[58]
 
-<h3>Fauna</h3>
-<h4>Birds</h4>
+On 28 September 2018, the Supreme Court of India, in a 4-1 majority decision (4 men and 1 women judicial panel), overturned the ban on the entry of women.[59][60] The Chief Justice, Dipak Misra, stated that the selective ban on women was not an "essential part" of Hinduism but instead a form of "religious patriarchy".[59] Justice Dhananjaya Y. Chandrachud stated that the ban "stigamatises" and "stereotypes" women while "placing the burden of men's celibacy" on them.[59][61] The lone female judge, Indu Malhotra noted in her dissenting judgement that "what constitutes an essential religious practice is for the religious community to decide" and not a matter that should be decided by the courts. She added that "notions of rationality cannot be invoked in matters of religion by courts."[59][62][63] After the Supreme Court's decision, there were a lot of protests and gatherings in the southern part of Kerala. In response to the decision made on September 28, 2018, devotees have filed about 65 review petitions. The Supreme Court of India accepted review petitions against its own orders. The Supreme Court has decided to review the petition and hold a public hearing because of the important facts and circumstances of the case.[64]
 
-A Nilgiri wood-pigeon
-Birdlife International lists 16 bird species in Silent Valley as threatened or restricted:- Nilgiri wood-pigeon, Malabar parakeet, Malabar grey hornbill, white-bellied treepie, grey-headed bulbul, broad-tailed grassbird, rufous babbler, Wynaad laughingthrush, Nilgiri laughing thrush, Nilgiri blue robin, black-and-rufous flycatcher, Nilgiri flycatcher, white-bellied blue-flycatcher, crimson-backed sunbird and Nilgiri pipit.[27]
+This led to protests at Nilakkal and Pamba base camps on 17 October 2018, when the temple was opened for the first time after the Supreme Court verdict. Protesters assaulted women journalists, stole their camera equipment, and damaged a vehicle. The police were also attacked. A number of women were among the protesters, checking cars to see if they contained women of menstruating age and helping with the road blocks.[65][66] There were also reports of police damaging protesters' motor bikes.[67] However Ayyappan devotees in a large scale all over Kerala and also in other southern state of India namely Tamil Nadu, Andra pradesh and Karnataka, protested against entry of women in 10-50 age group in Sabarimala. Large number of people participated in the protest mainly women devotees.[68] On 26 December 2018, devotees conducted 'Ayyappa Jyothi' lighting diya or lamp all across the state of Kerala, Karnataka covering a distance of about 765 km from 6 pm to 6-30 pm against young women's entry to temple. Thousands joined in the event.[69][70] The protestors were physically attacked in Kannur and the state government filed cases against 1400 unidentified participants.[71][69]
 
-Rare bird species found here include the Ceylon frogmouth and great Indian hornbill. The 2006 winter bird survey discovered the long-legged buzzard, a new species of raptor at Sispara, the park's highest peak. The survey found 10 endangered species recorded in the IUCN Red List including the red winged crested cuckoo, Malabar pied hornbill and pale harrier. The area is home to 15 endemic species including the black-and-orange flycatcher. It recorded 138 species of birds including 17 species that were newly observed in the Silent Valley area. The most abundant bird was the Square-tailed bulbul.[28]
+Even other religious groups supported the cause of devotees. Prominent Jain Acharya Yugbhushan Suri Maharaj, also known as Pandit Maharaj, has said that sanctity was a religious issue and that it was connected to fundamental religious rights.[72] Commenting on the Sabarimala temple row, Pandit Maharaj told IndiaToday, "Whether it is Sabarimala or Jharkhand's Shikharji, the agitations are for sanctity," adding, "Religion talks about inner belief and sanctity. This should be respected. I am not against the judiciary or the Supreme Court, but they should not overlook the belief of the people." Also, Art of Living founder Ravi Shankar batted for the rules that have been traditionally followed at the sanctum sanctorum of the Ayyappa Temple in Sabarimala.[73]
 
-<h4>Mammals</h4>
+Two women of menstruating age attempted to enter the temple on 19 October 2018 but were blocked by protesters about 100 m away. After the Thantri threatened to close the sanctum sanctorum if the women attempted to ascend the 18 sacred steps, they turned back.[74][75]
 
-Nilgiri langur
-There are at least 34 species of mammals at Silent Valley including the threatened lion-tailed macaque, Nilgiri langur, Malabar giant squirrel, Nilgiri tahr, Peshwa's bat (Myotis peshwa) and hairy-winged bat. There are nine species of bats, rats and mice.[29]
+On 2 January 2019 at 3:45 AM, for the first time after the Supreme Court verdict, two women in their early 40s were escorted by police into the Sabarimala temple, allegedly through a back gate meant for staff. The Chief Minister of Kerala, Pinarayi Vijayan, confirmed their entry. Thereafter, priests closed the temple for one hour to ritually purify it as the 41-days pilgrimage is known as Mandala kalam or the 41-day austerity period/Vratham had not been given a by-pass and the women entered the temple premises violating all those traditions too.[45][46][76][77][78][79]
 
-Distribution and demography of all diurnal primates were studied in Silent Valley National Park and adjacent areas for a period of three years from 1993 to 1996. Fourteen troops of lion-tailed macaque, eighty-five troops of Nilgiri langur, fifteen troops of bonnet macaque and seven troops of Hanuman langur were observed. Of these, the Nilgiri langur was randomly distributed, whereas the lion-tailed macaque troops were confined to the southern sector of the Park. Bonnet macaques and Hanuman langurs were occasional visitors. The Silent Valley forest remains one of the most undisturbed viable habitats left for the endemic and endangered primates lion-tailed macaque and Nilgiri langur.[30]
+After the hearing ended in February 2019, the Court, led by the newly appointed Chief Justice, Mr. Ranjan Gagoi, issued an order to send the case to a larger bench of seven judges so that the decision made on 28 September 2018, could be looked at again.[6</p>
+<p><h3>Environmental efforts</h3>
 
-Tiger, leopard, leopard cat, jungle cat, common palm civet, small Indian civet, brown palm civet, ruddy mongoose, stripe-necked mongoose, dhole, clawless otter, sloth bear, small Travancore flying squirrel, Indian pangolin (scaly anteater), porcupine, wild boar, sambar, spotted deer, barking deer, mouse deer, elephant and gaur also live here.[citation needed]
+An information signage near Nadappanthal, Sabarimala, inviting all to join hands in making Sabarimala free from plastic and other wastes.
+The waste disposed by the devotees to Sabarimala is threatening the wildlife of the region[81][82][83] and the evergreen forests.[84] Efforts are on to make Sabarimala free from pollution and waste. High Court of Kerala has directed that 'Irumudikkettu' should not contain plastic materials.[85] Projects like "Punyam Poonkavanam" has been initiated under the aegis of governmental departments.[86] Mata Amritanandamayi Math has been regularly contributing to keep Sabarimala and its precincts clean.[87][88] While cleaning Pamba river Sabarimala Sanndidhaanam clean is their primary objective,[89] the broader vision is to spread the message of greenness and cleanliness beyond Sabarimala.[90]
 
-<h4>Insects</h4>
+Some of the salient aspects of "Punyam Poonkavanam" project includes:[91]
 
-Vestalis submontana, endemic to Western Ghats
-There are at least 730 identified species of insects in the park. The maximum number of species belong to the orders Lepidoptera and Coleoptera. Many unclassified species have been collected and there is a need for further studies.[31]
+Not using soap and oil while bathing in the holy Pamba River. No throwing any material, including clothes in the holy river.
+To prepare irumudikkettu without using any plastic and using only bio-degradable materials.
+To devote at least one hour in cleanliness activities at Sabarimala Sannidhaanam, River Pamba and surroundings as part of the pilgrimage.</p>
+<p><h3>Transport</h3>
 
-33 species of crickets and grasshoppers have been recorded of which one was new. 41 species of true bugs (eight new) have been recorded. 128 species of beetles including 10 new species have been recorded.[32]
+Doli service in Sabarimala
+The nearest railway station is Chengannur known as the Gateway of Sabarimala. Chengannur (85 kilometres (53 mi)), Kottayam (95 kilometres (59 mi)) Tiruvalla (89 kilometres (55 mi)) and Changanasseri (90 kilometres (56 mi)) are some of the closest accessible railway stations from Sabarimala. The nearest airports are Thiruvananthapuram International Airport (170 kilometres (110 mi)) and Cochin International Airport (160 kilometres (99 mi)). The state government has also approved the construction of a fifth airport in the Kottayam district, close to the Sabarimala shrine, on 31 December 2022.[92]
 
-Over 128 species of butterflies and 400 species of moths live here. A 1993 study found butterflies belonging to 9 families. The families Nymphalidae and Papilionidae contained the maximum number of species. 13 species were endemic to South India, including 5 species having protected status.[33] Seven species of butterflies were observed migrating in a mixed swarm of thousands of butterflies towards the Silent Valley National Park. In one instance an observer noted several birds attempting to catch these butterflies.[34]
+Special buses are arranged from different parts of the state to provide transportation to Kerala in anticipation of the yearly Mandala and Makaravilakku poojas performed at the temple dedicated to Lord Ayyappa Swamy.[93][94]
 
-A survey jointly conducted by Indian Dragonfly Society and the Forest and Wildlife Department in September 2018 in the buffer zone of the Silent Valley National Park found 82 species of odonata. The species found include Indosticta deccanensis, Burmagomphus laidlawi, Microgomphus souteri, Onychogomphus nilgiriensis, Euphaea dispar, Idionyx travancorensis, Megalogomphus hannyngtoni and Lestes dorothea.[35]
-
-Other</p>
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
-   <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    91 Kms from Coimbatore International Airport (Tamil Nadu)</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    69 Kms from Palakkad Railway Staion</p> </div>
-    <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    60 Km from Palakkad via Mannarkkad to Mukkali (Base camp).</p> </div>
-   </div>
+The Sabari Express, which stops at nearby stations like Chengannur and Kottayam, is frequented by devotees of this temple. During the peak season, the train is full of devotees looking to travel to the temple.</p>
 
 
 
@@ -168,20 +207,21 @@ Other</p>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
-<img  width={'200px'} height={'200px'} src="https://lh5.googleusercontent.com/proxy/stT9zUalrGPf_Vtc5SMp3OBapBBaPB_hhRJeBefWYCXCtGjrdbLaK653Y_YaEyTIKpk-Di39paHWbtKt35_84pZ9" alt="" />
-<img  width={'200px'} height={'200px'} src="https://pratapj.com/pxshv1/wp-content/uploads/silentvalley-.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://i0.wp.com/mahabahu.com/wp-content/uploads/2024/01/Silent-Valley-NP-entrance-1024x576.jpg?resize=1024%2C576&ssl=1" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yR4a-Zz5hC1oRf9fVz7ZT866I4cBfqFUgA&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERHp3LIg88tobjwDKMmFmotDO-X2wZG43Ag&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBpeJHVcrb6uGuKXjTmxF1U7AuAaUflf2Rg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiKStyh71H1Djz6_BDeM_QOjkSNW36RFLZg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://india-tours.com/wildlife/images/wildlife/national-parks/silent-valley-national-park-kerala.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuABp4UZpOrzSjV6SDbQfaLUcVZksM3-nrg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDhorkVWHKeT_fETkGJW0YnZOsOGZqO4eHQ&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://www.insideindianjungles.com/wp-content/uploads/2019/07/elephant-2.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Yjj1T7Tp9tEZAgM_5daebdBP0Ec92-22jw&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fvertical%2Fnilgiri-tahr-and-the-eravikulam-national-park-1727445861_fecdaef856e893aa3dc0.webp&w=3840&q=75" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSQwDRmzq391YlBHlU_R_D-x2dGQKDj9sQw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLw9B_sTGt4qL3LVraIvfYytlOg-4z10HLyA&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5X4gZvwnTJgcu80-uTB1QnZDVXY6qNpLkVA&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6C-M0O6R0y2datzIOlS01_bBQytJQq586A&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://www.hindustantimes.com/ht-img/img/2024/10/28/1600x900/Ayyappa-devotees-at-Sabarimala-temple--in-Pathanam_1670871067128_1730094809792.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://www.dailypioneer.com/uploads/2023/story/images/big/sabarimala-continues-to-plead-2023-10-18.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS40p7cGsngEVisvcrb7Qs8Fu8sqGvvoJZSw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://www.sabarimala.com/images/sannidhanam.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6QSsuY5vJGBIZrCPs-mKa43fcN1CjJAf8A&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRPtV5wVqSpj2g8r3ePUdrG2W0sDCDMzvlw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwiCwI1ROSJ3YBSl07T2gyYHxrrDrFGG9OJg&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://files.prokerala.com/news/photos/imgs/1200/covid-takes-a-toll-on-makaravilakku-festival-at-1133681.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-653690,resizemode-75,msid-79526802/news/politics-and-nation/sabarimala-temple-to-receive-more-devotees-now-2000-pilgrims-on-weekdays.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://bsmedia.business-standard.com/_media/bs/img/article/2016-12/26/full/1482748456-5874.jpg?im=FeatureCrop,size=(826,465)" alt="" />
+<img  width={'200px'} height={'200px'} src="https://sc0.blr1.cdn.digitaloceanspaces.com/article/105815-traztwyrky-1542369246.jpg" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -202,38 +242,38 @@ Other</p>
 <IMGG>
 
    <div><h3>
-   Treetop Resort, Silent valley</h3>
+   Oxygen Resorts, Thekkady</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/DZJYe0vNGH4/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5xgSXgJqne2Jqse0q9twqqaUEkcx0cQ0Dw&s" alt="" />
 </div>
-<a href="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/html/site_status_block_page.html">click to view</a>
+<a href="https://www.cluboxygen.net/">click to view</a>
 </div>
 
 
    <div>
-<h3>KTDC Tamarind</h3>
+<h3>Kalpavanam Heritage Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://content.skyscnr.com/available/975139491/975139491_WxH.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/282613902.jpg?k=e5369d1b1feabf2c54dc1f3a43fdb38942703108b5bea15a20794455d6e152d7&o=&hp=1" alt="" />
 </div>
-<a href="https://www.ktdc.com/tamarind-mannarkkad.php#topn">click to view</a>
+<a href="https://www.kalpavanamheritage.in/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Diga Vista Resort</h3>
+   Bamboo creak</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqLdJqb9Odhzxw4QRX8VpyPWjuk7hwEY60g&s" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbQXccq_8HB3OaFLH0Xj5tmjetRwkgp4-qA&s" alt="" />
 </div>
-<a href="https://www.facebook.com/digavistaresort">click to view</a>
+<a href="https://www.makemytrip.com/hotels/bamboo_creak-details-thekkady.html">click to view</a>
 </div>
 
 
-   <div><h3>Voye Homes Pine Encamp </h3>
+   <div><h3>Noah's Nest Tree Houses </h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCX-DgHUq1GkXTt5HRF9iZdWjVr9gUvjZ4kA&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaa1IkabNpl18fPPuVYs1BOH9Kten_F_w-9g&s" alt="" />
 </div>
-<a href="https://voyehomes.com/voye-homes-pineencamp-ju">click to view</a>
+<a href="https://morleysplace.com/">click to view</a>
 </div>
 
 </IMGG>

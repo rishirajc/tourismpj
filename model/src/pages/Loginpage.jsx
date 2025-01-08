@@ -1,69 +1,43 @@
 import React, { useState } from 'react'
+import '../login.css'
+import { Link } from 'react-router-dom'
 import { LOGIN1 } from '../Api'
-import {useDispatch} from "react-redux"
-import {styled} from "styled-components"
-import {Link} from 'react-router-dom'
-const MAIN=styled.div`
-    width: 100%;
-    min-height: 100vh;
-    background-color: #ffffff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-`
-const NAV=styled.div`
-    width: 100%;
-    height: 50px;
-    background: #2986db;
-    font-size: 40px;
-
-`
-const CONT=styled.div`
-    width: 300px;
-    height: 200px;
-    background: #2986db;
-    padding-left: 130px;
-    padding-top: 64px;
-   
-`
+import { useDispatch } from 'react-redux'
 
 const Loginpage = () => {
-  const  dispatch=useDispatch()
+ const dispatch=useDispatch()
+
   const[Email,setemail]=useState('')
   const[Password,setpassword]=useState('')
-    function display(){
-        console.log("first",Email,Password);
-        
-        LOGIN1({Email,Password},dispatch)
+function display(){
+  console.log("first check",Email,Password);
+  
+  LOGIN1({Email,Password},dispatch)
+}
 
-    }
   return (
-    <div>
-
-  <NAV>
-  <marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >WELCOME TO  KERALA TOURISM WEBSITE</marquee>
-  </NAV>
-      
-    <MAIN>
+    
+  
+   
+    <div className='main'>
      
-        <CONT>
 
-     <div>
-     <input type="email" placeholder='email' onChange={(e)=>setemail(e.target.value)}/>
+  
+    <div className='login'>
+    <form >
+  <h1 className='log'>LOG IN</h1>
+  <label className="labe">username</label>
+  <input className="use" type="text" onChange={(e)=>setemail(e.target.value)} />
+  <label className="labe">password</label>
+  <input className="use" type="password" onChange={(e)=>setpassword(e.target.value)}/>
+ <Link to={'/home'}><button className='logbutton' onClick={display}>LOGIN</button></Link> 
+ <Link to={'/sign'}><button className='forgot'>SIGNUP</button></Link> 
+ <Link to={'/forgot'}><h4 className="for">FORGOT PASSWORD?</h4></Link>
 
-
-     </div>
-     <div>
-     <input style={{marginTop:"18px"}} type="password" placeholder='password'  onChange={(e)=>setpassword(e.target.value)} />
-
-
-     </div>
-   <Link to={'/home'}><button style={{marginLeft:"50px",marginTop:"10px"}} onClick={display}>LOGIN</button></Link> 
-       <Link to={'/sign'}><h4>CREATE ACCOUNT</h4></Link> 
-        </CONT>
-      
-    </MAIN>
+ </form>
     </div>
+    </div>
+   
   )
 }
 

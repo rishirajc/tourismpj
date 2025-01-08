@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import mali from '/src/pages/Subdistrict/kasaragod/image/maliq.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,10 +13,11 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
-
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 `
 const FOOT=styled.div`
     width: 100%;
@@ -26,9 +28,8 @@ const FOOT=styled.div`
 const Maliqdinar = () => {
   return (
     <div>
-    <div>
-        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/kasaragod/investment/images/gallery/large/MALIK-DEENAR-JUMAMASJID.jpg" alt="" />
-    </div>
+    <div style={{width:"100%",height:"600px"}}>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/C_4LuIQcVos?si=wc0OH-z6uVaDpkSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>AboutMalik Dinar
     </h1>
     <p>Malik Dinar (Arabic: مالك دينار, romanized: Mālik b. Dīnār, Malayalam: മാലിക് ദീനാര്‍) (died 748 CE)[2] was a Muslim scholar and traveller. He was one of the first known Muslims to have come to India in order to teach Islam in the Indian Subcontinent after the departure of King Cheraman Perumal.[3][4] Even though historians do not agree on the exact place of his death, it is widely accepted that he died at Kasaragod and that his relics were buried at the Malik Dinar Mosque in Thalangara, Kasaragod. Belonging to the generation of the tabi'i, Malik is called a reliable traditionalist in Sunni sources. He was the son of a slave from Kabul who became a disciple of Hasan al-Basri.[2][3] He died just before the epidemic of plague which caused considerable ravages in Basra in 748-49 CE, with various traditions placing his death either at 744-45 or 747-48 CE</p>
@@ -106,7 +107,7 @@ Aravana Muttu or Arabana Muttu
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={mali}   width={"400px"} height={"400px"} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/YPiC5HFg4WeWrHTk9">CLICK TO REVIEW MAP</a>
 
 

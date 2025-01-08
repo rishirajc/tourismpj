@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import ada from '/src/pages/Subdistrict/malappuram/image/adayan.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,11 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -82,7 +85,7 @@ Close to the Adyanpara Falls are a number of interesting tourist spots. The Nila
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={ada} width={"400px"} height={"400px"} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/xkApB5mYBxcXLf4FA">CLICK TO REVIEW MAP</a>
 
 

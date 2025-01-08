@@ -14,9 +14,8 @@ height: 1400px;
 const Malappuram = () => {
   return (
     <div>
-      <div>
-        <img width={"100%"} height={"500px"} src="https://roshanpanjiyara.com/wp-content/uploads/2019/10/Places-to-visit-in-Malappuram.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%"height="600px" src="https://www.youtube.com/embed/fiXAeIV0bWQ?si=IDwZzKwNUlPwgx63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT MALAPPURAM</h1>
       <p>Malappuram (also Malapuram) (Malayalam: [mɐlɐpːurɐm] ⓘ)[8] is a town in Kerala and the headquarters of the Malappuram district in Kerala, India. It is the 4th largest urban agglomeration in Kerala and the 20th largest in India, spread over an area of 158.20 km2 (61.08 sq mi) including the surrounding suburban areas. The first municipality in the district formed in 1970, Malappuram serves as the administrative headquarters of Malappuram district. Divided into 40 electoral wards, the town has a population density of 4,800 per square kilometre (12,000 per square mile). According to the 2011 census, the Malappuram metropolitan area is the fourth largest urban agglomeration in Kerala after Kochi, Calicut, and Thrissur urban areas and the 20th largest in India with a total population of 3 million.[9] It is the fastest growing city in the world with a 44.1% urban growth between 2015 and 2020 as per the survey conducted by Economist Intelligence Unit (EIU) based on the urban area growth during January 2020.[10][11] Malappuram is situated 54 km southeast of Calicut and 90 km northwest of Palakkad.[12] It is the first Indian municipal body to provide free Wi-Fi connectivity to its entire residents.[13][14] Malappuram is also the first Indian municipal body to achieve the International Organization for Standardization certificate.[15] It is also the first complaint-free municipality in the state</p>
     <h3  style={{backgroundColor:"lightgreen"}}>HISTORY</h3>

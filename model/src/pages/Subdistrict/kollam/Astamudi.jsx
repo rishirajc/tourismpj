@@ -37,125 +37,132 @@ const Astamudi = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://s7ap1.scene7.com/is/image/incredibleindia/1-silent-valley-national-park-palakkad-kerala-attr-hero?qlt=82&ts=1726672830992" alt="" />
+        <img width={"100%"} height={"600px"} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Flarge-desktop%2Fashtamudi-lake-1721309614_cf1327e770103985bd48.webp&w=1920&q=75" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Silent Valley National Park</h1>
-    <p>Silent Valley National Park is a national park in Kerala, India. It is located in the Nilgiri hills and has a core area of 89.52 km2 (34.56 sq mi). It is surrounded by a buffer zone of 148 km2 (57 sq mi). This national park has some rare species of flora and fauna. Silent Valley National Park was explored in 1847 by the botanist Robert Wight.[2] It is located in the border of Mannarkkad Taluk of Palakkad district, Nilambur Taluk of Malappuram district, Kerala, and Nilgiris district of Tamil Nadu.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Ashtamudi Lake</h1>
+    <p>Ashtamudi Lake (Ashtamudi Kayal, ml: "അഷ്ടമുടിക്കായൽ" ), in the Kollam District of the Indian state of Kerala is a unique wetland ecosystem and a large palm-shaped (also described as octopus-shaped) water body. It is second only in size to the Vembanad estuary ecosystem of the state. Ashtamudi means 'eight hills or peaks' (Ashta : 'eight'; mudi : 'peaks') in the local Malayalam language. The name is indicative of the lake's topography with its multiple branches. The lake is also called the gateway to the backwaters of Kerala and is well known for its houseboat and backwater resorts.[1][2][3] Ashtamudi Wetland was included in the list of wetlands of international importance, as defined by the Ramsar Convention for the conservation and sustainable utilization of wetlands. [4] Ashtamudi Estuary is the deepest among all the estuaries in Kerala, with a maximum depth of 6.4 meters at the confluence zone.</p>
+  <p>Along both banks of the lake and its backwater canals, coconut groves and palm trees interspersed with towns and villages are seen. Kollam, (formerly Quilon) is an important historic port city located on the right bank of the lake. Boat cruises are operated by the Kollam Boat Club from Kollam to Alappuzha providing transport access to many other towns and villages along this route. Luxury houseboats also operate on the lake. The boat journey is an 8-hour trip, winding through lakes, canals and water bound villages.[citation needed] Chinese fishing nets, called cheena vala in Malayalam, are used by local fisherman and are a common sight along the waterway.[1][5][6]
 
-It is located in the rich biodiversity of Nilgiri Biosphere Reserve. The Karimpuzha Wildlife Sanctuary, New Amarambalam Reserved Forest, Nedumkayam Rainforest in Nilambur Taluk of Malappuram district, Attappadi Reserved Forest in Mannarkkad Taluk of Palakkad district, and Mukurthi National Park of Nilgiris district are located around Silent Valley National Park. Mukurthi peak, the fifth-highest peak in South India, and Anginda peak are also located in its vicinity. The Bhavani River, a tributary of the Kaveri River, and Kunthipuzha River, a tributary of Bharathappuzha river, originate in the vicinity of Silent Valley. The Kadalundi River also originates in Silent Valley National Park.
+The lake and the city of Kollam on its banks and the Neendakara port at the confluence offer a means of transport for the state's trade and commerce in the cashew trading and processing industry as well as the marine products industry.[6]
 
-The national park is one of the last undisturbed tracts of South Western Ghats mountain rain forests and tropical moist evergreen forest in India. Contiguous with the proposed Karimpuzha National Park (225 km2 (87 sq mi)) to the north and Mukurthi National Park (78.46 km2) to the north-east, it is the core of the Nilgiri Biosphere Reserve (1,455.4 km2), and is part of the Nilgiri Sub-Cluster (6,000+ km2), Western Ghats World Heritage Site, recognised by UNESCO in 2007.[3]
+The lake is the source of livelihood of many people living close by. Fishing, coconut husk retting for coir production and inland navigation services are the prominent businesses.
 
-Plans for a hydroelectric project that threatened the park's biodiversity stimulated an environmentalist social movement in the 1970s, known as the Save Silent Valley movement, which resulted in cancelling the project and creating the park in 1980. The visitors' centre for the park is at Sairandhri.
+In 2014, the Clam Governing Council of Ashtamudi lake became the first Marine Stewardship Council certified fishery in India for their sustainable clam fishing.[7]
 
-<h3>History</h3>
+The lake and the life on its shores have inspired many artists and writers. It has been the subject of many poems by the renowned poet Thirunalloor Karunakaran who was born and brought up on its banks.</p>
+ 
+ <h2>Eight arms of Ashtamudi estuary</h2>
+ <p> <h3>Kandachira Kayal</h3>
+Kandachira Kayal serves as the southern arm of Ashtamudi Lake, connecting three panchayats: Panayam, Thrikadavoor, and Mangadu. According to data from the Panayam Village Office, the catchment area of Kandachira Kayal is approximately 20 hectares and 10 ares. The Kayal area extends to Kandachira, Panayam, Kadavoor, Thrikadavoor, Anchalumood, Thevalli, Ashramam, and reaches the southern side of the KSRTC bus stand in Kollam. [8] A significant quantity of municipal waste finds its way into the lake through the canal that traverses the southern and eastern regions of Kollam Town.
 
-Map of Nilgiris Biosphere Reserve, showing Silent Valley National Park in relation to multiple contiguous protected areas
-The first Western investigation of the watersheds of the Silent Valley area was in 1857 by the botanist Robert Wight.[2] The British named the area Silent Valley because of a perceived absence of noisy cicadas. Another story attributes the name to the anglicisation of Sairandhri. A third story refers to the presence of many lion-tailed macaques Macaca silenus.[4] In 1914, the forest of the Silent Valley area was declared a reserve forest. Between 1927 and 1976, portions of the Silent Valley forest area were subjected to forestry operations. In 1928, the location on the Kunthipuzha River at Sairandhri was identified as an ideal site for electricity generation, and in 1958 a study and survey of the area was conducted and a hydroelectric project of 120 MV costing Rs. 17 crore was proposed by the Kerala State Electricity Board.[5]
+Uliyakovil Kadavu, IInd Milestone, Kavanadu Kadavu, Mangadu Kadavu, Mangadu, Mangadu North, West of Kandachira Church, Kandachira, Road Kadavu Kandachira, Kaippana Kayalvaram, Vettuvila, Muttathumoola Kadavu, Kottilukada, Kuthirakkada, Venkekkara, KadavoorMurunthal, chirayil
 
-<h3>Environmental concerns</h3>
-Main article: Save Silent Valley
+<h3>Kureepuzha Kayal</h3>
+Kureepuzha Kayal of Ashtamudi Estuary is often likened to the "Loch Lomond" of Kerala due to its resemblance to Loch Lomond in Britain. It is the busiest kayal in the Ashtamudi estuarine system as it is part of the National Waterway and serves as the only route to Kollam town from Neendakara. The Kollam Corporation waste dumping yard is situated on the left bank of Kureepuzha Kayal (Mammoottilkadavu).
 
-<h3>Lion-tailed macaque</h3>
-Silent Valley is home to the largest population of lion-tailed macaques, an endangered species of primate. Public concern over threats to their habitat led to the establishment of Silent Valley National Park.
+Kottayathukadavu, Kochukottayathukadavu, Pandonni Kadavu, Kadavoor West , Mukkadayil, Thonippurakkal, Chamavila, Panamukkam, Thevadanathu Kayalvaram, Kureepuzha, Mamoottilkadavu Kureepuzha, Pathinettampadi Kadavu, Ayiravalli Temple, Aravila Kadavu, Malayante Kayalvaram, AiKadavu, Mundante Kadavu, Kuppana Erakkukadavu, Poovanthazham Temple, Chandakadavu, Vanvila, Oalikara, Thekkechirayil, Kanjaveli, Pochayil Kayalvaram, Challikkuzhi Kayalvaram, Gosthalakavu Kayalvaram, Kollante Kayalvaram, Panavila, Mukkekadavu, Pallikkadavu, Prakkulam, Sambranikodi, Neendakara, Sakthikulangara, Kallumpurathukadavu, Kaikkara Kadavu, Kallayyathu Kadavu, Kinattummoottil Kadavu, Mukkad Kadavu, Mukkad Pallikadavu, Kaniyan Kadavu, Aravila, Kavanad, Mamoottilkadavu North, Mamoottilkadavu, Kureepuzha, Kollam, Erattakadavu, Manalilkadavu, Kollam, Kaithavaram, Thoppilkadavu, Njanakshethram
 
-In 1973 the valley became the focus of "Save Silent Valley", India's fiercest environmental movement of the decade, when the Kerala State Electricity Board decided to implement the Silent Valley Hydro-Electric Project (SVHEP) centered on a dam across the Kunthipuzha River. The resulting reservoir would flood 8.3 km2 of virgin rainforest and threaten the lion-tailed macaque. In 1976 the Kerala State Electricity Board announced plans to begin dam construction and the issue was brought to public attention. Romulus Whitaker, founder of the Madras Snake Park and the Madras Crocodile Bank, was probably the first person to draw public attention to the small and remote area.[6]
+<h3>Thevally Kayal</h3>
+Kollam KSRTC Bus stand, Kollam Boatjetty, Kollam Asramam Link Road, Kollam Yathri Nivas / Tamirind, Advenger Park, Asramam West, Asramam North, Uliyajkovil, Uliyajkovil Thuruth, Thevally Fort, Thevally , Olayilkadavu, Postmortom Kadavu
 
-On 7 September 1985 the Silent Valley National Park was formally inaugurated and a memorial at Sairandhri to Indira Gandhi was unveiled by Rajiv Gandhi, her son and the next prime minister. On 1 September 1986 Silent Valley National Park was designated as the core area of the Nilgiri Biosphere Reserve. Since then, a long-term conservation effort has been undertaken to preserve the Silent Valley ecosystem.[5]
+<h3>Kadapuzha Kayal (Kallada)</h3>
+Kalladaparapu, Muttom, Thenguvila, Shingarapalli, Edachal, Pattakadavu, Manchadikadavu, Areekadavu, Mannukadavu, Arinalloor kadavu, Erunilakayal, Arinalloor pallikadavu, Cheri kadavu, KoyivilaPallikadavu, Koyivila Jetti, Kodikadavu, Mamottilkadavu, Kalladaparampu
 
-In 2001 a new hydro project was proposed and the "Man vs. Monkey debate" was revived. The proposed site of the dam (64.5 m high and 275 m long) is just 3.5 km downstream of the old dam site at Sairandhiri, 500 m outside the National Park boundary.[7] The Kerala Minister for Electricity called The Pathrakkadavu dam (PHEP) an "eco-friendly alternative" to the old Silent Valley project. The claim was that the submergence area of the PHEP would be a negligible .041 km2 compared to 8.30 km2 submergence of the 1970s (SVHEP).[8] From January to May 2003, a rapid Environmental Impact Assessment (EIA) was carried out. On 15 November, Minister for Forest Binoy Viswam said that the proposed buffer zone for Silent Valley would be declared soon.[9]
+<h3>Kanjirottu Kayal</h3>
+Vellimon, Padappakara, Kanjaveettil Kayalvaram, Vadhyarukadavu, Pookvarical, Thottarodimunambhu, Kattilpoika, Kuthiramunambhu, Kanjirottukadavu, Manchadimoola, Kaithakodi, Vellimon Kadavu
 
-On 21 February 2007 ex-Chief Minister A. K. Antony told reporters after a cabinet meeting that "when the Silent Valley proposal was dropped, the centre had promised to give clearance to the Pooyamkutty project. This promise, however, had not been honoured. The Kerala government has not taken any decision on reviving the Silent Valley Hydel Project".[10]
+<h3>Kumbalathu Kayal</h3>
+Muttum Kadavu, Kadathukadavu, Valathil Mannukadavu, Kumbalam, Valiya Kumbalam, Padinjareathazhaveettil Kayalvaram, Oonambalam, Oonambalam West, Peringera Valavu, Kuzhikara, Nellimukkam
 
-On 18 April 2007, Kerala Chief Minister V S Achuthanandan and his cabinet approved the Pathrakkadavu Hydro-electric project and sent it to the Union Government for environmental approval.[11][12]
+<h3>Perumon Kayal</h3>
+Ashtamudi Kadavu, Thottathil Kayalvaram, Sanga Kadavu, Kannadimukku, Veerabadra Temple East, Karinjapalli, Chekkalayil Puthuvel, Mangalathu East, Koolpadam, Ottaffice Kayalvaram, Mundakkal Pallikadavu, Mundakal, Perumon, Perumon Devi Temple, Vadakkepura Kadavu, Koothala puthuval, Mulluvila Kadavu, Vellimon Kadavu, Nadeelaveettil puthuval, Kodiyil Kayalvaram, Chamakkadu, Road Kadavu, Chamakadavu, Thottumugamkadavu, Karuli Kadavu, Mampuzha Kadavu, Kuzhiyam, Pulikuzhi, Edakkara, Edakkara , Njaravila, Manchadimula Kadavu, Kaithakodi, Vellimon Resort Palace, Elavakuzhi, Karapoika Kadavu, Road Kadavu, Perumon Kadavu, Perumon Lake, Chemmakkadu Palli Kadavu
+
+<h3>Thekkumbhagum Kayal</h3>
+Pamba, Nadutheri, Dalavapuram, Pulimoottil kadav,Thekkumbhagam, Pallikadavu,Thekkumbhagam, Pallapil, Maalil kadavu,Prakkulam, Prakkulam Jetty, Manalil kadavu, Malayarikkal, Malayarikkal kadavu, Ashtamudi, AshtamudiVeerabadraTemple, Mootharea Kayalvaram, Paumba bridge East, Pauba Jetty, Chavudi kayalvaram, Tholukadavu, Malibhagam, Thundivila kadavu, Njaramoodu, Ammavankodi, Koppanveettil Puthuval, Thekkum bhagam, Thuduvila kadavu , Panakottil shertraputhuval, Kandalathuputhuval, Ponnayathuputhuval, Guhanadhapuram, Kacheri Kadavu, Kadanmoola, Panamottilkadavu, Azhakathukadavu, Kulangaraveli, Valathil, Nadakavupalliputhuval, Munnapathu kadavu, Munnapathu North, Puttuvila, Pavamba west, Mukundapuram, Melampallikadavu, Pallikadavu, Karattil kadavu, Pannamoottil kadavu, Puthanthura, Delavapuram Old Bridge, Marryland panchayathukadavu, Neelaswaram Kadavu, Neendakara, Vadakumbhagam</p>
+ 
+ <p><h3>History</h3>
+A recent study on the late Quaternary evolution of the Ashtamudi-Sasthamkotta lake systems revealed that during the early Holocene period, Ashtamudi Lake had 12 creeks (Dhwadesamudi). Sasthamkotta Lake, Kerala's largest natural freshwater lake, which is now listed as a Ramsar site, was believed to have been part of Ashtamudi Lake approximately 10,000 years ago but became disconnected around 7,000 years ago. Currently, Sasthamkotta Lake has eight creeks (Ashtamudi). Two other creeks of the lake were disconnected during a similar process in the early Holocene period, namely Chittumala Lake and Cherupola Lake. During the disconnection period, the creek that later formed Sasthamcotta Lake had the upper estuary salinity of the then Ashtamudi Lake. It is estimated that it took at least 1,000 years for the disconnected water body to completely lose its salinity.[9]
+
+Quilon or Kollam and inevitably Ashtamudi lake's importance is claimed to be dated to the days of the Romans and the Phoenicians. Ibn Batuta, during his 24-year sojourn in the 14th century, is reported to have mentioned about the Quilon port as one of the five ports for Chinese trade. Links with Persia (9th century), Chinese mandarin in 1275 AD, Portuguese in 1502 AD, and the Dutch followed British in 1795 AD are recorded history. Velu Thampi is credited with organizing the rebellion against the British from this place.[10] During the colonial era, the Dutch Naval Commander General D’ Lanoy is believed to have ordered the reclamation of part of Ashtamudi marshes on the southern flanks, particularly in Dalawapuram, for the plantation of coconut and other fruit trees. Subsequently, in the nineteenth century, the British expanded the expanse of Quilon by establishing an army garrison and extending markets in the area. Railway links were established with Thirunelveli in 1904 and with Trivandrum in 1918, as documented by Menon (1964). Furthermore, the establishment of roads and a railway link between Kollam and Ernakulam via Munroe Island in 1958 eventually led to the fragmentation of the Ashtamudi estuary into two parts, particularly isolating the Karali marshes.</p>
+ <p> <h3>Access</h3>
+ Considering Kollam as the entry city to the lake, access to the lake are to the Thiruvananthapuram International Airport, 71 km (44 mi) away and by road to almost all important centres in Kerala and the rest of the country. National Highway 47 (NH 47) passes through the lake periphery not only from Quilon but also to other locations on its bank from Thiruvananthapuram to the northern towns of Kerala. Southern Railways network of lines connects Quilon with all important centres in the rest of the country. Ferry services operate daily to Alleppey and boats operate to all villages located in the canals of the backwater system. The boat jetty is located at about 2 km (1.2 mi) away from the railway station.[6] Famous Paravur estuary and backwaters are just 21 kilometer away from Ashtamudi. National waterway 3 (Kollam - Kottappuram) starts from the south of Ashtamudi lake over a distance of 168 km. Among the seven terminals positioned along this waterway, Ashtamudi and Kollam are situated along the estuary. Regular boat services to Muthiraparamb, Guhanandapuram, Ayiramthengu, Munroe Island, and Alappuzha are available from the Kollam jetty.</p>
+ <p><h2>Topography</h2>
+
+Kallada River
+Main article: Kallada River
+Kallada River is a major river discharging into the Ashtamudi Lake. The Kallada river, which originates near Ponmudi from the Kulathupuzha hills Western Ghats is formed by the confluence of three rivers, viz., Kulathupuzha, Chenthurnipuzha, and Kalthuruthipuzha, and after traversing a distance of about 121 km (75 mi) through virgin forests finally debouches into the Ashtamudi wetland at Peringalam (Koivilai) located to the west of Munroe Island. The Kallada River has a length of 121 km and a catchment area of 1,699 sq. km. The annual run-off is estimated at 2,140.8 million meter3. The river's tributaries originate independently in the highlands at an altitude of 1,200 meters and converge at about 300 meters to form the Kallada River. The river reaches the coast at an altitude of 0-10 meters before emptying into Ashtamudi Lake. From the east, the estuary comprises eight arms: Thevally, Kureepuzha, Kandachira, Thekkumbhagam, Peruman, Kanjirottu, Kallada, and Kumbaluthu, giving it the name "Ashtamudi" which means "eight-coned." The estuary also encompasses four major islands: Munroturuttu, Thekkumbhagam, Trikkaruva, and Trikakkadavur. With a maximum depth of 21 ft (6.4 m) at the confluence, it is Kerala's deepest estuary.[11][12] Ashtamudi Estuary exhibits a shallow characteristic, with an average depth of 1.8 meters and a maximum depth of 9 meters. The central area of the estuary typically ranges in depth from 1 to 2 meters, featuring a deep, funnel-shaped depression along its eastern margins.
+
+Ashtamudi Lake receives water from numerous minor streams draining from the south and east. It is connected to Paravur Kayal (Kollam Thodu) in the south and to Kayamkulam Kayal (Chavara - Panmana Thodu) in the north via canals. Other streams like manichithodu drains into the lake. The presence of several islands (known as thruths) indicates a high rate of siltation in the estuary.</p>
+<p><h3>Neendakara</h3>
+The mouth of the Ashtamudi Estuary has been developed into Neendakara Harbour, which serves over 3,000 marine fishing boats and trawlers. The harbour features breakwaters extending 610 meters seaward and 380 meters leeward, creating a sheltered basin and a navigable approach for the vessels.
+
+Littoral drift, which involves the movement of sediments in near-shore zones by waves and currents, significantly influences the shaping and orientation of coastal landforms and the overall evolution of the coast. The Neendakara inlet serves as a confluence zone between the sea and the estuary. The tidal amplitude at this location reaches a maximum of 1.12 meters, with an average of 0.5 meters according to tide-forecast.com.
+
+In natural conditions, high drift rates are likely to lead to the formation of shoals and bars at the mouth of the estuary, which may be periodically cut open by high-velocity river flows. With the reduction in inflows from the Kallada River, the mouth of the estuary requires periodic dredging to maintain sufficient depth for port operations.
+<h3>
+Islands in the lake</h3>
 
 
+An uninhabited island in Munroe Island cluster, situated at Lake Ashtamudi
+Munroe Island (Munroethuruth) is a cluster of eight tiny islands in Ashtamudi Lake.
 
-<h3>Buffer zone</h3>
-Territorial forests located around the national park have been subject to a working-plan to accomplish revenue oriented objectives such as extraction of bamboo and reed which affect the long-term conservation of the park.[citation needed] In addition, illegal activities such as ganja (Cannabis sativa) cultivation has caused habitat degradation.[13]
+Thekkumbhagom island, situated on the bank of the Ashtamudi Lake, provides the feel of rustic life of a village.[tone][citation needed] The significance of this village is because the first epic poetry in the Malayalam language, Ramachandravilasam, was composed by the poet Azhakath Padmanabha Kurup in this village. An ancient 1000-year-old temple and a 200-year-old church are located here.[</p>
+<p><h3>Geology</h3>
+Quaternary and Tertiary sediments and sedimentary rocks are the formations in the lake basin and environs. The Quaternary sediments are of marine and fluvial alluvium of recent age. Tertiary sediments comprise laterite, sandstones and clays of Warkalai formation.[3]
 
-On 21 November 2009, Union Minister of Forest and Environment Jairam Ramesh and Kerala Forest Minister Binoy Viswam declared, while inaugurating the silver jubilee celebration of Silent Valley National Park in Palakkad, that the buffer zone of the Park would be made an integral part of it in order to ensure better protection of the area.[14]
+The tertiary Warkalli Formation and Quilon Formation are prominently exposed around the Ashtamudi Estuary. The Warkalli Formation consists of sandstone and clay with lignite intercalations, which overlay fossiliferous limestone and calcareous clay of the Quilon Formation. The latter formation is extensively exploited, contributing significantly to the region's mineral output. Kollam District is responsible for producing 36% of the state's crude clay and 43.5% of its processed clay, which collectively account for 9.08% of India's total China Clay production. The coastal side of the basin exposes the Guruvayur Formation from the quaternary period, characterized by a sand-silt-clay admixture of marine origin.
 
-On 6 June 2007 the Kerala cabinet approved the buffer zone proposal. The new 147.22 km2 zone will include 80.75 km2 taken from Attapady Forest Range, 27.09 km2 from Mannarkkad Forest Range and 39.38 km2 from Kalikavu Forest Range and consolidated to form a new range, Bhavani Forest Range, of 94 km2 and 54 km2 would be brought under the existing Silent Valley Range of the National Park. The Cabinet also sanctioned 35 staff to protect the area and two new forest stations in Bhavani range at Anavai and Thudukki. Forest Minister Benoy Viswom said "the zone would have reserve forest status and tribals in the area would not be affected. The decision reaffirmed the commitment of the LDF Government to protection of environment. The zone is a necessity, not just of the State but also of the nation."[15]
+<h3>Hydrology</h3>
 
-The proposal was then sent to Kerala Minister for Electricity, A. K. Balan, who has voiced the need for setting up the Pathrakadavu hydroelectric project in the proposed southwest buffer zone of the National Park, the Thenkara Range of the Mannarkkad Forest Division. As of 9 May 2007 Balan has not given his opinion on the buffer zone proposal.[16]
+Astamudi Lake Near Veerabhadra Swami Temple
+Ashtamudi Estuary remains an open system year-round, characterized by the absence of sandbar formations regardless of the season. Consequently, tidal action persists strongly throughout the year, extending even to the interior parts of the estuary. There is a net tidal exchange of 4968 m3. The average annual runoff from the river system into the estuary is reported to be 76 km3 of freshwater.[12] The basin drainage area is 1,700 km2 (660 mi2) and with an average annual rainfall of 2400 mm (94 in) it discharges 3.375 km3 (2,740,000 ac·ft) of flow annually. It acts as a flood storage lake thus protecting the thickly populated city of Quilon (Kollam) and the coastal land. The Thenmala Dam built across the Kallada river is 85.3 m high by 35 m long (280 ft by 115 ft) with a reservoir area of 23 km2 (8.9 mi2) with a storage volume of 0.505 km3 (409,000 ac·ft). Though it provides irrigation to 61630 ha for paddy and upland crops, it has aggravated the salinity ingress into the wetland and the river due to reduced outflows during summer months.[3] 88% of the inflow contributed by Kallada and 12% through rainfall. During peak monsoon, the inundation of the Ashtamudi Estuary reaches 5,700 hectares, with a maximum length of 10.6 km and a width of 8 km. This seasonal transition is a significant aspect of the wetland's ecological character, particularly influencing its ecological productivity. [13]
 
-In August 2006, the new Minister for Forests, Benoy Viswam, approved a proposal from the Conservator of Forests for a 148 km2 buffer zone around the core area of the park. The proposal says: "It is felt absolutely essential that an effective buffer of forests should be immediately formed around the national park in order to save the world famous Silent Valley National Park from all potential dangers. This can only be achieved by bringing the management of Silent Valley National Park as well as the proposed buffer zone under one management umbrella to insulate the park from all possible dangers." The proposed buffer zone will have 94 km2 in Attappady Reserve Forest east of the Kunthipuzha and 54 km2 taken from the Mannarkaad range and Nilambur south division west of the river.
+Ashtamudi is a brackish system, so the salinity values are high. It ranges between 13-33.5 ppt. The creek areas are normally remain fresh during the monsoon and post monsoon.
 
-In January 2006, the former Kerala Minister for Forest and Environment, A. Sujanapal, said the Government would consider the demand for a 600 km2 buffer zone for Silent Valley National Park made by Bharathapuzha Protection Committee, Malampuzha Protection Committee, One Earth One Life and Jana Jagratha. A buffer zone proposal was made in the 1986 park management plan but not implemented.[17]
+The commissioning of the Kallada Dam has resulted in a significant reduction in freshwater inflow into the estuary. This, coupled with decreasing rainfall and rising sea levels, has led to a increase in salinity levels. However, the decline in water quality within the estuary has been notable due to the continuous discharge of untreated waste from various sources, including Kollam City, tourist resorts, industrial units, slaughterhouses, and houseboats.
 
-In 1979, M.S. Swaminathan, then Secretary to the Department of Agriculture, visited the Silent Valley area and suggested that 389.52 km2 including the Silent Valley (89.52 km2), New Amarambalam (80 km2), Attappadi (120 km2) in Kerala and Kunda in Coimbatore (100 km2) reserve forests, should be developed into a National Rainforest Biosphere Reserve.[18]
+<h3>Climate</h3>
+The estuary and its drainage basin are situated in a warm, humid tropical climate. The average annual rainfall amounts to 2251.57 mm, primarily received in two distinct spells of the south-west and north-east monsoons. Rainfall during the south-west monsoon constitutes the predominant component, contributing 48% of the total rainfall. Temperature typically ranges between 22-33°C. Evaporation rates peak during January (207 mm) and reach a minimum in July (89 mm). Relative humidity varies from 63% in January to 87% in June-July. Wind speeds range from 1.3 to 2.1 km/hour, with higher speeds observed during March-June and lower speeds during September-December.
 
-On 27 October 2020 draft notification was made by Govt. of India for the area around the National park declaring it as eco sensitive zone.[19]
+<h3>Flora</h3>
+Ashtamudi Estuary has mangroves Avicennia officinalis, Brugiera gymnorrhiza and Sonneratia caseolaris as also 43 species of marshy and mangrove associates including two endangered species Syzygium travancoricum (endangered species according to the Red Data Book of Indian Plants) and Calamus rotang in the Terrestrial system.[2] These species offer excellent scope for development of marine bioreserve to promote eco-tourism in the estuarine of the lake.[12] IUCN lists the two endangered species in IUCN 2008. The total number of Syzygium travancoricum is reported to be very small, not more than 200. The major threats to the endangered species are reportedly draining of the wet lands and conversion into paddy fields.[14] A total of 52 species of phytoplankton have been documented in the estuary, representing 35 families and 10 classes.</p>
+<p><h3>Wildlife</h3>
+The lake supports 57 species of avifauna, of which 6 are migratory and 51 resident species.[2] It is also reported that about 40 species of wetland-dependent birds are recorded in the lake, out of which 45% are long-distance migrants. Terns, plovers, cormorants, and herons are most abundant birds in the lake.[3] A study report has identified 45 insect species, including 26 species of butterfly, 5 odonates, 9 hymenopteras, and 2 orthopterans, 1 hemipteran and 2 coleopterans. About 29 zooplankton species have also been identified.[3] The water body is the habitat for phytoplankton from the genera Amphora, Borosigma, Cyclotella, Cymbella, Gyrozigma, Meloziva, Navicula and Nitzschi.[3] More than 20,000 waterfowl visit Ashtamudi Lake annually. Additionally, the lake serves as a nursery ground for commercially important shrimp species that are harvested off the Kollam coast.[19] The zooplankton fauna in Ashtamudi Lake primarily comprises Copepoda, fish larvae, Oligochaeta, fish eggs, Ostracoda, Polychaeta, Coelenterata, and Rotifer.
 
-<h3>Geography</h3>
+<h3>Fishes</h3>
+The composition of the fish fauna in Ashtamudi Lake comprises a total of 87 species under 64 genera, belonging to 38 families within 14 orders. Among the recorded species, 8 are classified as highly commercial, 45 as commercial, 27 as minor commercial, and 7 have no fisheries interest.[20]
 
-Hanging Bridge across the Kuntipuzha River – Silent Valley National Park (SVNP)
+The taxonomic distribution of fish species in Ashtamudi Lake reveals the following order composition:
 
-Silent Valley National Park
-Topography 1:250,000., 1959'.
-Silent Valley is rectangular, twelve kilometres from north to south and seven from east to west. Located between 11°03' to 11°13' N (latitude) and 76°21' to 76°35' E (longitude) it is separated from the eastern and northern high altitude plateaus of the (Nilgiris Mountains) by high continuous ridges including Sispara Peak (2,206 m) at the north end of the park. The park gradually slopes southward down to the Palakkad plains and to the west it is bounded by irregular ridges. The altitude varies from 658 m to 2328 m at Anginda Peak, but most of the park lies within the altitude range of 880 m to 1200 m. Soils are blackish and slightly acidic in evergreen forests where there is good accumulation of organic matter. The underlying rock in the area is granite with schists and gneiss, which give rise to the loamy laterite soils on slopes.[20]
+Perciformes: 46 species
+Clupeiformes: 12 species
+Mugiliformes: 6 species
+Cypriniformes: 4 species
+Siluriformes: 4 species
+Pleuronectiformes: 3 species
+Tetraodontiformes: 3 species
+Beloniformes: 3 species
+Scorpaeniformes: 1 species
+Elopiformes: 1 species
+Atheriniformes: 1 species
+Cyprinidontiformes: 1 species
+Gonorynchiformes: 1 species
+Anguilliformes: 1 species
+In terms of percentage distribution, Perciformes is the most dominant order, constituting 52.87% of the total fish species, followed by Clupeiformes (13.79%), Mugiliformes (6.89%), Cypriniformes and Siluriformes (4.59% each), Pleuronectiformes, Beloniformes, and Tetradontiformes (3.45% each), and the remaining orders each constituting 1.15% of the total fish species.
 
-<h4>Rivers</h4>
-The Kunthipuzha River drains the entire 15 km length of the park from north to south into the Bharathapuzha River. Kunthipuzha River divides the park into a narrow eastern sector of width 2 kilometers and a wide western sector of 5 kilometers. The river is characterized by its crystal clear water and perennial nature. The main tributaries of the river, Kunthancholapuzha, Karingathodu, Madrimaranthodu, Valiaparathodu and Kummaathanthodu originate on the upper slopes of the eastern side of the valley. The river is uniformly shallow, with no flood plains or meanders. Its bed falls from 1,861 m to 900 m over a distance of 12 km, the last 8 km being particularly level with a fall of only 60 m. Kunthipuzha is one of the less torrential rivers of the Western Ghats, with a pesticide-free catchment area.[21]
+World Wildlife Fund (WWF) reports[citation needed]
 
-<h4>Climate</h4>
+97 species of fish (42 are typically marine, 3 estuarine, 9 estuarine-riverine, 15 marine-estuarine) and unique copepod species. It is also a congenial habitat for all species of penaeid and palaemonid Prawns, edible crabs, paphia malabarica (short neck Clams) and a variety of fish. A comparative shell morphology study of short-neck clam Paphia malabarica, the main clam fishery resources in the Ashtamudi Lake re-assigned to the genus Marcia recens (Venus Clams) and this study found it was wrongly identified as short-neck clam in previous studies.[21] Clams found in the estuary are exported.[2] The estuary is the source of livelihood for thousands of fishermen and is stated to be the second biggest fish-landing centre after the Vembanad estuary.[</p>
 
-Silent Valley from JPL Map server.
-Silent Valley gets copious amounts of rainfall during the monsoons, but the actual amount varies within the region due to the varied topography. In general, rainfall is higher at higher altitudes and decreases from the west to the east due to the rain shadow effect. Eighty per cent of the rainfall occurs during the south-west monsoon between June and September. The park also receives a significant amount of rainfall during the north-east monsoon between October and November.[22]
-
-The park being completely enclosed within a ring of hills, has its own micro-climate and probably receives some convectional rainfall, in addition to rain from the two monsoons. In the remaining months, condensation on vegetation of mist shrouding the valley is estimated to yield 15 per cent of the total water generated in the rainforest.[23]
-
-In 2006, the Walakkad area of the park received the highest ever annual rainfall of 9,569.6 mm. In 2000, the figure was 7,788 mm; in 2001, 8,351.9 mm; in 2004, 8465.3 mm; and in 2005, 9,347.8 mm. The annual rainfall received in the valley (at Sairandhri?) was 7,788.8 mm in 2000; 8,361.9 mm in 2001. In 2002, 4,262.5 mm; in 2003, 3,499.65 mm; in 2004, 6,521.27 mm, in 2005, 6,919.38 mm; in 2006, 6,845.05 mm; in 2007, 6,009.35 mm; and in 2008 it was 4386.5 mm. The figure till October 2009 was 5,477.4 mm. Average annual rainfall in the park between 2000 and 2008 was thus 6,066 mm.[14]
-
-The mean annual temperature is 20.2 °C. The hottest months are April and May when the mean temperature is 23 °C and the coolest months are January and February when the mean temperature is 18 °C. Because of the high rainfall, the relative humidity is consistently high (above 95%) between June and December.[21]
-
-<h3>Indigenous people</h3>
-There is no record of the valley ever having been settled, but the Mudugar and Irula tribal people are indigenous to the area and do live in the adjacent valley of Attappady Reserved Forest.[24][25] Also, the Kurumbar people live in the highest range outside the park bordering on the Nilgiris.[26]
-
-Many of the Mudugar, Irula and Kurumbar now work as day labourers and porters. 16 out of 21 tribal colonies in the Attappady range cultivate marijuana. Many Mudugar are in abject poverty and easily recruited by the so-called ganja mafia. In 2006, it was planned to employ 50 additional men from the 21 tribal settlements as forest guards.[13]
-
-<h3>Flora and fauna</h3>
-The valley areas of the park are in a Tropical and subtropical moist broadleaf forests Ecoregion. Hilly areas above 1,000 m are in the South Western Ghats montane rain forests region. Above 1,500 m, the evergreen forests begin to give way to stunted forests, called sholas, interspersed with open grassland, both of which are of interest to ecologists as the rich biodiversity here has never been disturbed by human settlements. Several threatened species are endemic here. New plant and animal species are often discovered here.[21]
-
-<h3>Fauna</h3>
-<h4>Birds</h4>
-
-A Nilgiri wood-pigeon
-Birdlife International lists 16 bird species in Silent Valley as threatened or restricted:- Nilgiri wood-pigeon, Malabar parakeet, Malabar grey hornbill, white-bellied treepie, grey-headed bulbul, broad-tailed grassbird, rufous babbler, Wynaad laughingthrush, Nilgiri laughing thrush, Nilgiri blue robin, black-and-rufous flycatcher, Nilgiri flycatcher, white-bellied blue-flycatcher, crimson-backed sunbird and Nilgiri pipit.[27]
-
-Rare bird species found here include the Ceylon frogmouth and great Indian hornbill. The 2006 winter bird survey discovered the long-legged buzzard, a new species of raptor at Sispara, the park's highest peak. The survey found 10 endangered species recorded in the IUCN Red List including the red winged crested cuckoo, Malabar pied hornbill and pale harrier. The area is home to 15 endemic species including the black-and-orange flycatcher. It recorded 138 species of birds including 17 species that were newly observed in the Silent Valley area. The most abundant bird was the Square-tailed bulbul.[28]
-
-<h4>Mammals</h4>
-
-Nilgiri langur
-There are at least 34 species of mammals at Silent Valley including the threatened lion-tailed macaque, Nilgiri langur, Malabar giant squirrel, Nilgiri tahr, Peshwa's bat (Myotis peshwa) and hairy-winged bat. There are nine species of bats, rats and mice.[29]
-
-Distribution and demography of all diurnal primates were studied in Silent Valley National Park and adjacent areas for a period of three years from 1993 to 1996. Fourteen troops of lion-tailed macaque, eighty-five troops of Nilgiri langur, fifteen troops of bonnet macaque and seven troops of Hanuman langur were observed. Of these, the Nilgiri langur was randomly distributed, whereas the lion-tailed macaque troops were confined to the southern sector of the Park. Bonnet macaques and Hanuman langurs were occasional visitors. The Silent Valley forest remains one of the most undisturbed viable habitats left for the endemic and endangered primates lion-tailed macaque and Nilgiri langur.[30]
-
-Tiger, leopard, leopard cat, jungle cat, common palm civet, small Indian civet, brown palm civet, ruddy mongoose, stripe-necked mongoose, dhole, clawless otter, sloth bear, small Travancore flying squirrel, Indian pangolin (scaly anteater), porcupine, wild boar, sambar, spotted deer, barking deer, mouse deer, elephant and gaur also live here.[citation needed]
-
-<h4>Insects</h4>
-
-Vestalis submontana, endemic to Western Ghats
-There are at least 730 identified species of insects in the park. The maximum number of species belong to the orders Lepidoptera and Coleoptera. Many unclassified species have been collected and there is a need for further studies.[31]
-
-33 species of crickets and grasshoppers have been recorded of which one was new. 41 species of true bugs (eight new) have been recorded. 128 species of beetles including 10 new species have been recorded.[32]
-
-Over 128 species of butterflies and 400 species of moths live here. A 1993 study found butterflies belonging to 9 families. The families Nymphalidae and Papilionidae contained the maximum number of species. 13 species were endemic to South India, including 5 species having protected status.[33] Seven species of butterflies were observed migrating in a mixed swarm of thousands of butterflies towards the Silent Valley National Park. In one instance an observer noted several birds attempting to catch these butterflies.[34]
-
-A survey jointly conducted by Indian Dragonfly Society and the Forest and Wildlife Department in September 2018 in the buffer zone of the Silent Valley National Park found 82 species of odonata. The species found include Indosticta deccanensis, Burmagomphus laidlawi, Microgomphus souteri, Onychogomphus nilgiriensis, Euphaea dispar, Idionyx travancorensis, Megalogomphus hannyngtoni and Lestes dorothea.[35]
-
-Other</p>
-
-<h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
+ 
+ <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    91 Kms from Coimbatore International Airport (Tamil Nadu)</p> </div>
+    Trivandrum International Airport, about 70 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    69 Kms from Palakkad Railway Staion</p> </div>
+    Kollam Junction Railway Station, about 2 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    60 Km from Palakkad via Mannarkkad to Mukkali (Base camp).</p> </div>
+    Kollam KSRTC Bus station.</p> </div>
    </div>
 
 
@@ -167,20 +174,21 @@ Other</p>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
-<img  width={'200px'} height={'200px'} src="https://lh5.googleusercontent.com/proxy/stT9zUalrGPf_Vtc5SMp3OBapBBaPB_hhRJeBefWYCXCtGjrdbLaK653Y_YaEyTIKpk-Di39paHWbtKt35_84pZ9" alt="" />
-<img  width={'200px'} height={'200px'} src="https://pratapj.com/pxshv1/wp-content/uploads/silentvalley-.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://i0.wp.com/mahabahu.com/wp-content/uploads/2024/01/Silent-Valley-NP-entrance-1024x576.jpg?resize=1024%2C576&ssl=1" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yR4a-Zz5hC1oRf9fVz7ZT866I4cBfqFUgA&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERHp3LIg88tobjwDKMmFmotDO-X2wZG43Ag&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBpeJHVcrb6uGuKXjTmxF1U7AuAaUflf2Rg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiKStyh71H1Djz6_BDeM_QOjkSNW36RFLZg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://india-tours.com/wildlife/images/wildlife/national-parks/silent-valley-national-park-kerala.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuABp4UZpOrzSjV6SDbQfaLUcVZksM3-nrg&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDhorkVWHKeT_fETkGJW0YnZOsOGZqO4eHQ&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://www.insideindianjungles.com/wp-content/uploads/2019/07/elephant-2.jpg" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Yjj1T7Tp9tEZAgM_5daebdBP0Ec92-22jw&s" alt="" />
-<img  width={'200px'} height={'200px'} src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fvertical%2Fnilgiri-tahr-and-the-eravikulam-national-park-1727445861_fecdaef856e893aa3dc0.webp&w=3840&q=75" alt="" />
-<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSQwDRmzq391YlBHlU_R_D-x2dGQKDj9sQw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ashtamudi_Kerala.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdsAZXZYuonBxPzeT2s6heQH8IbngrxAyeA&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ashtamudi-lake.jpg/250px-Ashtamudi-lake.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/The-Great%20-Ashtamudi-Lake%20%E2%80%93Truly-a%20-Landscape-Beauty%20-in-Kerala.jpg.webp?VersionId=gehtUcxS1sYQWqyjR5uxvX36Zh5dNlFM&itok=oyougsme" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2C-lP8oYmQQzpSJ5JoHTLkA3fktvvA6DEBQ&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/Things-Travellers%20-Should-Know%20-About-the-Scenic%20-Backwaters-in%20-Ashtamudi-Kollam.jpg.webp?VersionId=DhxKSLVOPQOZHF7KFerZI.HPFWtL539a&itok=oJwFMdcg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://travelsntourism.com/wp-content/uploads/2016/06/word-image-179.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrZF96dE47t1C_cJJV-jJmiYJ_h7SwLk91Q&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQH95W9qXqtqjSDjjAV6Z8vfCn68-GWfkwVg&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvfLBxzQd54H6555MJ6uXSoVHEXfd9txKaw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://i.ytimg.com/vi/_di4b0fSUtA/hqdefault.jpg" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlX3CauyHvJFEqzGHd0vF36hLiQqn2Q97yVw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZBl_dfqSw7zRUMC2kYy4OMK0jzVu_P_qcw&s" alt="" />
+<img  width={'200px'} height={'200px'} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUIpzjwt2fOK8xmM5FkgP4P55z9oy-LdjoA&s" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -201,38 +209,38 @@ Other</p>
 <IMGG>
 
    <div><h3>
-   Treetop Resort, Silent valley</h3>
+   The Leela Ashtamudi Hotel</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/DZJYe0vNGH4/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/65/12/73/the-raviz-ashtamudi.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/html/site_status_block_page.html">click to view</a>
+<a href="https://www.theleela.com/the-leela-ashtamudi-a-raviz-hotel">click to view</a>
 </div>
 
 
    <div>
-<h3>KTDC Tamarind</h3>
+<h3>HOTEL ALLSEASON</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://content.skyscnr.com/available/975139491/975139491_WxH.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTc4iJDew6PwIS710BcyFqG42oZJDBGtnL-Q&s" alt="" />
 </div>
-<a href="https://www.ktdc.com/tamarind-mannarkkad.php#topn">click to view</a>
+<a href="https://hotelallseason.com/">click to view</a>
 </div>
 
 
    <div><h3>
   
-   Diga Vista Resort</h3>
+   Munroe Island Lake Resort</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqLdJqb9Odhzxw4QRX8VpyPWjuk7hwEY60g&s" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUywJCZQ9fpOsdJH1FClS4mE8pYZB8AnpHnw&s" alt="" />
 </div>
-<a href="https://www.facebook.com/digavistaresort">click to view</a>
+<a href="https://www.munroeislandlakeresort.in/">click to view</a>
 </div>
 
 
-   <div><h3>Voye Homes Pine Encamp </h3>
+   <div><h3>Regant Lake Palace Cottages </h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCX-DgHUq1GkXTt5HRF9iZdWjVr9gUvjZ4kA&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x5Zm2bLdWeqHvsolc9TBR5s_wW-yUiGDmA&s" alt="" />
 </div>
-<a href="https://voyehomes.com/voye-homes-pineencamp-ju">click to view</a>
+<a href="https://www.makemytrip.com/hotels/regant_lake_palace_hotel-details-karunagappally.html">click to view</a>
 </div>
 
 </IMGG>

@@ -37,55 +37,141 @@ const Athiraplly = () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
+        <img width={"100%"} height={"600px"} src="https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2021/01/29150135/Athirappilly-Falls.jpg" alt="" />
     </div>
-    <h1 style={{backgroundColor:"lightgreen"}}>About Mangalam Dam</h1>
-    <p>Mangalam Dam is a dam built across the river Cherukunnapuzha (a tributary of Mangalam River) in Palakkad district of Kerala, India. The dam has a capacity of 25,340,000 cubic feet (718,000 m3).[1] A canal system for irrigation purposes was completed and opened in 1966, in the Alathur taluk of Palakkad district.
+    <h1 style={{backgroundColor:"lightgreen"}}>About Athirappilly Falls</h1>
+    <p>Athirapilly Falls is situated in the border of Kuttampuzha Panchayat in Aluva Taluk, of Ernakulam District and Athirapilly Panchayat in Chalakudy Taluk of Thrissur District in Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges. It is the largest waterfall in Kerala, which stands tall at 81.5 feet. Just a short drive from Athirapilly is the Vazhachal Falls, which is close to dense green forests that are home to many endangered and endemic species of flora and fauna.
 
-</p>
-<h3>Geography</h3>
-<p>Most of the inhabitants of the local area come from Perumbavoor Kottayam or Chalakkudy. There are rubber, pepper, coffee, and tapioca plantations in the area.
+The roads from main road to athirapally water falls are very natural fresh air atmosphere. Specially Morning and late evening There is another waterfall on the way from Athirapilly to Vazhachal Falls, in close proximity to the road, which is locally called "Charpa Falls". Athiramppally Falls is the largest waterfall in Kerala and is nicknamed "The Niagara of South India".[1]
 
-Mangalam Dam is 16 kilometres (9.9 mi) away from Vadakkencherry. Karimkayam, Earth Dam, Odenthode, Kunjiarpathy, Kavilupara, Vattapara, Neethipuram, Ponkandam, Kadappara, Uppumanne, Olipara, Balaswaram-V.R.T and Choorupara are also in the area.
+Controversy about a state-proposed hydroelectric dam on the Chalakudy River above the waterfalls began in the 1990s and continued through 2017.</p>
+  
+  <p>There are times in life when you stand before a natural miracle and feel humbled by its magnificence, grandeur and sheer beauty. Witnessing the mighty Athirappilly waterfalls is one such experience you shouldn’t miss out on. 
 
-A big landslide occurred in Kavilupara near to Odenthode during floods in 2007. There is a thick forest in the area of Karimkayam, Odenthode, Kadappara.
+The largest waterfall in Kerala, the Athirappilly Falls is also widely renowned as the "Niagara of India”. The sight of water crashing down from an incredible height of 80 feet is enough to leave you spellbound. 
 
-</p>
-<p>Mangalam Dam, nestled in the picturesque Palakkad district, is a hidden gem that offers a serene retreat amidst the natural splendor of Kerala. Constructed across the Cherukunnapuzha River, a tributary of the Mangalam River, the dam holds a substantial water capacity of 25.34 million cubic feet. It is surrounded by lush forest land, which makes it a haven for nature lovers and wildlife enthusiasts.
+Located at the entrance to the Sholayar forest ranges, Athirappilly is at a distance of 63km from Thrissur district and is a treat to any nature lover. Set amidst lush green forest cover, even the trek to the waterfalls is a feast to the senses. A perennial picnic spot, the surrounding areas are ideal for walks and to spend quality time with loved ones. 
 
-The reservoir area of Mangalam Dam is a popular spot, drawing visitors with its breathtaking views of the Western Ghats and the dense canopy that envelopes the region. This rich forest is home to a diverse range of flora and fauna, providing a perfect backdrop for a peaceful escape from the hustle and bustle of everyday life. The sight of towering trees, vibrant with life, is indeed a spectacle that enchants all who visit.
+The Vazhachal Waterfalls which is located at a distance of less than 5km from Athirappilly is yet another hotspot for all visitors. Not only is Vazhachal a sight to behold but it is also home to exotic flora and fauna that has people hastening to the area throughout the year. A bird watcher’s paradise, it is common to get sightings of rare birds like four different endangered species of the Hornbill among others. This is said to be the only place in the western ghats where they thrive. Though this is a place filled with endangered and endemic fauna and flora as well, it is the avian species found here that is the highlight of the destination. It is therefore a much sought after destination for ornithologists. 
 
-One of the highlights of a trip to Mangalam Dam is the opportunity to take a boat ride across the tranquil waters of the reservoir. As you glide along, the beauty of the surrounding landscape unfolds, offering glimpses of rare floral species and the vibrant wildlife that inhabits the area. The calm waters and the serene environment make it an ideal spot for relaxation and contemplation.
+Unlike the Athirappilly Falls which is vertical, at the Vazhachal Falls water rushes along a bed of rocks. While the sight is inviting, it is important to exercise caution as these alluring rocks are extremely slippery, and the waters, tricky. 
 
-In addition to the natural beauty, the area around Mangalam Dam is dotted with spice plantations, which add to the charm of the region. A visit to these plantations offers a unique insight into the agricultural practices of the region and the rich aroma of spices that Kerala is famous for.
+The grandeur of both the waterfalls is best enjoyed in the Monsoon season when the water flow is at its highest but the most magical time to visit them is during winter when the soothing weather and the light mist that wraps itself around these waterfalls lend it a mystical appearance. It is also the time when the chances of wildlife and avian sightings are at their highest and the flora at its most vibrant. 
 
-Whether you are a nature enthusiast, a wildlife lover, or simply someone looking for a peaceful getaway, Mangalam Dam in Palakkad offers an unforgettable experience. The combination of its scenic beauty, tranquil atmosphere, and the rich biodiversity of the surrounding forest makes it a must-visit destination in Kerala.</p>
-    
-    <p>Mangalam Project comprises a dam across Cherukunnam river, a tributary of Mangalam river which joins the ‘Gayathri’ river and then the Bharathapuzha River, with a net work of canal system to irrigate 3440 ha. of land in Alathur taluk of Palakkad district. The project was taken up for execution in 1953 and was commissioned in 1957. The dam and reservoir are located 13 km, North East of Vadakkenchery town; which lies close to National Highway 47. The dam is at latitude 100 31’ and longitude 760 32’. The dam is situated 50 km away from Palakkad and Thrissur towns. 
+The waterfalls and their surrounding areas are equally ideal and alluring for those who prefer to unwind, saunter around and surrender to the sheer beauty of Nature as well as those who seek adventurous and challenging treks.
 
-6 Spillway shutters are provided for the dam. The main canal starts from 0/000 km. at the dam from left side. This main canal is designed for a discharge of 4.53 m3/Sec. The canal biforcates as left bank canal system and rightbank  canal system  at chainage 0/200km.The RB canals crosses river by means of an aqueduct. Main canal sluice is located in massonary dam at an off-take level of + 64.00. From off-take to 0/200 km., the canal runs parallel to the parent river. 
+The trip to Athirappilly and Vazhachal waterfalls is an experience in itself. To feel the low rumble of the massive waterfalls from a distance grow bigger, louder and more intense as one draws closer, the enchanting sight of a torrent of water tumbling over massive rocks and a cliff, the cool misty water spray that fills the air, every bit of the experience etches in one’s heart memories that are sure to last a lifetime. 
 
-The Mangalam project brought new land lands to cultivation and is supplying water for the second crop and supplementing the rainfall.Water through the dam is distributed for irrigation through the RBC and LBC canals in the ayacut areas 3440 Hectors of 6 panchayaths viz,  1) Vadakkenchery 2) Vandazhy  3) Kizhakkenchery 4) Kannambra 5) Pudukkode 6) Kavassery. The monetary benefit derived from the yield of paddy and other crops in these areas, every year, is a multy million figure.
+Close your eyes. Tune into this exquisite orchestra and surrender to the miracles of nature.</p>  <p> <h3>River</h3>
 
-Mangalam Dam is also used for cultivating variety of fishes under the department of fisheries. As per fisheries department revenue from sale of fishes comes to about 11 to 12 lakhs per year.</p>
+View of Athirappilly Falls from below
+The 145 kilometres (90 mi) long Chalakudy River, originates in the Anaimalai mountains of the Western Ghats[2] and flows through the Vazhachal Forest toward the Arabian Sea. The river starts off smooth but becomes more turbulent as it nears Athirapilly. At Athirappilly Falls, the water surges around big rocks and cascades down in three separate plumes. Below the falls, the river remains turbulent for about 1 kilometre (0.62 mi) until it reaches Kannamkuzhi, from where it calms and flows smoothly until reaching the dam at Thumpoormuzhi.[citation needed]
 
-<p>Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam is a must-visit region on your trip to Palakkad
-For a discerning traveller and nature buff, Palakkad has many spectacular destinations on offer. However, there are some locales that stand out from all the rest. Nature seems to be much more green and beautiful in these spots. One such destination is the Mangalam Dam. Here is where you can unwind yourself, letting loose all your worries and stresses. Located in a blissful setting that offers picturesque views of the Western Ghats, Mangalam Dam and its reservoir area is a must-visit region on your trip to Palakkad. 
+ <h3>Wildlife</h3>
+Forest wildlife in the area includes the Indian elephant, Bengal tiger, Indian leopard, gaur, sambar, and lion-tailed macaque. The unique 180 metres (590 ft) elevation riparian forest in the Athirappilly-Vazhachal area is the only location where all four South Indian species of hornbills — the great hornbill (the state bird of Kerala), Malabar pied hornbill, Malabar grey hornbill, and the Indian grey hornbill are found living together.
 
-Built across the Cherukunnapuzha River, which is a tributary of the Mangalam River, the Mangalam Dam has a total capacity of 25.34 million cubic feet of water. The forest land that surrounds the reservoir area is a popular tourist hotspot and attracts visitors from far and wide. The dense canopy is indeed a sight to behold. Beneath the sky-kissing canopy is a thriving wildlife that is home to various species of animals and birds. The region is also blessed with rare floral species that add to the enchantment. You can take a boat ride across the reservoir and enjoy these once-in-a-lifetime views comfortably. There are also many spice plantations around this area that you can pay a visit to.</p>
+Plantations in the area contain teak, bamboo, and eucalyptus. Environmentalists claim that Athirappilly is a one-of-its-kind riparian ecosystem in Kerala. V.S. Vijayan, Chairman of the Kerala State Biodiversity Board and former Director of the Salim Ali Centre for Ornithology and Natural History (SACON), Coimbatore, has been quoted in Down to Earth magazine as affirming that the Vazhachal forest division is the second most biodiverse area in the State. The International Bird Association has declared it an ‘Important Bird Area' and the Asian Nature Conservation Foundation has recommended that the area should be declared a sanctuary or a national park, he points out. The Wildlife Trust of India says it represents one of India's best elephant conservation efforts. "Any disruption to this fragile ecosystem will spell disaster," says Vijayan.[3] The river provides a habitat for 85 species of freshwater fishes. Among these, 35 are endemic species.[citation needed]
 
+ <h3>Tourism</h3>
 
+View from the nearest allowed point
+
+During rainy season
+
+View of Athirappilly waterfalls from below
+
+The lushy green forests of Western Ghats surrounding the Athirapally Waterfalls after the monsoon rains.
+The railway station nearest to Athirappilly Falls, 30 kilometres (19 mi) to the west, is Chalakkudy Railway Station, and the nearest airport is Cochin International Airport, about 55 kilometres (34 mi) southwest of the waterfall and 58 kilometres (36 mi) south of city of Thrissur.[4] Athirappilly is easily reachable from Chalakkudy by taxi or by bus from the Chalakkudy bus terminal. Athirappilly is situated on a state highway connecting Tamil Nadu and Kerala, in a thick forest and so night travel is not permitted. The checkpoints at either end close by 6:30 pm IST prior to which all vehicles have to exit through either checkpoint.
+
+The journey from Chalakkudy to the Athirappilly Falls passes through a landscape of winding roads, small villages and lush green trees. Visitors can reach the top of the waterfall via a paved path that leads through thick bamboo clusters. From Angamaly, the route is in the midst of an Oil Palm Reserve at Ezhattumugham tourism village. A steep narrow path or a wide staired path can be taken to the bottom of the falls. The falls attract visitors from across India, especially during the monsoon months (June–September). About 7 million tourists visit the falls and the Vazhachal picnic spot each year.[5]
+
+ <h3>Jungle safari</h3>
+Daily jungle safari trips are organized by Thrissur District Tourism Promotion Council with Athirappilly Destination Management Council from Chalakudy to Malakkappara.
+
+ <h3>Movies</h3>
+Athirappilly falls has been used as a location for several Malayalam films as well as in other regional language films in India
+
+The fall is featured in old Malayalam movie Ponnapuram Kotta (1973), specially the song "Valliyoor Kaavile", starring Prem Nasir, Vijayasree.
+Scenes from the Malayalam movie Vanadevatha (1976) starring Prem Nazir, Madhushala
+Scenes from the Malayalam movie Anuragi (1988) starring Mohanlal, Urvashi
+A major portion of the 1986 Tamil movie Punnagai Mannan was shot near the falls, the falls itself playing a role in it. It made the falls so popular in Tamil Nadu that it got the nickname "Punnagai Mannan Falls".
+The song "Koyaliya Gati Hai Payaliya Chhankati Hai" from the film "Jungle Love" in 1990
+The falls were featured in Mani Ratnam's film Dil Se starring Shahrukh Khan, Manisha Koirala, and Preity Zinta, and featuring the song "Jiya Jale/Nenjinile".
+The falls are also famous as a site location for "Narumugaye Narumugaye", a song from the Tamil film Iruvar, acted by Mohanlal and actress Aishwarya Rai.
+This waterfall is also a major location for songs like "Behne De" and most scenes in the Hindi film Raavan and Tamil film Raavanan.
+The song "Adada Mazhaida" from Paiyaa featuring Karthi and Tamannaah was shot in this location.
+The song from Kannathil Muthamittal of the same name was shot here.
+The song "Kurukku Siruthavale" from Mudhalvan starring Arjun Sarja and Manisha Koirala, and "Chalo Chalain Mitwa" from its 2001 remake Nayak, starring Anil Kapoor and Rani Mukerji
+The song "Sunta Hai Tera Khuda" from Pukar, starring Anil Kapoor
+The song "Achi lagti ho" from Kuch Naa Kaho
+The song "Kudamullakkadavil" from the Malayalam film Vellithira starring Prithviraj Sukumaran, Navya Nair
+Climax scenes from Lajja starring "Ajay Devgn" and "Manisha Koirala"
+Sirf Tum, starring Sanjay Kapoor and Sushmita Sen
+A song in Tamil movie Samurai starring Vikram
+Songs from Saaya (2003), starring John Abraham
+A scene from Madras Cafe starring John Abraham
+The song from Tamil movie Maanasthan starring R. Sarathkumar and Sakshi Shivanand
+Scenes from Anandabhadram starring Manoj K Jayan and Prithviraj Sukumaran
+Song from 4 the People starring Bharath and Gopika
+A scene from the Hindi movie Mela
+The opening scene of the Tamil movie Kandukondain Kandukondain
+A few scenes in the Hindi movie Agyaat
+A scene from the Tamil movie Villu
+Few scenes from the Malayalam movie Manjeeradhwani (1998) starring Vineeth and Sakshi Sivanand
+The song "Bambara Kannu" from Tamil movie Madhurey
+A scene from the Tamil movie Vettaikaaran
+The song "Rosappoo Chinna Rosappoo" from Suryavamsam
+"Arjuna Arjuna", a song featuring R. Sarathkumar and Namitha in the movie Aei
+"Evo Evevo", a song from telugu film Lovely
+The song "Baarish" and climax scenes from Yaariyan (2014)
+The song "Oru Kannil vegam" from Samar (2013)
+The song "Oh Kamini" and a scene from Rang Rasiya; Randeep Hooda and Rashaana Shah
+The Telugu movie Brindavanam (2010)
+The song "Egire Mabbullona" from Happy (2006), Telugu and Malayalam
+The song "Ayyo Ayyo Dhanayya" from Ready (2008)
+Scenes from the Tamil movie Alex Pandian
+The song "Aaayi re aayi re khushi" from Khushi (2003, Hindi), starring Kareena Kapoor
+The title song of the Hindi movie Chura Liyaa Hai Tumne
+The song "Sha La La" from the movie Ghilli (2004) starring Trisha and Vijay
+The song "Vaana Chinukulu" from the Telugu movie Seethamma Vakitlo Sirimalle Chettu
+The English movie Before the Rains (2007)
+The English movie Pirate's Blood (2008)
+The song "Thuppakki Penne" from the movie Peranmai (2009) starring Jayam Ravi and Sai Dhanshika
+Climax scene from Malayalam movie Three Kings (2011) starring Jayasurya, Indrajith Sukumaran, and Kunchacko Boban
+Scenes from the Malayalam movie Cousins
+Scenes and a song from Baahubali, India's biggest motion picture, a 2015 Tamil/Telugu bilingual movie
+The Tamil movie Puli (2015)
+"Rock On Bro", a song from Janatha Garage (2016, Telugu)
+A song "Unnavitta Yaarum Yenakilla" from the film Seemaraja starring Sivakarthikeyan and Samantha Ruth Prabhu
+A scene from Malayalam movie Odiyan (2018) starring Mohanlal
+A song from Telugu movie Husharu (2018) starring Tejus Kancherla and Priya Vadlamani
+Climax scene from Malayalam movie Pathinettam Padi (2019) starring Mammootty, Prithviraj Sukumaran and Arya
+"He's So Cute", a song from Sarileru Neekevvaru (2020, Telugu) starring Mahesh Babu, Rashmika Mandanna
+A scene from Telugu movie Sye Raa Narasimha Reddy starring Chiranjeevi
+Scenes from the Telugu movie Pushpa: The Rise
+Climax scene from the Tamil movie Kaathuvaakula Rendu Kaadhal (2022) starring Vijay Sethupathi, Nayanthara and Samantha Ruth Prabhu
+Climax scene from the Tamil movie Jailer (film) (2023) starring Rajinikanth and Vasanth Ravi
+Opening scene from Malayalam movie Bramayugam (2024) starring Mammootty, Arjun Ashokan and Siddharth Bharathan.
+Scenes from the Malayalam movie ARM (2024) starring Tovino Thomas, Krithi Shetty and Surabhi Lakshmi.
+Featured in movie uglies (2024) which was a netflix release.
+ <h3>Hydroelectric project</h3>
+See also: Athirappilly § Hydroelectric project
+In 1994, the Kerala State Electricity Board (KSEB) proposed a 163-megawatt Athirappilly Hydro Electric Project. It was to include a dam 23 metres (75 ft) high and 311 metres (1,020 ft) wide on the Chalakudy River in the Vazhachal Forest Division about 5 kilometres (3 mi) upstream of Athirappilly Falls and 400 metres (1,312 ft) upstream of Vazhachal Rapids (Vazhachal Falls).[6] However, environmental groups and people's collectives opposed the project on grounds that it would damage the environment, infringe on human rights, and threaten tourism.[7] Though it was not their main concern, critics also noted that if the entire course of the river were diverted to make electricity, the Athirappilly-Vazhachal waterfalls could dry up. To avoid damaging the falls, the KSEB proposed adjusting the water releases to maintain the falls.[8] The debate continued in 2007. Environmentalists also expressed concern over whether the proposed hydroelectric project at Athirappilly waterfalls would lead to displacement and eventual extinction of the primitive tribal group, 'Kadars,' in the area.[9]
+
+In 2005, the Kerala Ministry of Environment and Forests approved the project on the basis of a report by Water and Power Consultancy Services (India) Ltd. (WAPCOS), an environmental impact assessment (EIA) agency. In 2006, the Kerala High Court quashed the clearance and ordered another public hearing.[10][11] The debate continued for the following years.
+
+On 29 January 2011, the chairman of the Western Ghats Ecology Expert Panel (WGEEP) Madhav Gadgil opined that the Environment Impact Assessment (EIA) of the Athirappilly hydel power project was not properly carried out and 70% of it is bogus. The panel, appointed by the Union Ministry of Environment and Forests, was asked to look into and give recommendations on various projects in the Western Ghats such as the hydroelectric projects in Gundiya in Karnataka and Athirappilly in Kerala and the overall development projects in Ratnagiri and Sindhudurg districts of Maharashtra. Gadgil said that the proposed Athirappilly hydro-electric project cannot be approved until the Forest Rights Act is implemented in its true spirit for the Kadar tribal community of the area and also no comprehensive study had been carried out so far on the natural riparian forest vegetation along the Western Ghats.[12][13][14] On 14 June 2011, Union Minister for Environment and Forests Jairam Ramesh said his ministry would not approve the Athirappilly hydroelectric project.[15] The minister also stated, “When states are denied such projects on larger and long-term environmental considerations, they are entitled to some sort of green bonus."[16] The first part of the WGEEP report was submitted to the Ministry on 31 August. The Western Ghats Ecology Expert Panel (WGEEP), on 6 September 2011 recommended to the Union Ministry of Environment and Forests against granting permission to carry out any construction activities at the sensitive Athirappilly-Vazhachal region. The panel, which submitted its report to Union Environment Minister Jayanti Natarajan in the capital, named Athirappilly as one of the 18 eco-sensitive localities (ESL) in the state.[17] But K. Radhakrishnan, a former member (generation), of KSEB, has opined that this panel report was highly biased with vested interests and the project was eco-friendly doing minimum damage to the environment and forests because KSEB itself has its own vested interests if the Dam Project takes life.[18][19][20] While there are reports from renowned experts from the Kerala State Biodiversity Board that the power project would adversely affect the ecology of the area and the estimated power output would be dependable upon the rainfall and dry summer seasons, which is undependable in its own way. M. Sivasankar, a KSEB chairman and MD states the need of more environment-friendly power projects with lower operating costs and higher output like supercritical boiler plants.</p>
 
 
 
 <h2 style={{backgroundColor:"lightgreen"}}>HOW TO REACH:</h2>
    <div style={{width:"100%",height:'300px',display:'flex',alignItems:"center",justifyContent:"space-around",flexWrap:"wrap"}}>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Air </h3>
-    Cochin International Airport, about 100 km | Coimbatore International Airport (Tamil Nadu), about 115 km | Calicut International Airport, about 150 km</p> </div>
+    Cochin International Airport, about 41.2 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p><h3>By Train </h3>
-    Ottappalam Railway station, about 50 km.</p> </div>
+    Chalakudy Railway Station, about 32.3 km away</p> </div>
     <div style={{width:"380px",height:"250px",backgroundColor:"lightgreen",paddingLeft:"26px"}}> <p> <h3>By Road</h3>
-    Vadakkencherry, about 21 km</p> </div>
+    Chalakudy KSRTC Bus Stand, about 31 km away | Chalakudy Private Bus Stand, about 31 km away</p> </div>
    </div>
 
 
@@ -98,20 +184,21 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
 
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifZn9UxSomD-JiMPRND7gsiMMw8SemzvLQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://upload.wikimedia.org/wikipedia/commons/6/61/Mangalamdam1.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVzDvXwLhb0cBG-WwQme_6imhl2utRw76Nw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOh6xC-O_EMG2GPe5UlG8G8wMTjEFsKPoZQ&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWTC4TcM_4eS4beMstNxm5ZSfbu29wRZHyg&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://content3.jdmagicbox.com/comp/palakkad/n4/9999px491.x491.170315162023.k1n4/catalogue/mangalam-dam-across-cherukunnapuzha-river-palakkad-hx9cvem.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fmangalam-dam-palakkad-1714049294_83c43a811395cfd5d85c.webp&w=3840&q=75" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-Wy0ZvBhEj3wINNsowtolU6DGzPib77Jzw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/rxLRM46DzrQ/maxresdefault.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjGj1OMl2d9tnCbLO1XxozT3OdS_tLWqhOA&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://media-cdn.tripadvisor.com/media/photo-s/0e/10/a1/26/view-point.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://www.shutterstock.com/image-photo/sky-earth-water-mangalam-dam-260nw-2543152163.jpg" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3OtNlRs_pP2P8Qzc_CLesgqYZ5sGF_hahw&s" alt="" />
-<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCuwaKXt0pl51IXSBLQdqG3MtVxk28Ru_BQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4b/a2/1c/athirapally-falls-in.jpg?w=1200&h=-1&s=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/52/b3/8e/caption.jpg?w=300&h=300&s=1" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wx-D-ANtxzjVxsREYmFwBqMZHBj5hIkJvw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMcI36z0RM9XTkI2fICDfrccK6dbP1Fs2mQ&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://media1.thrillophilia.com/filestore/311n7zuuyoiiiphafm4sm23kkcvb_1550744668_1200px-Athirapally_Water_falls.jpg.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://englisharchives.mathrubhumi.com/image/contentid/policy:1.7197335:1645016321/image.jpg?$p=0f6e831&f=4x3&w=1080&q=0.8" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/EcawSaPMFVY/maxresdefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuu3YoiMpeaFzSkI7qIyrTkGkRWXc-kE8tqA&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://www.traveltravailsandheck.com/wp-content/uploads/2022/09/IMG_2840-Edit-scaled.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://photographylife.com/cdn-cgi/imagedelivery/GrQZt6ZFhE4jsKqjDEtqRA/photographylife.com/2015/06/AJT_8848-Edit.jpg/w=2048,h=923" alt="" />
+<img width={'200px'} height={'200px'}   src="https://i.ytimg.com/vi/mAmMX3YB2cI/sddefault.jpg" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_73LboGD0iEpkcZ-9bPJbRbKtleZx372Gw&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvDFWtUFXKFmTNxMLDmiFbUP6pCMjDwzTig&s" alt="" />
+<img width={'200px'} height={'200px'}   src="https://ik.imagekit.io/yfnz71p9w/wp-content/uploads/2022/04/athirappilly-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg" alt="" />
+
 </IMGBOX>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -132,20 +219,20 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 <IMGG>
 
    <div><h3>
-   Misty Valley Hill Resorts</h3>
+   Rainforest</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://i.ytimg.com/vi/cAY_2hJz4Uc/maxresdefault.jpg" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdv_XOd-2aug_8RJyqtKzdM9bGQ-cKdLTDww&s" alt="" />
 </div>
-<a href="https://digitalcarddy.com/Misty-Valley-Hill-Resorts">click to view</a>
+<a href="https://www.rainforest.in/">click to view</a>
 </div>
 
 
    <div>
-<h3>Hill View Homestay</h3>
+<h3>Bethania Resorts Athirappilly</h3>
 <div>
-<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://lh5.googleusercontent.com/p/AF1QipPUK5qzcW6YwwWqkTb1h6xZyIFnNSsvuaPdfpoD=w252-h168-k-no" alt="" />
+<img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYthSb6eJ8Cm5EcfUtDjeSaU5l7EwJdTj3HA&s" alt="" />
 </div>
-<a href="https://hillviewstay.com/">click to view</a>
+<a href="http://www.bethaniaresorts.com/">click to view</a>
 </div>
 
 
@@ -159,11 +246,11 @@ Built across the Cherukunnapuzha River, which is a tributary of the Mangalam Riv
 </div>
 
 
-   <div><h3>Udaya Resort</h3>
+   <div><h3>Athirappilly Green Sights Resort</h3>
 <div>
-    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcYBGjUsEBZf6ryTkqf37ZKU-aoY9Pl00Kw&s" alt="" />
+    <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://content.jdmagicbox.com/comp/athirapally/x5/9999px487.x487.230129084207.d8x5/catalogue/athirappilly-green-sights-resort-athirapally-tb12jkbrj1.jpg" alt="" />
 </div>
-<a href="https://www.udayaresort.com/">click to view</a>
+<a href="https://www.makemytrip.com/hotels/athirappilly_green_sights-details-chalakudy.html">click to view</a>
 </div>
 
 </IMGG>

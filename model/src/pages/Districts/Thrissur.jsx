@@ -15,9 +15,8 @@ const IMG=styled.div`
 const Thrissur = () => {
   return (
     <div>
-      <div>
-        <img width={"100%"} height={"600px"} src="https://i.ytimg.com/vi/CH3qVmT3ELU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChf5gdpu-kB8Mfk8WuCwFwyWGARg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px"src="https://www.youtube.com/embed/sOAwF6EMoDc?si=E-WTWevy5xRvlGIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT THRISSUR</h1>
       <p>Thrissur (Malayalam: [t̪riʃ(ː)uːr] ⓘ), formerly Trichur, also known by its historical name Thrissivaperur, is a city and the headquarters of the Thrissur district in Kerala, India. It is the third largest urban agglomeration in Kerala after Kochi and Kozhikode, and the 21st largest in India.[6][7] The city is built around a 65-acre (26 ha) hillock called Thekkinkadu Maidanam which seats the Vadakkunnathan temple. It is located 304 kilometres (189 mi) north-west of the state's capital city, Thiruvananthapuram. Thrissur was once the capital of the Kingdom of Cochin, and was a point of contact for the Assyrians, Greeks, Persians, Arabs, Romans, Portuguese, Dutch and English.
 
@@ -98,7 +97,7 @@ The Southern Railway zone of the Indian Railways operates the main rail transpor
 
    <h1  style={{backgroundColor:"lightgreen"}}>MAJOR ATTRACTIONS</h1>
    <IMG>
-   <Link to={'/vadakkum'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwo9_EPcsFA65GXbV5wbG1Heew7pxM4D6n8A&s" alt="" /></Link> 
+   <Link to={'/vadakkum'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://www.trawell.in/admin/images/upload/153110127Vadakumnathan_Temple_Main.jpg" alt="" /></Link> 
    <Link to={'/shakthan'}> <img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/YgHW3G-eleE/maxresdefault.jpg" alt="" /></Link>
    <Link to={'/guruvayoor'}><img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}}  src="https://i.ytimg.com/vi/p26f75fu-NM/maxresdefault.jpg" alt="" /></Link> 
    <Link to={'/pallyathira'}> <img height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://ik.imagekit.io/yfnz71p9w/wp-content/uploads/2022/04/athirappilly-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg" alt="" /></Link>

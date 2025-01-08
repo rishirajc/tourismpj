@@ -1,20 +1,23 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import mal from '/src/pages/Subdistrict/palakkad/image/mpuza.png'
 
 const IMGBOX=styled.div`
 width: 100%;
 height: 600px;
 display: flex;
-align-items: center;
+align-items: center;  
 justify-content: space-around;
 flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -126,7 +129,7 @@ Malampuzha is the second-largest dam and reservoir in Kerala. Situated in the id
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={mal}   width={"400px"} height={"400px"} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 

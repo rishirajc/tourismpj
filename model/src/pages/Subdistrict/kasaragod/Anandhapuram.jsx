@@ -2,11 +2,15 @@ import React from 'react'
 import styled from 'styled-components'
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
+import ana from '/src/pages/Subdistrict/kasaragod/image/anandha.png'
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const IMGBOX=styled.div`
@@ -26,9 +30,8 @@ const FOOT=styled.div`
 `
 const Anandhapuram = () => {
   return (
-    <div>
-    <img width={"100%"} height={'600px'} src="https://www.templepurohit.com/wp-content/uploads/2015/10/anandhapuram.jpg" alt="" />
-<div>
+    <div style={{width:"100%",height:"600px"}} >
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/0fXiGMlzgXw?si=fxFgyYGLVu9x9CG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div>
 
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>About Ananthapura Lake Temple</h1>
@@ -87,7 +90,7 @@ The temple is open to all regardless of religion or caste. The nearest major rai
 
 <div>
 <div>
-<IMG>IMAGE</IMG>
+<IMG><img src={ana}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/TPW2pxtQAyt4Lytn8">CLICK TO REVIEW MAP</a>
 </div>
 

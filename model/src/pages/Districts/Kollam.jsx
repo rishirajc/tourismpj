@@ -16,9 +16,8 @@ const Kollam = () => {
   return (
     <div>
 
-      <div>
-        <img width={"100%"} height={"600px"} src="https://s3.india.com/wp-content/uploads/2024/11/When-Is-The-Perfect-Time-To-Visit-Kollam-Kerala_-Find-Out.jpg##image/jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}>
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/s9sA4Y6pf7E?si=gH-RyzpvdaoITDk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT KOLLAM</h1>
       <p>Kollam (Malayalam: [kolːɐm] ⓘ; also known by its former name Quilon[a]), is an ancient seaport and the fourth largest city in the Indian state of Kerala. Located on the southern tip of the Malabar Coast of the Arabian Sea, the city is on the banks of Ashtamudi Lake and is 71 kilometers (44 mi) northwest of the Thiruvananthapuram.[7] Kollam is one of India's oldest continuously inhabited cities,[8][9] with evidence of habitation stretching back to the megalithic; the city has also been a maritime entrepôt millennia, the earliest attestation of which dates back to the Phoenicians and Romans.[10] It is the southern gateway to the Backwaters of Kerala,[11] and is known for its cashew processing, coir manufacturing, and tourism industries.[12][13]
 
@@ -107,7 +106,7 @@ Kollam is one of many seafood export hubs in India with numerous companies invol
 
  <h1  style={{backgroundColor:"lightgreen"}}>MAJOR ATTRACTIONS</h1>
 <IMG>
-<Link to={'/parajadayu'}><img  height={"450px"} width={"400px"}style={{marginTop:"40px"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafrfspErdTrdONVKC4-ywn0ATBl0-n41yiA&s" alt="" /></Link> 
+<Link to={'/parajadayu'}><img  height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jatayu_Earth_Centre.jpg/1280px-Jatayu_Earth_Centre.jpg" alt="" /></Link> 
    <Link to={'/beachkollam'}><img  height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/FuJcyRVxVt0/sddefault.jpg" alt="" /></Link> 
    <Link to={'/astamudii'}><img  height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://www.alightindia.com/cdn/uploads/postimages/ORIGINAL/Astamudi%20Lake%20Kerala--2d5abe.jpg" alt="" /></Link> 
    <Link to={'/fortst'}><img  height={"450px"} width={"400px"}style={{marginTop:"40px",borderRadius:'18px'}} src="https://i.ytimg.com/vi/-U_1WqHnBVI/maxresdefault.jpg" alt="" /></Link> 

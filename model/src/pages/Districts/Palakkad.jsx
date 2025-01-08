@@ -14,9 +14,8 @@ const IMG=styled.div`
 const Palakkad = () => {
   return (
     <div>
-      <div> 
-        <img width={"100%"} height={"500px"} src="https://keralatourism.travel/images/destinations/headers/palakkad-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpg" alt="" />
-      </div>
+      <div  style={{width:"100%",height:"600px"}}> 
+      <iframe width="100%" height="600px" src="https://www.youtube.com/embed/duGEQ5eSQ1g?si=ar2XjhLEVtLEe7L1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      </div>
       <h1  style={{backgroundColor:"lightgreen"}}>ABOUT PALAKKAD</h1>
       <p>Palakkad (Malayalam: [pɐːlɐkːɐːɖɨ̆] ⓘ), also known as Palghat, historically known as Palakkattussery, is a city and municipality in the Indian state of Kerala. It is the administrative headquarters of Palakkad District. Palakkad is the most densely populated municipality and the fourth-most densely populated city in the state. It was established before Indian independence under British rule and known by the name Palghat. Palakkad is famous for the ancient Palakkad Fort, which is in the heart of the city and was captured and rebuilt by Hyder Ali in 1766 which later fell into the hands of Zamorin in 1784. The city is about 347 kilometres (216 mi) northeast of the state capital, Thiruvananthapuram.
 

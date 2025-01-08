@@ -1,7 +1,16 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
 
+`
 const IMG=styled.div`
 width: 600px;
 height: 600px;
@@ -12,15 +21,25 @@ const FOOT=styled.div`
     width: 100%;
     height: 117px;
     background-color: antiquewhite;
-    padding-left: 300px;
     padding-top: 254px;
 `
-const Pathmanabatmpl = () => {
+const IMGG=styled.div`
+    width: 100%;
+   height:300px;
+    background-color: #eb8d13;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+  
+`
+const Pathmanabatmpl= () => {
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://c9admin.cottage9.com/uploads/2244/Anantha-Padmanabha-Temple-of-Thiruvananthapuram.jpg" alt="" />
+    <img width={"100%"} height={"600px"} src="https://assets.cntraveller.in/photos/661912266756424733f3ee52/master/pass/GettyImages-1299171226.jpg" alt="" />
     </div>
+   
     <h1 style={{backgroundColor:"lightgreen"}}>About Padmanabhaswamy Temple</h1>
     <p>The Padmanabhaswamy Temple is a Hindu temple dedicated to Vishnu in Thiruvananthapuram, the capital of the state of Kerala, India. It is one of the 108 Divya Desams which are considered the sacred abodes of Vishnu in the Sri Vaishnava tradition. The name of the city of 'Thiruvananthapuram' in Malayalam and Tamil translates to "The City of Ananta" (Ananta being a form of Vishnu).[1] The temple is built in an intricate fusion of the Kerala style and the Dravidian style of architecture, featuring high walls, and a 16th-century gopuram.[2][3] While as per some traditions the Ananthapura Temple in Kumbla in Kasaragod district in Kerala is considered as the original spiritual seat of the deity ("Mulasthanam"), architecturally to some extent, the temple is a replica of the Adikesava Perumal Temple in Thiruvattar in Kanyakumari district in Tamil Nadu.[4] It is widely considered the world's richest temple.[5]
 
@@ -58,8 +77,15 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 <p>The foundation of the present gopuram was laid in 1566.[25] The temple has a 100-foot (30 m) high[26] 7-tier gopuram built in the Pandyan style.[27] The temple stands by the side of a tank, named Padma Theertham (meaning the lotus spring). The temple has a corridor with 365 and one-quarter sculptured granite-stone pillars with elaborate carvings which stands out to be an ultimate testimonial for the Vishvakarma sthapathis in sculpting this architectural masterpiece. This corridor extends from the eastern side into the sanctum sanctorum. An 80-foot (24 m) flagstaff stands in front of the main entry from the prakaram (closed precincts of a temple).</p>
 
 
+
+<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
+<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
+</div>
+<Link to={'/ticket'}> <button style={{backgroundColor:"green",marginLeft:"50px"}} >click here</button></Link>
+
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
+
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrVbvnlLYlT7Sfj0lQ31Iq-7z4sYOeCr7dA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOmnJIh4yGKF0azOtdZwvnBX0TVGZv2_g6A&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLpW0PGsAtz4-m7cz9Cw1nfOf80XgPwAYPw&s" alt="" />
@@ -75,39 +101,64 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQa_h3ZZmoJB2uGdrDbrRHzwDinyyYn5MJMw&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://img.jagranjosh.com/imported/images/E/GK/padmanabhaswamy-temple-kerala.webp" alt="" />
 
+
+</IMGBOX>
+
+<h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
+<div>
+
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+
 <IMG>IMAGE</IMG>
 <a href="https://maps.app.goo.gl/BXLLfe8YhcU666bj6">CLICK TO REVIEW MAP</a>
 
+
+
+
+
 <h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
 
-<h3>RangaMaalika Heritage Residency</h3>
+<IMGG>
+
+   <div><h3>RangaMaalika Heritage Residency</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://r1imghtlak.mmtcdn.com/0c73b818425011eead7e0a58a9feac02.jpg" alt="" />
 </div>
 <a href="http://rangamaalika.com/">click to view</a>
 
+</div>
 
+
+   <div>
 <h3>Swades Myhome</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpkIFaPSfVY5oinYHtnXEvyJ7C2h-lZpNEpQ&s" alt="" />
 </div>
 <a href="https://swadesmyhome.com/">click to view</a>
+</div>
 
 
-<h3>The South Gate By WB Hotels</h3>
+   <div><h3>The South Gate By WB Hotels</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgp9WRLRRNOCFCAJfAeB10RILRkJReE1Txpw&s" alt="" />
 </div>
 <a href="https://www.wbhotels.in/">click to view</a>
+</div>
 
 
-<h3>Dimora Hotels And Resorts</h3>
+   <div><h3>Dimora Hotels And Resorts</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max200/98623887.jpg?k=e375114e347f746210d441a74b03769f9f711dd9755590d347f8bbfb4b04d5dc&o=&hp=1" alt="" />
 </div>
 <a href="https://www.goibibo.com/hotels/hotel-details/?checkin=20241219&checkout=20241220&roomString=1-2-0&searchText=Dimora%20Hotels%20And%20Resorts&locusId=CTTRV&locusType=city&cityCode=CTTRV&cc=IN&_uCurrency=INR&giHotelId=1591447813543259155&mmtId=201602041140102336">click to view</a>
+</div>
+
+</IMGG>
+
+
+
+
 <FOOT>
 <h2>contact us for more info 9656756476</h2>
 <h4>tourismkerala@gmail.com</h4>
