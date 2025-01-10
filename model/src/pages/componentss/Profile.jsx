@@ -20,7 +20,7 @@ const MAIN=styled.div`
 const SEC=styled.div`
        padding-top: 63px;
     padding-left: 28px;
-    width: 384px;
+    width:550px;
     height: 411px;
     border-radius: 18px;
     backdrop-filter: #474783(30px);

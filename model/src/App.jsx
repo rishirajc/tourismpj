@@ -199,7 +199,7 @@ function app(){
       element:localstoragevlue?. jswtoken ?<NameUpdt/>:<Loginpage/>
      },{
       path:"/password",
-      element:localstoragevlue?. jswtoken ?<PswdUpdt/>:<Loginpage/>
+      element:localstoragevlue?.jswtoken?<PswdUpdt/>:<Loginpage/>
      },{
       path:'/periyar',
       element:localstoragevlue?. jswtoken ?<Periyarnatlpark/>:<Loginpage/>

@@ -6,12 +6,12 @@ import {  useNavigate } from 'react-router-dom';
 import './update.css'
 const MAIN=styled.div`
     width: 100%;
-   height:681px;
+   height:696px;
     background: #2986db;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30480.jpg?t=st=1736318338~exp=1736321938~hmac=f225e41998c56c482486158c762d4cd95f3783de8278c4ef134e5c97b52ca3f5&w=740");
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/25/17/55/colorful-2174045_1280.png");
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -46,6 +46,7 @@ const NameUpdt = () => {
 
  
     <div>
+      
 
     <form className='gap'>
      <fieldset className='fil'>

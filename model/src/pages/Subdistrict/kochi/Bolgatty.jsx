@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import bol from '/src/pages/Subdistrict/kochi/image/bolgaty.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,12 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const FOOT=styled.div`
@@ -117,7 +121,7 @@ In 1947, when India attained independence, the palace became the property of the
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={bol} width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 
@@ -129,7 +133,7 @@ In 1947, when India attained independence, the palace became the property of the
 <IMGG>
 
    <div><h3>
-   Ginger Kochi - MG Road</h3>
+   Ginger Kochi</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/40/71/e3/one-bedroom-suite.jpg?w=700&h=-1&s=1" alt="" />
 </div>
@@ -138,7 +142,7 @@ In 1947, when India attained independence, the palace became the property of the
 
 
    <div>
-<h3>The Luminara A Unit of Elite Tourist Home</h3>
+<h3>The Luminara Tourist Home</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://q-xx.bstatic.com/xdata/images/hotel/max500/185223118.jpg?k=ca0ebd7f62e88065cfef31d37eba3b0b9f5c07db8c5a2e5a6f27f967114abaf2&o=" alt="" />
 </div>
@@ -156,7 +160,7 @@ In 1947, when India attained independence, the palace became the property of the
 </div>
 
 
-   <div><h3>Bolgatty Palace and Island Resort</h3>
+   <div><h3>Bolgatty  Island Resort</h3>
 <div>
     <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxSzTSIovL3QbZJJqV7Gr6tnvddAGjQYxFw&s" alt="" />
 </div>

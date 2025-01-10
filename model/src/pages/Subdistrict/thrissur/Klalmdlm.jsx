@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import thr from '/src/pages/Subdistrict/thrissur/image/kalamand.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,12 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const FOOT=styled.div`
@@ -116,7 +120,7 @@ Kalamandalam imparts training in classical dance and theatre forms like Kathakal
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={thr}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 
@@ -128,7 +132,7 @@ Kalamandalam imparts training in classical dance and theatre forms like Kathakal
 <IMGG>
 
    <div><h3>
-   Eco Garden Resort-Best Resort In Thrissur,Kerala</h3>
+   Eco Garden Resort</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/237413614.jpg?k=e8e70d00a541fcc7f40c19f64b3b8a44b2b51c7b46090e08e38da21b451e2357&o=&hp=1" alt="" />
 </div>
@@ -137,7 +141,7 @@ Kalamandalam imparts training in classical dance and theatre forms like Kathakal
 
 
    <div>
-<h3>The River Retreat - Heritage Ayurvedic Resort</h3>
+<h3>The River Retreat Resort</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxLJOMXiJHRJwUfDK9nnCeiLe8wtnwVDkm_A&s" alt="" />
 </div>

@@ -92,7 +92,7 @@ Close to the Adyanpara Falls are a number of interesting tourist spots. The Nila
 <h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
 
 <div  style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",}}>
-<div><h3>Kairali Resort Kakkadampoyil</h3>
+<div><h3>Kairali Resort </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/37/7b/ab/we-are-located-at-kakkadampoyi.jpg?w=700&h=-1&s=1" alt="" />
 </div>
@@ -111,7 +111,7 @@ Close to the Adyanpara Falls are a number of interesting tourist spots. The Nila
 
    <div><h3>
   
-   Clouds End Resort Kakkadampoyil
+   Clouds End Resort 
 </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/375489798.jpg?k=8f2d5d29846fd83906333d578c81ef2efb93e54b46c31ae873ee6f51977bf6b7&o=&hp=1" alt="" />
@@ -120,7 +120,7 @@ Close to the Adyanpara Falls are a number of interesting tourist spots. The Nila
 </div>
 
 
-   <div><h3>Hill Ranches Resorts Muthappampuzha</h3>
+   <div><h3>Hill Ranches Resorts </h3>
 <div>
     <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYO5jQLr4oZ6aY0Q20IlEM_m91LW3_fT6oA&s" alt="" />
 </div>

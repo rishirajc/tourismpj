@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import tri from '/src/pages/Subdistrict/trivandrum/image/napier.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,11 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -115,7 +118,7 @@ The museum owns a garden which has many varieties of flowers and trees. It also 
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={tri}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 

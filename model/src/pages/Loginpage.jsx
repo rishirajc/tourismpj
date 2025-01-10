@@ -32,7 +32,7 @@ function display(){
   <input className="use" type="password" onChange={(e)=>setpassword(e.target.value)}/>
  <Link to={'/home'}><button className='logbutton' onClick={display}>LOGIN</button></Link> 
  <Link to={'/sign'}><button className='forgot'>SIGNUP</button></Link> 
- <Link to={'/forgot'}><h4 className="for">FORGOT PASSWORD?</h4></Link>
+ <Link to={'/forgot'}><h5 className="for">FORGOT PASSWORD?</h5></Link>
 
  </form>
     </div>

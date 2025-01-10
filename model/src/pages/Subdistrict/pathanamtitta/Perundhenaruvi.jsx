@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import pat from '/src/pages/Subdistrict/pathanamtitta/image/perundh.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,11 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
 const FOOT=styled.div`
@@ -99,7 +102,7 @@ With its breathtaking natural scenery and tranquil environment, Perunthenaruvi i
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={pat}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 
@@ -111,7 +114,7 @@ With its breathtaking natural scenery and tranquil environment, Perunthenaruvi i
 <IMGG>
 
    <div><h3>
-   Mountain Mist Resort Perunthenaruvi</h3>
+   Mountain Mist Resort </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202303261246423005-c2451aa4cba611edbc6e0a58a9feac02.jpg" alt="" />
 </div>

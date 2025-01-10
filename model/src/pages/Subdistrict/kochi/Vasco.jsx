@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
+import bol from '/src/pages/Subdistrict/kochi/image/vasco.png'
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -12,9 +13,12 @@ flex-wrap: wrap;
 
 `
 const IMG=styled.div`
-width: 600px;
-height: 600px;
+width: 400px;
+height: 400px;
 background-color: antiquewhite;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
 const FOOT=styled.div`
@@ -95,7 +99,7 @@ Vasco da Gama Square stands as a tribute to this explorer's enduring legacy and 
 </div>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<IMG><img src={bol} width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/p3oyozenxoEyxVGt5">CLICK TO REVIEW MAP</a>
 
 
@@ -116,7 +120,7 @@ Vasco da Gama Square stands as a tribute to this explorer's enduring legacy and 
 
 
    <div>
-<h3>Vasco Da Gama Beach Resort and Spa</h3>
+<h3>Vasco Da Gama Beach Resort </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b1/d5/f0/vasco-da-gama-beach-resort.jpg?w=700&h=-1&s=1" alt="" />
 </div>
@@ -134,7 +138,7 @@ Vasco da Gama Square stands as a tribute to this explorer's enduring legacy and 
 </div>
 
 
-   <div><h3>Hotel Bright Heritage- Fort Kochi</h3>
+   <div><h3>Hotel Bright Heritage</h3>
 <div>
     <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/375486961.jpg?k=5a9f5511d8ce07411ec75cee23966330d159cf070eb101fb9b3d1254fe055c9d&o=&hp=1" alt="" />
 </div>

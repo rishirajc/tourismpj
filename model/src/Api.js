@@ -70,7 +70,7 @@ export const OTPPSW=async(data)=>{
     try {
         const otp=await axios.post('http://localhost:8000/router/otp',data)
         console.log('third',otp.data);
-        
+        return otp.data
     } catch (error) {
         console.log(error);
         

@@ -3,10 +3,10 @@ import { SIGNUP } from '../Api'
 import styled from 'styled-components'
 import { useNavigate } from 'react-router-dom'
 const MAIN=styled.div`
-    padding-top: 105px;
+       padding-top: 94px;
     padding-left: 238px;
-    width: 428px;
-    min-height: 65vh;
+    width: 687px;
+    min-height: 81vh;
   background: url("https://apps.keralatourism.org/images/hri/large/mangala_hills_thekkady_71.jpg");
      color: #d80404;
     border-radius: 20px;
@@ -37,8 +37,8 @@ box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
     line-height: 30px;
     border-radius: 8px;
     border: none;
-    margin: 16px 25px;
-    padding-left: 26px;
+    margin: 21px 47px;
+    padding-left: 17px;
 
 
 `

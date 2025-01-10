@@ -50,7 +50,7 @@ const Topplaces = () => {
     <MAIN>
       <NAV>
         <img  width={'150px'} height={'100px'} src="https://d3lzcn6mbbadaf.cloudfront.net/media/details/Kerala_Tourism_8MBbARQ.jpg" alt="" />
-        <h1 style={{marginLeft:"8px",marginTop:'33px'}}>TOP 10 TOURIST PLACES IN KERALA</h1>
+        <h1 style={{marginLeft:"8px",marginTop:'33px',fontFamily:"math"}}>TOP 10 TOURIST PLACES IN KERALA</h1>
       </NAV>
       <SEC>
        <Link to={'/periyar'}> <img style={{borderRadius:'18px'}}  width={"350px"} height={'400px'} src="https://www.studyiq.com/articles/wp-content/uploads/2023/04/01193018/Periyar-national-park.jpg" alt="" /></Link> 
