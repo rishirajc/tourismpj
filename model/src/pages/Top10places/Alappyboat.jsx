@@ -1,26 +1,46 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/alappy.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
 `
+
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
+`
+
 const Alappyboat = () => {
+    useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://www.exoticahouseboatcruises.com/blogimg/Alleppey%20houseboat%20(2).jpg" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/YrffieMiObU?si=N31ohS_cZlFY-u5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About  Alappuzha</h1>
     <p>Alappuzha (Malayalam: [aːlɐpːuɻɐ] ⓘ), formerly known as Alleppey, is a city and municipality[1] in the Alappuzha district of Kerala, India. It is the district headquarters of the district, and is located about 130 km (80.8 mi) north of the state capital Thiruvananthapuram. As per the 2011 Indian census, Alappuzha has a population of 240,991 people, and a population density of 3,675/km2 (9,520/sq mi).
 
@@ -99,7 +119,7 @@ In 1912, the Madras Government approved a proposal from the Travencore Governmen
 Due to the steep decline in the price of rice during 1920 to 1940, the reclamation activities became sluggish, but they gained momentum again in the early 1940s. During this period, in order to increase the agricultural output, government initiated a Grow More Food campaign and provided incentives to encourage new reclamations. The advent of electric motors made the reclamation easier, cheaper and less risky as compared to the earlier periods. The last tract of the reclamations namely Q, S and T block were made during this period.[</p>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoToGCdUtYWAqV0rOIGk9hds-7TmkYtKSCQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTARK7OU4PiIAM58OoDofUZbqZqSb01S96hw&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://www.keralatourism.org/images/destination/large/alappuzha_kochi_cruise20131031101643_300_1.jpg" alt="" />
@@ -114,46 +134,53 @@ Due to the steep decline in the price of rice during 1920 to 1940, the reclamati
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTov8Qt-6oGk4rqEGWHd_v8HJRtY_zCC0yraQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsG-ctLFfSYgVluFi8chnnSFZ03ACmjQ1yPw&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlpOrRVtdrJW4Hj74UvsktWdYHtde5_4Nxg&s" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
+<div  style={{marginLeft:"36%"}}>
 
-<IMG>IMAGE</IMG>
-<a href="https://maps.app.goo.gl/nMsPevt4xpDovjYNA">CLICK TO REVIEW MAP</a>
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
+<a href="https://maps.app.goo.gl/nMsPevt4xpDovjYNA">CLICK TO REVIEW MAP</a></div>
 
-
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
-<h3>Alleppey Beach Resorts</h3>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
+<div>
+<h3>Alleppey Resorts</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbQChp_ynQZ-kJcV0FEMf7GH107kcMw0Ty1g&s" alt="" />
 </div>
 <a href="https://www.thealleppeybeachresorts.com/">click to view</a>
+</div>
 
+<div>
 
-<h3>Palm Beach Resort & Cafe by UTH </h3>
+<h3>Palm Beach Resort  </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSg3-uRd5lN2i2TlfIk54aaxgGkTjbrBRcg&s" alt="" />
 </div>
 <a href="https://alleppeypalmbeachresort.com/">click to view</a>
+</div>
 
+<div>
 
-<h3>Baywatch Beach Resort</h3>
+<h3>Baywatch Resort</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMRuo2kX7XA20BRUXRsMgwRq9THJN_ZFAeg&s" alt="" />
 </div>
 <a href="https://baywatchbeachresortalleppey.com/alleppey-beach-resort-booking.html">click to view</a>
+</div>
 
+<div>
 
-<h3>Haven Alleppey Beach Villa</h3>
+<h3>Haven Villa</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgrCOcp5fcY745yLltebDXIfzYMMrAzd99A&s" alt="" />
 </div>
 <a href="https://www.havenbeachvilla.com/">click to view</a>
-
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+</div>
+</div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
 </div>
   )

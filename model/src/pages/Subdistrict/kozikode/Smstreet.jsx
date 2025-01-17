@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import smt from '/src/pages/Subdistrict/kozikode/image/smst.png'
@@ -28,6 +28,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Smstreet = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

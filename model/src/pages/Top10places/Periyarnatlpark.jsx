@@ -1,24 +1,47 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/periyar.png'
+import fot from "/src/image/footok.png"
+
+
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+
+
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
+`
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
+
 `
 const Periyarnatlpark = () => {
+
+  useEffect(()=>{
+
+    window.scrollTo(0, 0);
+  },[])
   return (
     <div>
-        <div>
-            <img width={"100%"} height={"600px"} src="https://indiatravel.com/wp-content/uploads/2022/01/Periyar-Tiger-Reserve-1200x900-cropped.jpg" alt="" />
-        </div>
+        <div style={{width:"100%",height:"600px"}}>
+        <iframe width="100%" height="600px" src="https://www.youtube.com/embed/ufmA-Gsq8og?si=xnYATzgMXuQajjJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        </div>
         <h1 style={{backgroundColor:"lightgreen"}}>About Periyar National Park</h1>
         <p>Periyar National Park and Wildlife Sanctuary (PNP) is a protected area located in the districts of Idukki and Pathanamthitta in Kerala, India. It is a renowned elephant and tiger reserve. The protected area encompasses 925 km2 (357 sq mi), of which 305 km2 (118 sq mi) of the main zone was declared as the Periyar National Park in 1982. The park is a repository of rare, endemic, and endangered flora and fauna and forms the major watershed of two important rivers of Kerala: the Periyar and the Pamba.
 
@@ -62,7 +85,7 @@ Mycalesis patnia junonia in Periyar National Park
 Hemicordulia asiatica in Periyar National Park
 There are about 160 butterfly taxa, including South India's largest butterfly, the southern birdwing; lime butterfly; Malabar tree nymph; Indian awlking; Evershed's ace, which is endemic to the South Western Ghats; southern spotted ace, which is also endemic to the southern parts of the western ghats, but is more common and with a greater range than T. evershedi; Madras ace; the highly threatened Travancore evening brown, which can only be found in cane brakes; various kinds of uncommon Mycalesis species (the bushbrowns), some of which are endemic to the Western Ghats; and many kinds of moths, such as the Southern Atlas moth.[15] A survey jointly conducted by the Periyar Tiger Conservation Foundation, Indian Dragonfly Society and the Forest and Wildlife Department in October 2017 found 77 species of odonata, including the Asian emerald (Hemicordulia asiatica).[16][17] A survey jointly conducted by the same team in September 2018 found eight more new species.</p>
     <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-    <div>
+    <IMGBOX>
     <img width={"200px"} height={"200px"} src="https://ihplb.b-cdn.net/wp-content/uploads/2017/04/Periyar-Wildlife-Sanctuary.jpg" alt="" />
 <img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1QJmvDWWJNaO97D157eGkloI54pTuBhQxQ&s" alt="" />
 <img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2acRmgR6krpqtTBQ7qwJRRqVc7CvupnRgw&s" alt="" />
@@ -78,16 +101,29 @@ There are about 160 butterfly taxa, including South India's largest butterfly, t
 <img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgnc3St_0sw46O8sk4THPmtWP9GMWx8PE-PQ&s" alt="" />
   <img width={"200px"} height={"200px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGRt4dpPPfEMWAGcQwGAujWLEnJun2wcj7Bw&s" alt="" />
    
-  </div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
-<IMG>IMAGE</IMG>
+  </IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
+
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/FffAuThmo6evB2NZA">CLICK TO REVIEW MAP</a>
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+</div>
+
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
+
+<div>
+
+
 <h3>KTDC Periyar House</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://www.ktdc.com/images/budget/periyar-house-list.jpg" alt="" />
  </div>
  <a href="https://www.ktdc.com/">click to view</a>
+ </div>
+ 
+ <div>
 
 
 <h3>Abad Green Forest Resort </h3>
@@ -95,25 +131,34 @@ There are about 160 butterfly taxa, including South India's largest butterfly, t
 <img width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/16707631.jpg?k=a7a255e9ea88804577c67ae7837354b599ceba84172c5cef45a6cb2744bb6db2&o=&hp=1" alt="" />
 </div>
 <a href="https://www.abadhotels.com/green-forest-resort-thekkady/">click to view</a>
+</div>
+
+<div>
+
 
   <h3>Ranger Wood Nature Castle</h3>
   <div>
   <img width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/14/51/1a/rangerwood-nature-castle.jpg?w=700&h=-1&s=1" alt="" />
 </div>
 <a href="https://www.rangerwoodperiyar.com/">click to view</a>
+</div>
+
+<div>
+
+
   <h3>Oxygen Resort Thekkady</h3>
   <div>
   <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03BOKHL6yPwsdHAVkOuuN9zbNuMftak-VeQ&s" alt="" />
  </div>
  <a href="https://www.cluboxygen.net/">click to view</a>
- <FOOT>
-    <h2>contact us for more info 9656756476</h2>
-    <h4>tourismkerala@gmail.com</h4>
-   </FOOT>
+ </div>
+ </div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
    
    </div>
    
-
   )
 }
 

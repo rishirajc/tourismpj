@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import alp from '/src/pages/Subdistrict/alapuza/image/revi.png'
@@ -38,6 +38,10 @@ flex-wrap: wrap;
 `
 
 const Revimusum = () => {
+    useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import kur from '/src/pages/Subdistrict/waynad/image/kurumba.png'
@@ -29,6 +29,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Kurumbala = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

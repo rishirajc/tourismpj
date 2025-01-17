@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import kap from '/src/pages/Subdistrict/kasaragod/image/kappil.png'
+import fot from "/src/image/footok.png"
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -10,7 +10,10 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
-
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
 `
 const IMG=styled.div`
 width: 400px;
@@ -18,16 +21,19 @@ height: 400px;
 background-color: antiquewhite;
 border-radius: 14px;
 box-shadow: 1px 1px 20px rgb(202, 189, 189);
-
+margin-left: 36%;
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
+const FIN=styled.div`
+height: 250px;
+background-color: #0087fd;
+
 `
 const Kappil = () => {
+  useEffect(()=>{
+  
+      window.scrollTo(0, 0);
+    },[])
   return (
 <div>
     <div style={{width:"100%",height:"600px"}}>
@@ -79,10 +85,6 @@ The CPCRI has released five coconut hybrids, eight high yielding coconut varieti
 
 
 
-<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
-</div>
-<Link to={'/ticket'}> <button style={{backgroundColor:"green",marginLeft:"50px"}} >click here</button></Link>
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -104,13 +106,13 @@ The CPCRI has released five coconut hybrids, eight high yielding coconut varieti
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG><img src={kap}  width={'400px'} height={'400px'} alt="" /></IMG>
-<a href="https://maps.app.goo.gl/yZVCWobFgv1h3RSA6">CLICK TO REVIEW MAP</a>
+<IMG><img src={kap}  width={'400px'} height={'400px'} alt="" />
+<a href="https://maps.app.goo.gl/yZVCWobFgv1h3RSA6">CLICK TO REVIEW MAP</a></IMG>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{backgroundColor:"lightgreen",marginLeft:"30px"}}>POPULAR RESORT NEARBY</h1>
 
-<div  style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
+<div  style={{width:"100%",height:"300px",backgroundColor:"lightgreen",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
 
    <div><h3>Bekal Fort Resort</h3>
 <div>
@@ -152,11 +154,12 @@ The CPCRI has released five coconut hybrids, eight high yielding coconut varieti
 
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
 
-</FOOT>
+
+ <FIN>
+   
+          <img className="imgfot" src={fot} alt="" />
+              </FIN>
 
 </div>
   )

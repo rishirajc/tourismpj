@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import kot from '/src/pages/Subdistrict/kottayam/image/kumarakam.png'
@@ -39,6 +39,10 @@ flex-wrap: wrap;
 `
 
 const Kumarakam = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

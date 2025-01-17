@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import tom from '/src/pages/Subdistrict/waynad/image/pazassi.png'
@@ -28,6 +28,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Tombofpazassi = () => {
+      useEffect(()=>{
+      
+          window.scrollTo(0, 0);
+        },[])
   return (
     <div>
     <div>

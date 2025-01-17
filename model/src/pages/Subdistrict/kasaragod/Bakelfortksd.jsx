@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import bak from '/src/pages/Subdistrict/kasaragod/image/bakel.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
@@ -10,6 +10,7 @@ height: 400px;
 background-color: antiquewhite;
 border-radius: 14px;
 box-shadow: 1px 1px 20px rgb(202, 189, 189);
+margin-left: 36%;
 
 `
 const IMGBOX=styled.div`
@@ -19,15 +20,23 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+`
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
-`
 const Bakelfortksd = () => {
+
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div style={{width:"100%",height:"600px"}}>
@@ -69,10 +78,6 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 
 </div>
 
-<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
-</div>
-<Link to={'/ticket'}> <button style={{backgroundColor:"green",marginLeft:"50px"}} >click here</button></Link>
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -94,13 +99,13 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG><img src={bak} width={'400px'} height={'400px'} alt="" /></IMG>
+<IMG><img src={bak} width={'400px'} height={'400px'} alt="" />
 <a href="https://maps.app.goo.gl/knWmmpyqH1JauRnSA">CLICK TO REVIEW MAP</a>
+</IMG>
 
+<h1 style={{backgroundColor:"lightgreen",marginTop:"33px"}}>POPULAR RESORT NEARBY</h1>
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
-
-<div  style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
+<div  style={{width:"100%",height:"300px",backgroundColor:"lightgreen",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
 
    <div><h3>Bekal Fort Resort</h3>
 <div>
@@ -111,7 +116,7 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 
 
    <div>
-<h3>Sree Gokulam Nalanda Resorts </h3>
+<h3> Nalanda Resorts </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxehsFCaj3S05tII5IH1RXzG2Fz08zC4z8w&s" alt="" />
 </div>
@@ -119,7 +124,7 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 </div>
 
 
-   <div><h3>Malabar Ocean Front Resort and Spa, Bekal</h3>
+   <div><h3>Malabar Ocean  Resort </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/311940297.jpg?k=fc4c580550c73c4a39984c59822d5d094313245842e44a4c3ac1f883c11a2d98&o=&hp=1" alt="" />
 </div>
@@ -142,11 +147,11 @@ Nearest Airports are Mangalore International Airport, 71 km, Kannur Internationa
 
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
 
-</FOOT>
+ <FIN>
+   
+          <img className="imgfot" src={fot} alt="" />
+              </FIN>
 
 </div>
   )

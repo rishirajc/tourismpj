@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import rani from '/src/pages/Subdistrict/malappuram/image/mini.png'
@@ -27,6 +27,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Miniooty = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

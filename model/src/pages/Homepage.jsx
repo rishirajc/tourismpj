@@ -1,6 +1,6 @@
-import React from 'react'
+import React, { useEffect} from 'react'
 import { Link } from 'react-router-dom'
-import styled from 'styled-components'
+import styled, { keyframes } from 'styled-components'
 import {  useDispatch, useSelector } from 'react-redux';
 import "../App.css"
 import fot from "/src/image/footok.png"
@@ -10,6 +10,7 @@ import { removedata } from './Redux/Loginslice';
 const MAIN=styled.div`
     width: 100%;
    height: auto;
+   background-color: #78a9d4;
 `
 
 const SEC=styled.div`
@@ -19,10 +20,11 @@ const SEC=styled.div`
     flex-wrap: wrap;
     margin-top: 10px;
     cursor: pointer;
-    transition: transform 5s ease;
+    transition: transform 2s ease;
   :hover {
     transform: scale(0.9);
   }
+  background-color: #78a9d4;
 `
 
 const MAIN3=styled.div`
@@ -44,6 +46,7 @@ height: 720px;
 
 border-radius: 20px;
 padding-top: 10px;
+  background-color: #78a9d4;
 
 
 `
@@ -66,10 +69,24 @@ const Homepage = () => {
   console.log(localvalue);
   const Id=localvalue?. userid
   const dispatch= useDispatch()
+ 
+
+
   function display(){
     dispatch(removedata())
+    
+   
     }
+
+
   
+     useEffect(()=>{
+      
+          window.scrollTo(0, 0);
+        },[])
+
+ 
+
   return (
     <MAIN>
        <div className='nav'>
@@ -87,6 +104,8 @@ const Homepage = () => {
        <Link to={'/profile'}> <Dropdown.Item href="#/action-3">PROFILE</Dropdown.Item></Link>
        <Link to={'/ticket'}> <Dropdown.Item href="#/action-3">TICKET</Dropdown.Item></Link>
       <Dropdown.Item href="#/action-3" onClick={display}>LOGOUT</Dropdown.Item>
+    
+
       </Dropdown.Menu>
     </Dropdown>
 
@@ -95,7 +114,15 @@ const Homepage = () => {
 
      
      <NAV>
-     <iframe width="100%" height="720px" src="https://www.youtube.com/embed/JCAQiQP5sEE?si=53v_wGMRLaK_Vgxa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <iframe 
+    width="100%"
+    height="720px"
+    src="https://www.youtube.com/embed/JCAQiQP5sEE?autoplay=1&mute=1"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen>
+</iframe>
 
      </NAV>
   

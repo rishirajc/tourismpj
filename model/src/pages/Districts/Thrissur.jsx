@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import img7 from '../images/thrissur1735300485767.png'
 import { Link } from 'react-router-dom'
@@ -37,6 +37,10 @@ const LAST1=styled.div`
   
 `
 const Thrissur = () => {
+     useEffect(()=>{
+     
+         window.scrollTo(0, 0);
+       },[])
   return (
     <div>
       <div  style={{width:"100%",height:"600px"}}>

@@ -38,10 +38,18 @@ const UPDATE=async(req,res)=>{
         res.status(500).json(error)
     }
 }
+const GETOTP=async(req,res)=>{
+    try {
+       await user.findOne()
+        return res.status(200).json({message:"updated"})
+    } catch (error) {
+        res.status(500).json(error)
+    }
+}
 const DELETE=async(req,res)=>{
     try {
        await user.findByIdAndDelete(req.params.id)
-        return res.status(200).json("deleted")
+        return res.status(200).json({messege:"DELETED"})
     } catch (error) {
         res.status(500).json(error)
     }
@@ -119,4 +127,4 @@ const imageupoad=async(req,res)=>{
         
     }
   }
-module.exports={POST,GET,UPDATE,DELETE,Otp,imageupoad,forgotpassword}
+module.exports={POST,GET,UPDATE,DELETE,Otp,imageupoad,forgotpassword,GETOTP}

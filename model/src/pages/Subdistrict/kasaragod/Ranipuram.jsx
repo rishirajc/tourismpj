@@ -1,8 +1,7 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
-import Button from 'react-bootstrap/Button';
-import { Link } from 'react-router-dom';
 import rani from '/src/pages/Subdistrict/kasaragod/image/rani.png'
+import fot from "/src/image/footok.png"
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -11,25 +10,36 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
 
 `
 
 const IMG=styled.div`
 width: 400px;
 height: 400px;
-background-color: antiquewhite;
 border-radius: 14px;
 box-shadow: 1px 1px 20px rgb(202, 189, 189);
 
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
+
 `
+
+
+
 const Ranipuram = () => {
+  useEffect(()=>{
+
+    window.scrollTo(0, 0);
+  },[])
+
   return (
     <div style={{width:"100%",height:"600px"}}>
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/_wsb8qSLRGM?si=G1QS427P5rxTRAg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    <div>
@@ -90,11 +100,6 @@ Watch documentaries and reach out to people who have been there</p>
    </div>
 
 
-   <div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-   <marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
- </div>
- <Link to={'/ticket'}><Button style={{backgroundColor:"green",marginLeft:"50px"}} variant="success">click here</Button></Link> 
-
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
@@ -117,9 +122,8 @@ Watch documentaries and reach out to people who have been there</p>
 
 
 
-  <img src="" alt="" />
-<div>
-<IMG><img src={rani} width={"400px"} height={"400px"} alt="" /></IMG>
+<div style={{marginLeft:"36%"}}>
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/GN7BpRAvjWJZyBSH8">CLICK TO REVIEW MAP</a>
 </div>
 
@@ -129,7 +133,7 @@ Watch documentaries and reach out to people who have been there</p>
 
 <h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
 
-<div style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
 <div style={{width:"250px"}}>
 <h3>Orchid Ranipuram</h3>
 <div>
@@ -149,16 +153,16 @@ Watch documentaries and reach out to people who have been there</p>
 </div>
 
 <div  style={{width:"250px"}}>
-<h3>SERVOSONIC HOTEL AND RESORTS</h3>
+<h3>SERVOSONICRESORTS</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://r1imghtlak.mmtcdn.com/c2c2070a755011edb84b0a58a9feac02.jpg" alt="" />
 </div>
-<a href="https://www.makemytrip.com/hotels/servosonic_hotels_and_resorts-details-talipparamba.html">click to view</a>
+<a style={{}} href="https://www.makemytrip.com/hotels/servosonic_hotels_and_resorts-details-talipparamba.html">click to view</a>
 
 </div>
 
 <div  style={{width:"250px"}}>
-<h3>Valley view Resort Ranipuram</h3>
+<h3>Valley view Resort</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://content3.jdmagicbox.com/comp/ranipuram/q9/9999p4994.4994.230423231609.b8q9/catalogue/valley-view-resort-panathady-ranipuram-k816o8jmjs.jpg" alt="" />
 </div>
@@ -168,12 +172,10 @@ Watch documentaries and reach out to people who have been there</p>
 </div>
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
-
+ <FIN>
+   
+          <img className="imgfot" src={fot} alt="" />
+              </FIN>
 </div>
   )
 }

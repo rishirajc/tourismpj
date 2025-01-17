@@ -6,12 +6,12 @@ import {  useNavigate } from 'react-router-dom';
 import './update.css'
 const MAIN=styled.div`
     width: 100%;
-   height:696px;
+   height:730px;
     background: #2986db;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://cdn.pixabay.com/photo/2017/03/25/17/55/colorful-2174045_1280.png");
+    background-image: url("https://cdn.pixabay.com/photo/2019/07/18/14/36/ocean-4346633_1280.jpg");
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -29,11 +29,15 @@ const NameUpdt = () => {
      const[Password,setpassword]=useState()
 
      const Navigate = useNavigate()
-    function display(){
+    function display(e){
+      e.preventDefault()
         console.log("ageee",Name,Email,Mobile,Place,Age,Password);
         
         UPDATE(Id,{Name,Email,Mobile,Place,Age,Password}).then((data)=>{
+          console.log("updattteeee",data);
+          
           if(data.message=="updated"){
+
             Navigate('/profile')
           
           }
@@ -48,7 +52,7 @@ const NameUpdt = () => {
     <div>
       
 
-    <form className='gap'>
+    <form onSubmit={display} className='gap'>
      <fieldset className='fil'>
       <br />
       <legend className="leg">UPDATE YOUR PROFILE</legend>
@@ -82,7 +86,7 @@ const NameUpdt = () => {
   </div>
    
      </fieldset><br />
-     <button className='upbtn' onClick={display}>UPDATE</button>
+     <button className='upbtn' type='submit'>UPDATE</button>
     </form>
      
 

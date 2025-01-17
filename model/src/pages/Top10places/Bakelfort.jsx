@@ -1,26 +1,45 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/bakel.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
+`
+
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 `
 const Bakelfort = () => {
+      useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://cdn.photovaliant.com/wp-content/uploads/2016/01/Bekal-Fort-Kasargod-ABC_2651.jpg" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/5tvplWWcidQ?si=twE8uZgFfUeLzi76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Bakel Fort</h1>
    <p>Bekal Fort is a medieval fort built by Shivappa Nayaka of Keladi in 1650 AD, at Bekal. It is the largest fort in Kerala, spreading over 40 acres (160,000 m2).</p>
    <h3 style={{backgroundColor:"lightgreen"}}>Structure</h3>
@@ -46,7 +65,7 @@ Nearby the Mukhyaprana Temple of Hanuman and ancient Muslim mosque bear testimon
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://upload.wikimedia.org/wikipedia/commons/7/74/Bekal.jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZNxiGCZI7ALU29by6TBL7O6sJnYw9SM3WA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/42/51/31/bekal-fort.jpg?w=800&h=-1&s=1" alt="" />
@@ -61,47 +80,56 @@ Nearby the Mukhyaprana Temple of Hanuman and ancient Muslim mosque bear testimon
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMBEzxIQLq1pJV3F37o91SwYPXH3gcBwhyg&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://c8.alamy.com/comp/EEWAP6/bekal-fort-kasaragod-kerala-india-bekal-fort-observation-tower-view-EEWAP6.jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_QVxMePWl2IwXxzuREBvwPx0rxwC41GH-Q&s" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/knWmmpyqH1JauRnSA">CLICK TO REVIEW MAP</a>
+</div>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
+
+<div>
 
 <h3>Bekal Fort Resort</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://r2imghtlak.ibcdn.com/r2-mmt-htl-image/htl-imgs/201111161842485693-899e2836ee6311e982770242ac110002.jpg?downsize=275:375" alt="" />
 </div>
 <a href="https://bekal.com/">click to view</a>
+</div>
+<div>
 
-
-<h3>Sree Gokulam Nalanda Resorts </h3>
+<h3> Nalanda Resorts </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxehsFCaj3S05tII5IH1RXzG2Fz08zC4z8w&s" alt="" />
 </div>
 <a href="https://www.gokulamhotels.com/gokulam-park-nalanda-resort-nileshwaram-cottage.html">click to view</a>
+</div>
+<div>
 
-
-<h3>Malabar Ocean Front Resort and Spa, Bekal</h3>
+<h3>Malabar Ocean Front Resort </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/311940297.jpg?k=fc4c580550c73c4a39984c59822d5d094313245842e44a4c3ac1f883c11a2d98&o=&hp=1" alt="" />
 </div>
 <a href="https://www.malabarresort.com/">click to view</a>
+</div>
+<div>
 
-
-<h3>Royal Heritage Bekal</h3>
+<h3>Royal Heritage </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTirYCYbFv05p1gclwwFbseF8ABhJy2upuYA&s" alt="" />
 </div>
 <a href="https://www.goibibo.com/hotels/royal-heritage-bekal-hotel-in-kasaragod-62789626644263075">click to view</a>
-
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+</div>
+</div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
 </div>
   )

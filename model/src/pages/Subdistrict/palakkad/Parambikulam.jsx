@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import par from '/src/pages/Subdistrict/palakkad/image/parambi.png'
@@ -37,6 +37,10 @@ flex-wrap: wrap;
   
 `
 const Parambikulam = () => {
+  useEffect(()=>{
+  
+      window.scrollTo(0, 0);
+    },[])
   return (
     <div>
     <div>

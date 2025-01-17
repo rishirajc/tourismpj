@@ -1,7 +1,17 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/pathmanaban.png'
+import fot from "/src/image/footok.png"
 
+
+const IMG=styled.div`
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
+
+`
 const IMGBOX=styled.div`
 width: 100%;
 height: 600px;
@@ -9,36 +19,27 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
 
 `
-const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
 
-`
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
-`
-const IMGG=styled.div`
-    width: 100%;
-   height:300px;
-    background-color: #eb8d13;
-display: flex;
-align-items: center;
-justify-content: space-around;
-flex-wrap: wrap;
-  
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 `
 const Pathmanabatmpl= () => {
+     useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>
-    <img width={"100%"} height={"600px"} src="https://assets.cntraveller.in/photos/661912266756424733f3ee52/master/pass/GettyImages-1299171226.jpg" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/014gJQIFxmw?si=zkepfFQ-ubobbewa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
    
     <h1 style={{backgroundColor:"lightgreen"}}>About Padmanabhaswamy Temple</h1>
     <p>The Padmanabhaswamy Temple is a Hindu temple dedicated to Vishnu in Thiruvananthapuram, the capital of the state of Kerala, India. It is one of the 108 Divya Desams which are considered the sacred abodes of Vishnu in the Sri Vaishnava tradition. The name of the city of 'Thiruvananthapuram' in Malayalam and Tamil translates to "The City of Ananta" (Ananta being a form of Vishnu).[1] The temple is built in an intricate fusion of the Kerala style and the Dravidian style of architecture, featuring high walls, and a 16th-century gopuram.[2][3] While as per some traditions the Ananthapura Temple in Kumbla in Kasaragod district in Kerala is considered as the original spiritual seat of the deity ("Mulasthanam"), architecturally to some extent, the temple is a replica of the Adikesava Perumal Temple in Thiruvattar in Kanyakumari district in Tamil Nadu.[4] It is widely considered the world's richest temple.[5]
@@ -78,10 +79,6 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 
 
 
-<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
-</div>
-<Link to={'/ticket'}> <button style={{backgroundColor:"green",marginLeft:"50px"}} >click here</button></Link>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
@@ -104,24 +101,26 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 
 </IMGBOX>
 
-<h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
 
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/BXLLfe8YhcU666bj6">CLICK TO REVIEW MAP</a>
+</div>
 
 
 
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
 
-<IMGG>
 
-   <div><h3>RangaMaalika Heritage Residency</h3>
+
+   <div><h3>RangaMaalika Heritage </h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://r1imghtlak.mmtcdn.com/0c73b818425011eead7e0a58a9feac02.jpg" alt="" />
 </div>
@@ -139,7 +138,7 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 </div>
 
 
-   <div><h3>The South Gate By WB Hotels</h3>
+   <div><h3>The South Gate  Hotels</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgp9WRLRRNOCFCAJfAeB10RILRkJReE1Txpw&s" alt="" />
 </div>
@@ -147,23 +146,21 @@ There are also shrines for Rama accompanied by his consort Sita, brother Lakshma
 </div>
 
 
-   <div><h3>Dimora Hotels And Resorts</h3>
+   <div><h3>Dimora Hotels & Resorts</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max200/98623887.jpg?k=e375114e347f746210d441a74b03769f9f711dd9755590d347f8bbfb4b04d5dc&o=&hp=1" alt="" />
 </div>
 <a href="https://www.goibibo.com/hotels/hotel-details/?checkin=20241219&checkout=20241220&roomString=1-2-0&searchText=Dimora%20Hotels%20And%20Resorts&locusId=CTTRV&locusType=city&cityCode=CTTRV&cc=IN&_uCurrency=INR&giHotelId=1591447813543259155&mmtId=201602041140102336">click to view</a>
 </div>
-
-</IMGG>
-
+</div>
 
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
 
-</FOOT>
+<FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
+
 
 </div>
   )

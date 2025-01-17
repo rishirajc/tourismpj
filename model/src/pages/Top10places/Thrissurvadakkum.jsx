@@ -1,26 +1,45 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/vadakkum.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
+`
+
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 `
 const Thrissurvadakkum = () => {
+      useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/0/0f/%E0%B4%B5%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%82%E0%B4%A8%E0%B4%BE%E0%B4%A5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%A4%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%87%E0%B4%97%E0%B5%8B%E0%B4%AA%E0%B5%81%E0%B4%B0%E0%B4%82.jpg" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/QAOBNP2SXW0?si=k6YwIJcCRtmUErDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Sree Vadakkumnathan Temple</h1>
     <p>The Vadakkumnathan Temple is an ancient Hindu temple dedicated to Shiva in Thrissur, in the Thrissur district of Kerala, India. The temple is a classical example of the architectural style of Kerala and has one monumental tower on each of the four sides in addition to a koothambalam. Mural paintings depicting various scenes from the Mahabharata can be seen inside the temple.[1][2][3] The shrines and the Kuttambalam display vignettes carved in wood. The temple, along with the mural paintings, has been declared as a National Monument by India under the AMASR Act.[4] According to popular local lore, this is the first temple built by Parashurama, the sixth avatar of Vishnu. Thekkinkadu Maidan, encircling the Vadakkumnathan Temple, is the main venue of the renowned Thrissur Pooram festival.[1][2]
 
@@ -74,7 +93,7 @@ Thrissur Pooram is called the mother of all Poorams in Kerala. In Malayalam it i
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUy_FqdV0bXJ3WqM-gXHnfU3qnV7GurojdYQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://www.keralatourism.org/images/picture/large/Vadakkumnathan_Temple_Thrissur_1781.jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthpjAOxb3RqCsMBws3u0_rJWmri49vK16Jw&s" alt="" />
@@ -89,47 +108,54 @@ Thrissur Pooram is called the mother of all Poorams in Kerala. In Malayalam it i
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNzsZ7tJGtOlZmnIPz_OCJa7IJc5lnzVPFQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36f7faad-f3fb-434f-b08a-fe1853d69f44_1024x616.jpeg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgCd-NxExnm0C3IKMMtcZSTFY6FwtNVfAGA&s" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/sLZGJV1QvMo77daf7">CLICK TO REVIEW MAP</a>
+</div>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
 
-<h3>Eden Valley Lake View Resort</h3>
+<div>
+<h3>Eden Valley  Resort</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjU21n6y7JFghP2BIyphR_kxIRZ338oWBAw&s" alt="" />
 </div>
 <a href="https://fastrago.in/lander">click to view</a>
+</div>
+<div>
 
-
-<h3>Victory Inn Park Residencyt </h3>
+<h3>Victory Inn Park Residency </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/163835475.jpg?k=1e7cb9c6e253a5a1a1cf9421d35a9a62b2d558f9d9652aad2229b0dad2ab0c7a&o=&hp=1" alt="" />
 </div>
 <a href="https://victoryinnparkresidency.com/">click to view</a>
+</div>
+<div>
 
-
-<h3>KTDC Tamarind Thrissur</h3>
+<h3>KTDC Tamarind </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYthSb6eJ8Cm5EcfUtDjeSaU5l7EwJdTj3HA&s" alt="" />
 </div>
 <a href="https://www.google.com/travel/search?q=resorts%20and%20restaurants%20near%20athirapally%20waterfalls&g2lb=4965990%2C4969803%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72471280%2C72472051%2C72481459%2C72485658%2C72499705%2C72560029%2C72573224%2C72614662%2C72616120%2C72619927%2C72628720%2C72647020%2C72648289%2C72658035%2C72686036%2C72760082%2C72803964%2C72808078%2C72832973&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCAoCCAMKAggDGhwSGhIUCgcI6A8QDBgTEgcI6A8QDBgUGAEyAhAAKgoKCAoBCDoDSU5S&qs=CAEyE0Nnb0l2Y1BsM3JUUnBmNVFFQUU4CkIJEYmCs7wGtEGQQgkRWxOCLiYXM8RCCRH3Y5f5Q88HQ1qAAQgBMnyqAXkQASobIhdyZXNvcnRzIGFuZCByZXN0YXVyYW50cygAMh8QASIbL9URXu6UQb1C822Wqkd7ZoZOS6UXb-Ht7U2MMjcQAiIzcmVzb3J0cyBhbmQgcmVzdGF1cmFudHMgbmVhciBhdGhpcmFwYWxseSB3YXRlcmZhbGxz&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=0CAAQ5JsGahcKEwjQsZv7lbGKAxUAAAAAHQAAAAAQBg">click to view</a>
+</div>
+<div>
 
-
-<h3>Hyatt Regency Thrissur</h3>
+<h3>Hyatt Regency </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/82/11/ea/exterior-day.jpg?w=700&h=-1&s=1" alt="" />
 </div>
-<a href="https://www.hyatt.com/hyatt-regency/en-US/cokrt-hyatt-regency-thrissur">click to view</a>
-
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+<a href="https://www.hyatt.com/hyatt-regency/en-US/cokrt-hyatt-regency-thrissur">click to view</a></div>
+</div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
 </div>
   )

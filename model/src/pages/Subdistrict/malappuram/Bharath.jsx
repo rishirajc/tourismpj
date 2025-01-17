@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import bar from '/src/pages/Subdistrict/malappuram/image/barath.png'
@@ -27,6 +27,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Bharath= () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

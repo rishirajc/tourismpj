@@ -1,26 +1,45 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/waynadwild.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
+`
+
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 `
 const Wyndwlidlife = () => {
+     useEffect(()=>{
+      
+          window.scrollTo(0, 0);
+        },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://upload.wikimedia.org/wikipedia/commons/1/11/Wayanad_Wild_Life_Sanctuary.JPG" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/NNUaugry7bU?si=f2G2TLQO_3tQ1mJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>Wayanad Wildlife Sanctuary</h1>
     <p>Wayanad Wildlife Sanctuary is a wildlife sanctuary in Wayanad, Kerala, India with an extent of 344.44 km2 (132.99 sq mi) and four hill ranges namely Sulthan Bathery, Muthanga, Kurichiat and Tholpetty. A variety of large wild animals such as gaur, Indian elephant, deer and Bengal tiger are found there. There are also quite a few unusual birds in the sanctuary. In particular, Indian peafowl tend to be very common in the area. Wayanad Wildlife Sanctuary is the second largest wildlife sanctuary in Kerala. It is bestowed with lush green forests and rich wildlife. This wildlife area houses some of the rare and endangered species of both flora and fauna.
 
@@ -45,7 +64,7 @@ Wayanad Wildlife Sanctuary harbours different species of vultures like the white
 </p>
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://www.keralatourism.org/images/destination/mobile/wayanad_wildlife_sanctuary20131031122909_283_1.jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuw-ZjD0hpRvEOTeNC5cwvM5HH6GQNA9KPQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://wayanadtourism.co.in/images//tourist-places/wayanad-wildlife-sanctuary/wayanad-wildlife-sanctuary-tourism-entry-ticket-price.jpg" alt="" />
@@ -60,27 +79,36 @@ Wayanad Wildlife Sanctuary harbours different species of vultures like the white
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNgLZOkN4_sfQCAAKtoXzdtwEzfyRiu6XnA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://www.ekeralatourism.net/wp-content/uploads/2016/05/Wayanad-Wildlife-Sanctuary.jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpppfTUvQztb4LOI4FQcqWEivOjU6-leBpNg&s" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
-<a href="https://maps.app.goo.gl/CTiZmJNmjsPk9t5d9">CLICK TO REVIEW MAP</a>
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
+<a href="https://maps.app.goo.gl/CTiZmJNmjsPk9t5d9">CLICK TO REVIEW MAP</a></div>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
+
+<div>
 <h3>
 Emarald Wild West, Wayanad</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwK6d8GHp61iGqqby1rU7FgSvQWxbM3Z5uMw&s" alt="" />
 </div>
 <a href="https://www.emarald.in/wild-west-resort-muthanga">click to view</a>
-
+</div>
+<div>
 
 <h3>wayanad hilltop holiday home </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YpS3ZvXhdfaRoMUpy4skBh6PvSC5K5tYig&s" alt="" />
 </div>
 <a href="https://www.makemytrip.com/hotels/wayanad_hill_top_holiday_home_rooms_pool-details-wayanad.html">click to view</a>
+</div>
+
+<div>
 
 <h3>wayanad fort resort</h3>
 <div>
@@ -88,17 +116,19 @@ Emarald Wild West, Wayanad</h3>
 </div>
 <a href="https://www.google.com/travel/search?q=resort%20and%20restaurant%20near%20wayanad%20wildlife%20sanctuary&g2lb=4965990%2C4969803%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72471280%2C72472051%2C72481459%2C72485658%2C72499705%2C72560029%2C72573224%2C72614662%2C72616120%2C72619927%2C72628720%2C72647020%2C72648289%2C72658035%2C72686036%2C72760082%2C72803964%2C72808078%2C72832973&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCAoCCAMKAggDGhwSGhIUCgcI6A8QDBgUEgcI6A8QDBgVGAEyAhAAKgoKCAoBCDoDSU5S&qs=CAEyFENnc0kwcUhCNnNpSmktbTNBUkFCOApCCREtxdX3Mhr5zEIJEWNIYY6V3eaSQgkRTplreRPd3btagAEIATJ8qgF5EAEqGSIVcmVzb3J0IGFuZCByZXN0YXVyYW50KAAyHxABIhtyFd8Or4NLeblbmR7BKLJpmb8QyJjvIUFmrJMyORACIjVyZXNvcnQgYW5kIHJlc3RhdXJhbnQgbmVhciB3YXlhbmFkIHdpbGRsaWZlIHNhbmN0dWFyeQ&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=0CAAQ5JsGahcKEwj47qXau7GKAxUAAAAAHQAAAAAQEA">click to view</a>
 
+</div>
+<div>
+
 <h3>Sunbird Garden Resort</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gxu1380gmyt8fKZfPDCkfTCuECxMXVqcNw&s" alt="" />
 </div>
 <a href="https://www.sunbirdgarden.com/">click to view</a>
-
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+</div>
+</div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
 </div>
   )

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import thr from '/src/pages/Subdistrict/thrissur/image/kalamand.png'
@@ -38,6 +38,10 @@ flex-wrap: wrap;
   
 `
 const Klalmdlm = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

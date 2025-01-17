@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import img2 from '../images/knr-1735299776503.png'
@@ -36,6 +36,10 @@ const LAST1=styled.div`
   
 `
 const Kannur = () => {
+     useEffect(()=>{
+     
+         window.scrollTo(0, 0);
+       },[])
   return (
  
     <div  >

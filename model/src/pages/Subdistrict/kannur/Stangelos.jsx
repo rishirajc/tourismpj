@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import stf from '/src/pages/Subdistrict/Kannur/image/st fort.png'
@@ -28,6 +28,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Stangelos = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>
@@ -129,7 +133,7 @@ Watch documentaries and reach out to people who have been there</p>
 
 <div  style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
 
-   <div><h3>kannur ocean green home stay</h3>
+   <div><h3>ocean green home stay</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"} src="https://content.jdmagicbox.com/comp/kannur/c9/9999px497.x497.190517003510.e5c9/catalogue/oceangreen-homestay-kannur-hotels-z53jw8xh3n.jpg" alt="" />
 </div>
@@ -138,7 +142,7 @@ Watch documentaries and reach out to people who have been there</p>
 
 
    <div>
-<h3>The Metro Landsend Beach Resort </h3>
+<h3> Landsend Beach Resort </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxehsFCaj3S05tII5IH1RXzG2Fz08zC4z8w&s" alt="" />
 </div>
@@ -154,7 +158,7 @@ Watch documentaries and reach out to people who have been there</p>
 </div>
 
 
-   <div><h3>Townhouse OAK Sadhoo Heritage Resort</h3>
+   <div><h3>Townhouse Resort</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://www.lentlo.com/wp-content/uploads/2023/12/Townhouse-OAK-Sadhoo-Heritage-Resort-1.jpg" alt="" />
 </div>

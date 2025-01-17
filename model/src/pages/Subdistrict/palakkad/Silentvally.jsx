@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import sil from '/src/pages/Subdistrict/palakkad/image/silent.png'
@@ -37,6 +37,10 @@ flex-wrap: wrap;
   
 `
 const Silentvally = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

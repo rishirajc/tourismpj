@@ -1,27 +1,45 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/munnar.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
+
+`
+const IMGBOX=styled.div`
+width: 100%;
 height: 600px;
-background-color: antiquewhite;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
-`
 
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
+`
 const Munnartea = () => {
+      useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://content.r9cdn.net/rimg/dimg/a9/dd/d6b29241-city-44818-166a7453734.jpg?width=1200&height=630&xhint=1600&yhint=1049&crop=true" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/vUDx64AgSNU?si=Nxt7uCwpjdWI19IF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Munnar</h1>
     <p>Munnar (IPA: [muːn̪ːɐːr]) is a town and hill station located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200 ft) above mean sea level,[4] in the Western Ghats mountain range. Munnar is also called the "Kashmir of South India" and is a popular honeymoon destination</p>
    <h3 style={{backgroundColor:"lightgreen"}}>History</h3>
@@ -67,7 +85,7 @@ The nearest airport is Cochin International Airport, which is 110 kilometres (68
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8k4J7upHjdjAMzeDvpp_9iwH5wa1WEI_qfA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://s3.india.com/wp-content/uploads/2024/10/munnar-eco-friendly.jpg##image/jpg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-9SMj_jgoXrUQGl1q3nyz8NTJEZOU33TBA&s" alt="" />
@@ -82,47 +100,52 @@ The nearest airport is Cochin International Airport, which is 110 kilometres (68
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIBGGiP7KrU-O5DgtG0EJf89RyoBF6VIjMA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpc1h0_f7KrQc-n73HVoFcTQ8FQWvxo7RvQg&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPeE2zU7rl_gLO6HLOhRjHbeD-XYX5scHog&s" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/AWcPBdfctFeueeD77">CLICK TO REVIEW MAP</a>
+</div>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
 
+<div>
 <h3>The Leaf Munnar</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XQthlGAKtO9ePFDYSDiapfzlhnXkffq7SQ&s" alt="" />
 </div>
 <a href="https://www.booking.com/hotel/in/the-leaf-munnar.en-gb.html?aid=963523&label=metaskyscan-hotel-1737047_lang-en_curr-INR_clkid-38de251bdc4a4bdbad6a30d6efad9647&sid=4d1f5003b68185b5abb429c67ab5ab2f&all_sr_blocks=173704709_288562994_2_42_0&checkin=2024-12-20&checkout=2024-12-21&dest_id=-2105113&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=173704709_288562994_2_42_0&hpos=1&matching_block_id=173704709_288562994_2_42_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&show_room=173704709&sr_order=popularity&sr_pri_blocks=173704709_288562994_2_42_0__1124900&srepoch=1734533698&srpvid=f0df68dfc986058b&type=total&ucfs=1&#RD173704709">click to view</a>
-
-
+</div>
+<div>
 <h3>Windale Resort </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://r1imghtlak.mmtcdn.com/edfe8c7685fd11eaa9f20242ac110002.jpg" alt="" />
 </div>
 <a href="https://serviettehotels.com/property/windale-family-resort-pooppara/">click to view</a>
-
-
+</div>
+<div>
 <h3>juSTa Rangers Munnar</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSGmtZaoUArkJeDmPjDDRhFQ0xeJGtH6J0Vw&s" alt="" />
 </div>
 <a href="https://www.justahotels.com/justa-rangers-munnar-foothills/">click to view</a>
-
-
-<h3>Treebo Windsong Resort Munnar</h3>
+</div>
+<div>
+<h3>Treebo Windsong Resort </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYGkXdXgUmL_PmaZSfJDbFNFXBM_RORO7fw&s" alt="" />
 </div>
 <a href="https://www.treebo.com/hotels-in-munnar/treebo-windsong-resort-munnar-anachal-4068/?checkin=2024-12-21&checkout=2024-12-23&hotel_id=4068&rateplan=EP&roomconfig=2-0&roomtype=oak&utm_campaign=gmblisting&utm_medium=gmb&utm_source=partnerships">click to view</a>
+</div>
+</div>
+<FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
 
 </div>
   )

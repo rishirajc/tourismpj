@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import pat from '/src/pages/Subdistrict/pathanamtitta/image/sabari.png'
@@ -38,6 +38,10 @@ flex-wrap: wrap;
 `
 
 const Sabarimala = () => {
+    useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>

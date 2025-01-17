@@ -8,6 +8,7 @@ export const LOGIN1=async(data,dispatch)=>{
         const logdata=await axios.post('http://localhost:8000/authrouter/login',data)
         console.log("third",logdata.data);
         dispatch(addtoUserdata(logdata.data))
+        return logdata.data
         
     } catch (error) {
         res.status(500).json(error)
@@ -42,10 +43,26 @@ export const GETDATAS=async(id)=>{
     }
 }
 export const UPDATE=async(id,data)=>{
+    console.log("seond",data);
+    
     try {
         const updateinfos=await axios.put(`http://localhost:8000/router/update/${id}`,data)
-        console.log("updatess3",updateinfos.data);
+        console.log("third",updateinfos.data);
         return updateinfos.data
+        
+    } catch (error) {
+        console.log(error);
+        
+        
+    }
+}
+export const GETOTPE=async(data)=>{
+    console.log("seond",data);
+    
+    try {
+        const getinfo=await axios.put('http://localhost:8000/router/otpemail',data)
+        console.log("third",getinfo.data);
+        return getinfo.data
         
     } catch (error) {
         console.log(error);

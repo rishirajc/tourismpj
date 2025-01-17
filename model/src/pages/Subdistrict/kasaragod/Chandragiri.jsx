@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import cha from '/src/pages/Subdistrict/kasaragod/image/chandragiri.png'
+import fot from "/src/image/footok.png"
 
 const IMGBOX=styled.div`
 width: 100%;
@@ -10,6 +10,14 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+`
+const FIN=styled.div`
+height: 250px;
+background-color: #0087fd;
 
 `
 const IMG=styled.div`
@@ -18,15 +26,15 @@ height: 400px;
 background-color: antiquewhite;
 border-radius: 14px;
 box-shadow: 1px 1px 20px rgb(202, 189, 189);
+margin-left: 36%;
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
-`
+
 const Chandragiri = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div style={{width:"100%",height:"600px"}}>
@@ -110,10 +118,6 @@ As per the Malayalam works like Keralolpathi and Sangam literature in Tamil, thi
 During World War I, a large number of Tulu speaking people migrated from undivided South Canara district to other provinces (regions). The next set of emigration was during World War II and this time they settled in interior parts of Karnataka and coastal areas of Andhra Pradesh. Even today Tulu is widely spoken in the Dakshina Kannada, Udupi district and Uttara Kannada districts of Karnataka state and Kasaragod of Kerala. Efforts are also being made to include Tulu in the list of official languages of India.
 </p>
 
-<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
-</div>
-<Link to={'/ticket'}> <button style={{backgroundColor:"green",marginLeft:"50px"}} >click here</button></Link>
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
@@ -135,13 +139,13 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 </IMGBOX>
 <h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
 
-<IMG><img src={cha}  width={'400px'} height={'400px'} alt="" /></IMG>
+<IMG><img src={cha}  width={'400px'} height={'400px'} alt="" />
 <a href="https://maps.app.goo.gl/KRYtaptXQUjVVS1j9">CLICK TO REVIEW MAP</a>
 
+</IMG>
+<h1 style={{backgroundColor:"lightgreen",marginTop:"35px"}}>POPULAR RESORT NEARBY</h1>
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
-
-<div  style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
+<div  style={{width:"100%",height:"300px",backgroundColor:"lightgreen",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
 
    <div><h3>Bekal Fort Resort</h3>
 <div>
@@ -152,7 +156,7 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 
 
    <div>
-<h3>Sree Gokulam Nalanda Resorts </h3>
+<h3> Nalanda Resorts </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxehsFCaj3S05tII5IH1RXzG2Fz08zC4z8w&s" alt="" />
 </div>
@@ -160,7 +164,7 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 </div>
 
 
-   <div><h3>Malabar Ocean Front Resort and Spa, Bekal</h3>
+   <div><h3>Malabar Ocean Front Resort</h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/311940297.jpg?k=fc4c580550c73c4a39984c59822d5d094313245842e44a4c3ac1f883c11a2d98&o=&hp=1" alt="" />
 </div>
@@ -168,7 +172,7 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 </div>
 
 
-   <div><h3>Royal Heritage Bekal</h3>
+   <div><h3>Royal Heritage </h3>
 <div>
 <img  style={{borderRadius:'18px'}} width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTirYCYbFv05p1gclwwFbseF8ABhJy2upuYA&s" alt="" />
 </div>
@@ -183,11 +187,10 @@ During World War I, a large number of Tulu speaking people migrated from undivid
 
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+ <FIN>
+   
+          <img className="imgfot" src={fot} alt="" />
+              </FIN>
 
 </div>
   )

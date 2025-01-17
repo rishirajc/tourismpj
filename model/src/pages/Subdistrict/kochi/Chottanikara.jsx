@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import bol from '/src/pages/Subdistrict/kochi/image/chotani.png'
@@ -38,6 +38,10 @@ flex-wrap: wrap;
   
 `
 const Chottanikara = () => {
+    useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>

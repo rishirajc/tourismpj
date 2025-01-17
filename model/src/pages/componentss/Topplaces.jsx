@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from "styled-components"
 import fot from "/src/image/foot.png"
@@ -46,6 +46,10 @@ justify-content: center;
 `
 
 const Topplaces = () => {
+     useEffect(()=>{
+     
+         window.scrollTo(0, 0);
+       },[])
   return (
     <MAIN>
       <NAV>

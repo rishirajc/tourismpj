@@ -55,8 +55,6 @@ import Kadalundi from "./pages/Subdistrict/kozikode/Kadalundi"
 import Kappad from "./pages/Subdistrict/kozikode/Kappad"
 import Kozikodbeach from "./pages/Subdistrict/kozikode/Kozikodbeach"
 import Manachira from "./pages/Subdistrict/kozikode/Manachira"
-import Pazassi from "./pages/Subdistrict/kozikode/pazassi"
-import Smstreet from "./pages/Subdistrict/kozikode/smstreet"
 import Bharath from "./pages/Subdistrict/malappuram/Bharath"
 import Adayan from "./pages/Subdistrict/malappuram/Adayanpara"
 import Kerlmkund from "./pages/Subdistrict/malappuram/Kerlmkund"
@@ -93,7 +91,6 @@ import Vaikom from "./pages/Subdistrict/kottayam/Vaikom"
 import Alappybch from "./pages/Subdistrict/alapuza/Alappybch"
 import Chettikiulangara from "./pages/Subdistrict/alapuza/Chettikiulangara"
 import Houaeboat from "./pages/Subdistrict/alapuza/Houaeboat"
-import Koirmusem from "./pages/Subdistrict/alapuza/koirmusem"
 import Krishnpuram from "./pages/Subdistrict/alapuza/Krishnpuram"
 import Revimusum from "./pages/Subdistrict/alapuza/Revimusum"
 import Gavi from "./pages/Subdistrict/pathanamtitta/Gavi"
@@ -118,7 +115,9 @@ import Forgotpsw from "./pages/componentss/Forgotpsw"
 import Otp from "./pages/componentss/Otp"
 import Wildlyf from "./pages/Subdistrict/idukki/Wildlyf"
 import Logout from "./pages/componentss/Logout"
-
+import Pazassi from "./pages/Subdistrict/kozikode/Pazassi"
+import Smstreet from "./pages/Subdistrict/kozikode/Smstreet"
+import Koirmusem from "./pages/Subdistrict/alapuza/Koirmusem"
 function app(){
 
   const localstoragevlue=useSelector((state)=>state.login.loginData)
@@ -199,7 +198,7 @@ function app(){
       element:localstoragevlue?. jswtoken ?<NameUpdt/>:<Loginpage/>
      },{
       path:"/password",
-      element:localstoragevlue?.jswtoken?<PswdUpdt/>:<Loginpage/>
+      element:<PswdUpdt/>
      },{
       path:'/periyar',
       element:localstoragevlue?. jswtoken ?<Periyarnatlpark/>:<Loginpage/>

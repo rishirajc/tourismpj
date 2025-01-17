@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {  useState } from 'react'
 import '../login.css'
 import { Link } from 'react-router-dom'
 import { LOGIN1 } from '../Api'
@@ -15,6 +15,9 @@ function display(){
   LOGIN1({Email,Password},dispatch)
 }
 
+
+  
+
   return (
     
   
@@ -26,7 +29,7 @@ function display(){
     <div className='login'>
     <form >
   <h1 className='log'>LOG IN</h1>
-  <label className="labe">username</label>
+  <label  className="labe">username</label>
   <input className="use" type="text" onChange={(e)=>setemail(e.target.value)} />
   <label className="labe">password</label>
   <input className="use" type="password" onChange={(e)=>setpassword(e.target.value)}/>

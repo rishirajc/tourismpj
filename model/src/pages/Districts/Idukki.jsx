@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import img9 from '../images/idukki1735300345912.png'
 import { Link } from 'react-router-dom'
@@ -35,6 +35,10 @@ const LAST1=styled.div`
     `
 
 const Idukki = () => {
+     useEffect(()=>{
+     
+         window.scrollTo(0, 0);
+       },[])
   return (
     <div>
       <div  style={{width:"100%",height:"600px"}}>

@@ -13,93 +13,70 @@
     border-radius: 7px;
 }
 
-.name1{
-    font-size: 27px;
-    font-family: math;
-    margin-left: 24px;
-    color: aliceblue;
-}
+
 .name2{
-    position: relative;
-    top: -36px;
-    font-size: 27px;
+
+
+
     font-family: math;
-    left: 85px;
+ 
     color: #9d0a0a;
 }
 .email{
-    margin-top: -46px;
-    font-size: 27px;
-    font-family: math;
-    margin-left: 24px;
 
-    color: aliceblue;
 
-}
-.email1{
-    position: relative;
-    top: -36px;
-    font-size: 27px;
     font-family: math;
-    left: 90px;
+  
+
     color: #9d0a0a;
-}
-.mob{
-    margin-top: -46px;
-    font-size: 27px;
-    font-family: math;
-    margin-left: 24px;
 
-    color: aliceblue;
 }
+
+
 .mob1{
-    position: relative;
-    top: -36px;
-    font-size: 27px;
+ 
     font-family: math;
-    left: 108px;
+  
     color: #9d0a0a;
 }
-.place{
-    margin-top: -46px;
-    font-size: 27px;
-    font-family: math;
-    margin-left: 24px;
 
-    color: aliceblue;
-}
 .place1{
-    position: relative;
-    top: -36px;
-    font-size: 27px;
+ 
     font-family: math;
-    left: 92px;
+
     color: #9d0a0a;
 }
-.age{
-    margin-top: -46px;
-    font-size: 27px;
-    font-family: math;
-    margin-left: 24px;
 
-    color: aliceblue;
-
-}
 .age1{
-    position: relative;
-    top: -36px;
-    font-size: 27px;
+
     font-family: math;
-    left: 64px;
+
     color: #9d0a0a;
 }
 .edit{
-    box-shadow: 0px 0px 15px #131e2d;
+    box-shadow: 0px 0px 5px #486895;
     border-radius: 4px;
-    font-size: 21px;
+ 
     background-color: #2986db;
-    left: 127px;
-    top: -31px;
-    position: relative;
+  
+
+    font-family: "math";
+}
+.delt{
+ 
+    border-radius: 4px;
+ 
+    background-color: #2986db;
+  
+
+    font-family: "math";
+}
+.hai{
+
+    border-radius: 4px;
+ 
+    background-color: #2986db;
+  
+
     font-family: "math";
 }

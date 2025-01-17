@@ -1,26 +1,45 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import rani from '/src/pages/Top10places/image/athira.png'
+import fot from "/src/image/footok.png"
 
 
 const IMG=styled.div`
-width: 600px;
-height: 600px;
-background-color: antiquewhite;
+width: 400px;
+height: 400px;
+border-radius: 14px;
+box-shadow: 1px 1px 20px rgb(202, 189, 189);
+
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-top: 254px;
+const IMGBOX=styled.div`
+width: 100%;
+height: 600px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+
+`
+
+const FIN=styled.div`
+margin-top:-20px;
+height: 250px;
+background-color: #0087fd;
 `
 const Athirapally = () => {
+    useEffect(()=>{
+  
+      window.scrollTo(0, 0);
+    },[])
   return (
     <div>
     <div>
-        <img width={"100%"} height={"600px"} src="https://ik.imagekit.io/yfnz71p9w/wp-content/uploads/2022/04/athirappilly-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg" alt="" />
-    </div>
+    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/EcawSaPMFVY?si=nARLPyF_1p9u7_Y-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
     <h1 style={{backgroundColor:"lightgreen"}}>About Athirapally Falls</h1>
     <p>Athirapilly Falls is situated in the border of Kuttampuzha Panchayat in Aluva Taluk, of Ernakulam District and Athirapilly Panchayat in Chalakudy Taluk of Thrissur District in Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges. It is the largest waterfall in Kerala, which stands tall at 81.5 feet. Just a short drive from Athirapilly is the Vazhachal Falls, which is close to dense green forests that are home to many endangered and endemic species of flora and fauna.
 
@@ -49,7 +68,7 @@ On 29 January 2011, the chairman of the Western Ghats Ecology Expert Panel (WGEE
 
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
-<div>
+<IMGBOX>
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFZk_EnnJ7TeIxcZNGOpM4CnKjhwzpTEoLQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://ik.imagekit.io/yfnz71p9w/wp-content/uploads/2022/04/athirappilly-kerala-tourism-entry-fee-timings-holidays-reviews-header.jpeg" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEhe84ymkVkGocEErcOv1ygEM7sG6pH0UBQ&s" alt="" />
@@ -64,42 +83,58 @@ On 29 January 2011, the chairman of the Western Ghats Ecology Expert Panel (WGEE
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvJBpPbXVdpDQkDfEbC2iwFkK4F2YKqrqAA&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JROADTjYmG_I-QQIlneLHkh647ABbZ_vAQ&s" alt="" />
 <img width={"200px"} height={"200px"} src="https://imgmedia.lbb.in/media/2019/04/5cb5829e8241196c042b7808_1555399326159.jpg" alt="" />
-</div>
-<h1 style={{backgroundColor:"lightgreen"}}>ROUTE MAP</h1>
+</IMGBOX>
+<h1 style={{marginLeft:"41%"}}>ROUTE MAP</h1>
 
-<IMG>IMAGE</IMG>
+<div  style={{marginLeft:"36%"}}>
+
+<IMG><img  src={rani} width={"400px"} height={"400px"}  alt="" /></IMG>
 <a href="https://maps.app.goo.gl/qcd7CendBHReguXK6">CLICK TO REVIEW MAP</a>
+</div>
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{marginLeft:"34%"}}>POPULAR RESORT NEARBY</h1>
+<div style={{width:"100%",height:"340px",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px",backgroundColor:"lightgreen"}}>
+
+<div>
 <h3>Rainland Resort Athirappilly</h3>
 <div>
 <img width={"180px"} height={"180px"} src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/90/5f/f9/caption.jpg?w=700&h=-1&s=1" alt="" />
 </div>
 <a href="https://rainlandathirappilly.com/">click to view</a>
+</div>
+
+<div>
+
 <h3>Riverine Suites Resort </h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtmv7hqsxUDoQqsM72ONuS0R2CoolkSOR4aQgiZ-gfP6MpxA9H7rkZkUrxb5yT8HG1NE&usqp=CAU" alt="" />
 </div>
 <a href="https://riverinesuites.com/">click to view</a>
+</div>
+
+<div>
+
 
 <h3>Bethania Resorts Athirappilly</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYthSb6eJ8Cm5EcfUtDjeSaU5l7EwJdTj3HA&s" alt="" />
 </div>
 <a href="https://www.google.com/travel/search?q=resorts%20and%20restaurants%20near%20athirapally%20waterfalls&g2lb=4965990%2C4969803%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72471280%2C72472051%2C72481459%2C72485658%2C72499705%2C72560029%2C72573224%2C72614662%2C72616120%2C72619927%2C72628720%2C72647020%2C72648289%2C72658035%2C72686036%2C72760082%2C72803964%2C72808078%2C72832973&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCAoCCAMKAggDGhwSGhIUCgcI6A8QDBgTEgcI6A8QDBgUGAEyAhAAKgoKCAoBCDoDSU5S&qs=CAEyE0Nnb0l2Y1BsM3JUUnBmNVFFQUU4CkIJEYmCs7wGtEGQQgkRWxOCLiYXM8RCCRH3Y5f5Q88HQ1qAAQgBMnyqAXkQASobIhdyZXNvcnRzIGFuZCByZXN0YXVyYW50cygAMh8QASIbL9URXu6UQb1C822Wqkd7ZoZOS6UXb-Ht7U2MMjcQAiIzcmVzb3J0cyBhbmQgcmVzdGF1cmFudHMgbmVhciBhdGhpcmFwYWxseSB3YXRlcmZhbGxz&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=0CAAQ5JsGahcKEwjQsZv7lbGKAxUAAAAAHQAAAAAQBg">click to view</a>
+</div>
+
+<div>
 
 <h3>Ambady Resort</h3>
 <div>
 <img width={"180px"} height={"180px"}  src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4b/a0/05/amabdy-resort-pool-view.jpg?w=700&h=-1&s=1" alt="" />
 </div>
 <a href="https://www.tripadvisor.in/Hotel_Review-g2289004-d9877745-Reviews-Ambady_Resort-Athirappilly_Thrissur_District_Kerala.html#/media/9877745/777702798:p/?albumid=101&type=0&category=101">click to view</a>
-
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
-
-</FOOT>
+</div>
+</div>
+ <FIN>
+  <img className="imgfot" src={fot} alt="" />
+   </FIN>
 
 </div>
   )

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import eda from '/src/pages/Subdistrict/waynad/image/edakkl.png'
@@ -29,6 +29,10 @@ const FOOT=styled.div`
     padding-top: 254px;
 `
 const Edaykkal = () => {
+   useEffect(()=>{
+   
+       window.scrollTo(0, 0);
+     },[])
   return (
     <div>
     <div>

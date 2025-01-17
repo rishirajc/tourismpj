@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import mang from '/src/pages/Subdistrict/palakkad/image/mangal.png'
@@ -38,6 +38,10 @@ flex-wrap: wrap;
 `
 
 const Mnagldam = () => {
+    useEffect(()=>{
+    
+        window.scrollTo(0, 0);
+      },[])
   return (
     <div>
     <div>

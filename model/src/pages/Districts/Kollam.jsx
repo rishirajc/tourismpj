@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import img13 from '../images/kollam-1735300390320.png'
 import { Link } from 'react-router-dom'
@@ -36,6 +36,10 @@ const LAST1=styled.div`
   
 `
 const Kollam = () => {
+     useEffect(()=>{
+     
+         window.scrollTo(0, 0);
+       },[])
   return (
     <div>
 

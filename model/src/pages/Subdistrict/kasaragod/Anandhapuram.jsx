@@ -1,8 +1,7 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
-import Button from 'react-bootstrap/Button';
-import { Link } from 'react-router-dom';
 import ana from '/src/pages/Subdistrict/kasaragod/image/anandha.png'
+import fot from "/src/image/footok.png"
 
 const IMG=styled.div`
 width: 400px;
@@ -20,15 +19,22 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+transition: transform 5s ease;
+  :hover {
+    transform: scale(0.9);
+  }
+`
+const FIN=styled.div`
+height: 250px;
+background-color: #0087fd;
 
 `
-const FOOT=styled.div`
-    width: 100%;
-    height: 117px;
-    background-color: antiquewhite;
-    padding-top: 254px;
-`
 const Anandhapuram = () => {
+
+  useEffect(()=>{
+  
+      window.scrollTo(0, 0);
+    },[])
   return (
     <div style={{width:"100%",height:"600px"}} >
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/0fXiGMlzgXw?si=fxFgyYGLVu9x9CG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div>
@@ -62,11 +68,6 @@ The temple is open to all regardless of religion or caste. The nearest major rai
 </div>
 
 
-<div style={{fontSize:"30px",color:"red",marginBottom:"10px"}}>
-<marquee behavior="scroll" width="100%" scrollamount="5" direction="right" >CHECK YOUR TICKET ONLINE(click here)</marquee>
-</div>
-<Link to={'/ticket'}><Button style={{backgroundColor:"green",marginLeft:"50px"}} variant="success">click here</Button></Link> 
-
 
 <h1 style={{backgroundColor:"lightgreen"}}>PHOTOS</h1>
 <IMGBOX>
@@ -89,7 +90,7 @@ The temple is open to all regardless of religion or caste. The nearest major rai
 
 
 <div>
-<div>
+<div style={{marginLeft:"36%"}}>
 <IMG><img src={ana}  width={'400px'} height={'400px'} alt="" /></IMG>
 <a href="https://maps.app.goo.gl/TPW2pxtQAyt4Lytn8">CLICK TO REVIEW MAP</a>
 </div>
@@ -98,9 +99,9 @@ The temple is open to all regardless of religion or caste. The nearest major rai
 
 
 
-<h1 style={{backgroundColor:"lightgreen"}}>POPULAR RESORT NEARBY</h1>
+<h1 style={{backgroundColor:"lightgreen",marginTop:"22px"}}>POPULAR RESORT NEARBY</h1>
 
-<div style={{width:"100%",height:"300px",backgroundColor:"red",display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
+<div style={{width:"100%",height:"300px",backgroundColor:"lightgreen", display:'flex',alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",paddingLeft:"25px"}}>
 <div style={{width:"250px"}}>
 <h3>Iman Beach Resort</h3>
 <div>
@@ -137,11 +138,11 @@ Meezan beach resort </h3>
 </div>
 
 
-<FOOT>
-<h2>contact us for more info 9656756476</h2>
-<h4>tourismkerala@gmail.com</h4>
 
-</FOOT>
+ <FIN>
+   
+          <img className="imgfot" src={fot} alt="" />
+              </FIN>
 
 </div>
   )
