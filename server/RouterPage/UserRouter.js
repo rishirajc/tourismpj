@@ -14,12 +14,12 @@ const storage1 = multer.diskStorage({
 
 
 const router=require('express').Router()
-router.post('/postdata',POST)
-router.get('/getdata/:id', GET)
-router.put('/update/:id',UPDATE)
-router.delete('/delete/:id',DELETE)
-router.post('/otp',Otp)
+router.post('/postdata',verify, POST)
+router.get('/getdata/:id',verify, GET)
+router.put('/update/:id',verify,UPDATE)
+router.delete('/delete/:id',verify,DELETE)
+router.post('/otp',verify,Otp)
 router.post('/img',upload.single('Image'), imageupoad)
-router.get('/otpverify',forgotpassword)
-router.get('/otpemail',GETOTP)
+router.get('/otpverify',verify,forgotpassword)
+router.get('/otpemail',verify,GETOTP)
 module.exports=router

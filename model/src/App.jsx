@@ -118,6 +118,7 @@ import Logout from "./pages/componentss/Logout"
 import Pazassi from "./pages/Subdistrict/kozikode/Pazassi"
 import Smstreet from "./pages/Subdistrict/kozikode/Smstreet"
 import Koirmusem from "./pages/Subdistrict/alapuza/Koirmusem"
+import Samp from "./pages/componentss/Samp"
 function app(){
 
   const localstoragevlue=useSelector((state)=>state.login.loginData)
@@ -491,6 +492,9 @@ function app(){
      },{
       path:'/out',
       element:<Logout/>
+     },{
+      path:"/samp",
+      element:localstoragevlue?. jswtoken ?<Samp></Samp>:<Loginpage/>
      }
 
   ])

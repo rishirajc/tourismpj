@@ -111,6 +111,7 @@ const Profile = () => {
           </Modal.Footer>
         </Modal>
       </MAIN>
+     <Link to={'/samp'}> <button>sample</button></Link>
     </div>
   );
 };
